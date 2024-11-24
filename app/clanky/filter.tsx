@@ -35,10 +35,8 @@ interface FilterPostsProps {
 }
 
 export default function FilterPosts({
-  authors,
   tags,
   categories,
-  selectedAuthor,
   selectedTag,
   selectedCategory,
 }: FilterPostsProps) {
@@ -52,11 +50,11 @@ export default function FilterPosts({
     } else {
       newParams.set(type, value);
     }
-    router.push(`/posts?${newParams.toString()}`);
+    router.push(`/clanky?${newParams.toString()}`);
   };
 
   const handleResetFilters = () => {
-    router.push("/posts");
+    router.push("/clanky");
   };
 
   return (
@@ -66,10 +64,10 @@ export default function FilterPosts({
         onValueChange={(value) => handleFilterChange("tag", value)}
       >
         <SelectTrigger>
-          <SelectValue placeholder="All Tags" />
+          <SelectValue placeholder="Všetky značky" />
         </SelectTrigger>
         <SelectContent>
-          <SelectItem value="all">All Tags</SelectItem>
+          <SelectItem value="all">Všetky značky</SelectItem>
           {tags.map((tag) => (
             <SelectItem key={tag.id} value={tag.id.toString()}>
               {tag.name}
@@ -83,10 +81,10 @@ export default function FilterPosts({
         onValueChange={(value) => handleFilterChange("category", value)}
       >
         <SelectTrigger>
-          <SelectValue placeholder="All Categories" />
+          <SelectValue placeholder="Všetky kategórie" />
         </SelectTrigger>
         <SelectContent>
-          <SelectItem value="all">All Categories</SelectItem>
+          <SelectItem value="all">Všetky kategórie</SelectItem>
           {categories.map((category) => (
             <SelectItem key={category.id} value={category.id.toString()}>
               {category.name}
@@ -95,7 +93,7 @@ export default function FilterPosts({
         </SelectContent>
       </Select>
 
-      <Select
+ {   /*   <Select
         value={selectedAuthor || "all"}
         onValueChange={(value) => handleFilterChange("author", value)}
       >
@@ -110,10 +108,10 @@ export default function FilterPosts({
             </SelectItem>
           ))}
         </SelectContent>
-      </Select>
+      </Select> */ }
 
       <Button variant="outline" onClick={handleResetFilters}>
-        Reset Filters
+        Resetovať filter
       </Button>
     </div>
   );

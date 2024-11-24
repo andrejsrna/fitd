@@ -13,7 +13,7 @@ import {
 export default async function PostCard({ post }: { post: Post }) {
   const media = await getFeaturedMediaById(post.featured_media);
   const author = await getAuthorById(post.author);
-  const date = new Date(post.date).toLocaleDateString("en-US", {
+  const date = new Date(post.date).toLocaleDateString("sk-SK", {
     month: "long",
     day: "numeric",
     year: "numeric",
@@ -22,7 +22,7 @@ export default async function PostCard({ post }: { post: Post }) {
 
   return (
     <Link
-      href={`/posts/${post.slug}`}
+      href={`/clanky/${post.slug}`}
       className={cn(
         "border p-4 bg-accent/30 rounded-lg group flex justify-between flex-col not-prose gap-8",
         "hover:bg-accent/75 transition-all"
