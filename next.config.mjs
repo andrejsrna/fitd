@@ -14,7 +14,7 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: '/:slug', // Pôvodná cesta s dynamickým segmentom
+        source: '/:slug((?!admin.fitdoplnky.sk).*)', // Vylúči cesty začínajúce na /api a /clanky
         destination: '/clanky/:slug', // Nová cesta s rovnakým segmentom
         permanent: true, // Nastavenie 301 presmerovania
       },
