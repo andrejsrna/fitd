@@ -10,7 +10,16 @@ const nextConfig = {
         pathname: "/**",
       },
     ],
-  }
+  }, 
+  async redirects() {
+    return [
+      {
+        source: '/:slug', // Pôvodná cesta s dynamickým segmentom
+        destination: '/clanky/:slug', // Nová cesta s rovnakým segmentom
+        permanent: true, // Nastavenie 301 presmerovania
+      },
+    ]
+  },
   };
 
 export default nextConfig;
