@@ -10,6 +10,11 @@ export function middleware(request) {
     return NextResponse.next()
   }
 
+   if (pathname.startsWith('/clanky') || pathname.startsWith('/pages')) {
+    console.log('Skipping redirect for /clanky or /api')
+    return NextResponse.next()
+  }
+
   // Presmerovať len cesty s jedným segmentom (napr. /moj-clanok)
   const slugMatch = /^\/([^\/]+)$/.exec(pathname)
   if (slugMatch) {
