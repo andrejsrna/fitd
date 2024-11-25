@@ -5,7 +5,7 @@ export type PaginationItem = number | 'LEFT_ELLIPSIS' | 'RIGHT_ELLIPSIS';
 interface PaginationRangeProps {
   currentPage: number;
   totalPages: number;
-  siblingCount?: number; // Number of pages to show on each side of current page
+  siblingCount?: number; // Počet stránok na každej strane aktuálnej stránky
 }
 
 export function getPaginationRange({
@@ -15,7 +15,7 @@ export function getPaginationRange({
 }: PaginationRangeProps): PaginationItem[] {
   const totalPageNumbers = siblingCount * 2 + 5;
 
-  // If the total number of pages is less than the page numbers we want to show, return the range [1..totalPages]
+  // Ak je celkový počet stránok menší alebo rovný ako maximálny počet viditeľných stránok, zobraz všetky
   if (totalPageNumbers >= totalPages) {
     return Array.from({ length: totalPages }, (_, i) => i + 1);
   }
@@ -55,5 +55,6 @@ export function getPaginationRange({
 
   paginationRange.push(lastPageIndex);
 
-  return paginationRange;
+  // Odstránenie duplicitných hodnôt
+  return Array.from(new Set(paginationRange));
 }
