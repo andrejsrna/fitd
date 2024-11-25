@@ -13,7 +13,7 @@ export default async function Page() {
         <h2>Všetky stránky</h2>
         <div className="grid">
           {pages.map((page: any) => (
-            <Link key={page.id} href={`pages/${page.slug}`}>
+            <Link key={page.id} href={`stranky/${page.slug}`}>
               {page.title.rendered}
             </Link>
           ))}
