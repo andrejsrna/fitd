@@ -50,14 +50,9 @@ export default async function Page({ params }: { params: { slug: string } }) {
         <div className="flex justify-between items-center gap-4 text-sm mb-4">
           <h5>
             Publikované {date}
-            {author.name && (
-              <span>
-                <a href={`/posts/?author=${author.id}`}>{author.name}</a>{" "}
-              </span>
-            )}
           </h5>
           <Link
-            href={`/posts/?category=${category.id}`}
+            href={`/clanky/?category=${category.id}`}
             className={cn(badgeVariants({ variant: "outline" }), "not-prose")}
           >
             {category.name}
