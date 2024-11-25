@@ -3,7 +3,6 @@
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
 import { ThemeProvider } from "@/components/theme/theme-provider";
-import { Analytics } from "@vercel/analytics/react";
 
 import "./globals.css";
 
@@ -64,7 +63,6 @@ export default function RootLayout({
           <Main>{children}</Main>
           <Footer />
         </ThemeProvider>
-        <Analytics />
       </body>
     </html>
   );
