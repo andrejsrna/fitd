@@ -87,9 +87,9 @@ export default async function Page({
                     page === totalPages ? "pointer-events-none text-muted" : ""
                   }
                   href={`/clanky?page=${Math.min(page + 1, totalPages)}${
-                    category ? `&category=${category}` : ""
+                    category ? `&kategorie=${category}` : ""
                   }${author ? `&author=${author}` : ""}${
-                    tag ? `&tag=${tag}` : ""
+                    tag ? `&znacky=${tag}` : ""
                   }`}
                 />
               </PaginationItem>
