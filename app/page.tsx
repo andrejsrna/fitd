@@ -1,5 +1,6 @@
 // Craft Imports
 import { Section, Container } from "@/components/craft";
+import { AboutUs } from "@/components/AboutUs";
 import Balancer from "react-wrap-balancer";
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
@@ -10,12 +11,14 @@ export default function Home() {
       <Container>
         <MainContent />
       </Container>
+      <AboutUs/>
     </Section>
   );
 }
 
 const MainContent = () => {
   return (
+    <div>
     <article className="prose-m-none text-center">
       <h1 className="text-4xl font-bold mb-6">
         <Balancer>
@@ -32,5 +35,7 @@ const MainContent = () => {
                 </Link>
               </Button>
     </article>
+                  </div>
+
   );
 }
