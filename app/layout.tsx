@@ -1,4 +1,4 @@
-// layout.tsx
+// app/layout.tsx
 
 import type { Metadata } from "next";
 import { Inter as FontSans } from "next/font/google";
@@ -22,10 +22,8 @@ import Link from "next/link";
 
 import { cn } from "@/lib/utils";
 
-// Import necessary modules for Google Analytics and cookie consent
-import Script from 'next/script';
-import { useState } from 'react';
-import CookieConsent from "react-cookie-consent"; // Install this package
+// Import the AnalyticsProvider
+import AnalyticsProvider from "@/components/AnalyticsProvider";
 
 const fontSans = FontSans({
   subsets: ["latin"],
@@ -47,9 +45,6 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  // State to manage whether analytics is enabled
-  const [analyticsEnabled, setAnalyticsEnabled] = useState(false);
-
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
@@ -62,35 +57,9 @@ export default function RootLayout({
           enableSystem
           disableTransitionOnChange
         >
-          {/* Google Analytics Scripts */}
-          {analyticsEnabled && (
-            <>
-              <Script
-                src={`https://www.googletagmanager.com/gtag/js?id=G-DVH285RDFB`}
-                strategy="afterInteractive"
-              />
-              <Script id="google-analytics" strategy="afterInteractive">
-                {`
-                  window.dataLayer = window.dataLayer || [];
-                  function gtag(){dataLayer.push(arguments);}
-                  gtag('js', new Date());
-                  gtag('config', 'G-DVH285RDFB', { anonymize_ip: true });
-                `}
-              </Script>
-            </>
-          )}
+          {/* Include the AnalyticsProvider */}
+          <AnalyticsProvider />
 
-          {/* Cookie Consent Banner */}
-          <CookieConsent
-            onAccept={() => setAnalyticsEnabled(true)}
-            enableDeclineButton
-            declineButtonText="Odmietnuť"
-            buttonText="Prijať"
-          >
-            Tento web používa cookies na zlepšenie vášho zážitku. Môžete prijať alebo odmietnuť sledovacie cookies.
-          </CookieConsent>
-
-          {/* Rest of your components */}
           <Nav />
           <Main>{children}</Main>
           <Footer />
@@ -100,6 +69,9 @@ export default function RootLayout({
     </html>
   );
 }
+
+// Rest of your components (Nav, Footer) remain unchanged
+
 
 const Nav = ({ className, children, id }: NavProps) => {
   return (
