@@ -92,7 +92,9 @@
     /* Firefox */
   }
 }
-
+p {
+  margin-top: 15px !important;
+}
 .fade-in {
   -webkit-animation: fade-in 500ms cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
   animation: fade-in 500ms cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
