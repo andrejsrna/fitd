@@ -52,10 +52,10 @@ const PaginationComponent: React.FC<PaginationComponentProps> = ({
         {paginationRange.map((pageNumber, index) => {
           if (pageNumber === 'LEFT_ELLIPSIS' || pageNumber === 'RIGHT_ELLIPSIS') {
             return (
-              <UI_PaginationItem key={index}>
-                <PaginationEllipsis />
-              </UI_PaginationItem>
-            );
+                <UI_PaginationItem key={`ellipsis-${index}`}>
+                  <PaginationEllipsis />
+                </UI_PaginationItem>
+              );
           }
 
           return (
