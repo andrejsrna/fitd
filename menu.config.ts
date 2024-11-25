@@ -3,11 +3,11 @@ export const mainMenu = {
   domov: "/",
  // about: "https://github.com/9d8dev/next-wp",
   blog: "/clanky",
-  stránky: "/pages"
+  stránky: "/stranky"
 };
 
 export const contentMenu = {
-  kategórie: "/clanky/categories",
-  značky: "/clanky/tags",
+  kategórie: "/clanky/kategorie",
+  značky: "/clanky/znacky",
   //authors: "/posts/authors",
 };
