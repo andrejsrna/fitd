@@ -11,7 +11,7 @@ export function middleware(request) {
   }
 
   // Exclude redirect for paths starting with /clanky or /pages
-  if (pathname.startsWith('/clanky') || pathname.startsWith('/pages')) {
+  if (pathname.startsWith('/clanky') || pathname.startsWith('/stranky')) {
     console.log('Skipping redirect for /clanky or /pages');
     return NextResponse.next();
   }
