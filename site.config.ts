@@ -3,5 +3,5 @@ type SiteConfig = {
 };
 
 export const siteConfig: SiteConfig = {
-  site_domain: "https://fitdoplnky",
+  site_domain: "localhost:3000",
 };
