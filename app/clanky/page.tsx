@@ -1,3 +1,5 @@
+// pages/page.tsx
+
 import {
   getAllPosts,
   getAllAuthors,
@@ -24,19 +26,28 @@ export default async function Page({
   searchParams: { [key: string]: string | undefined };
 }) {
   const { author, tag, category, page: pageParam } = searchParams;
-  const posts = await getAllPosts({ author, tag, category });
-  const authors = await getAllAuthors();
-  const tags = await getAllTags();
-  const categories = await getAllCategories();
-
+  
+  // Determine the current page
   const page = pageParam ? parseInt(pageParam, 10) : 1;
   const postsPerPage = 9;
-  const totalPages = Math.ceil(posts.length / postsPerPage);
 
-  const paginatedPosts = posts.slice(
-    (page - 1) * postsPerPage,
-    page * postsPerPage
+  // Calculate per_page for the API (fetch more to fill the current page)
+  // For example, if postsPerPage is 9, set per_page to 9
+  const perPage = postsPerPage;
+
+  // Fetch posts for the current page
+  const { posts, totalPages } = await getAllPosts(
+    { author, tag, category },
+    page,
+    perPage
   );
+
+  // Fetch filter options
+  const [authors, tags, categories] = await Promise.all([
+    getAllAuthors(),
+    getAllTags(),
+    getAllCategories(),
+  ]);
 
   return (
     <Section>
@@ -51,9 +62,9 @@ export default async function Page({
           selectedCategory={category}
         />
 
-        {paginatedPosts.length > 0 ? (
+        {posts.length > 0 ? (
           <div className="grid md:grid-cols-3 gap-4 z-0">
-            {paginatedPosts.map((post: any) => (
+            {posts.map((post: any) => (
               <PostCard key={post.id} post={post} />
             ))}
           </div>
@@ -77,7 +88,7 @@ export default async function Page({
                 />
               </PaginationItem>
               <PaginationItem>
-                <PaginationLink href={`/posts?page=${page}`}>
+                <PaginationLink href={`/clanky?page=${page}`}>
                   {page}
                 </PaginationLink>
               </PaginationItem>
