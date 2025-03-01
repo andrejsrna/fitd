@@ -19,9 +19,17 @@ export async function generateMetadata({
   params: { slug: string };
 }): Promise<Metadata> {
   const post = await getPostBySlug(params.slug);
+  const featuredMedia = await getFeaturedMediaById(post.featured_media);
+  
+  // Remove HTML tags from description
+  const cleanDescription = post.excerpt.rendered.replace(/<\/?[^>]+(>|$)/g, "").trim();
+  
   return {
     title: post.title.rendered,
-    description: post.excerpt.rendered,
+    description: cleanDescription,
+    openGraph: {
+      images: [featuredMedia.source_url],
+    },
   };
 }
 
