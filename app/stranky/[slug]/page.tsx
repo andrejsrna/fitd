@@ -10,9 +10,17 @@ export async function generateMetadata({
   params: { slug: string };
 }): Promise<Metadata> {
   const page = await getPageBySlug(params.slug);
+  const cleanDescription = page.excerpt.rendered.replace(/<\/?[^>]+(>|$)/g, "").trim();
+  const yoastTitle = page.yoast_head_json?.title;
+  const yoastDescription = page.yoast_head_json?.description;
+  const yoastOgImage = page.yoast_head_json?.og_image?.[0]?.url;
+
   return {
-    title: page.title.rendered,
-    description: page.excerpt.rendered,
+    title: yoastTitle ?? page.title.rendered,
+    description: yoastDescription ?? cleanDescription,
+    openGraph: {
+      images: yoastOgImage ? [yoastOgImage] : undefined,
+    },
   };
 }
 

@@ -42,6 +42,12 @@ export type Post = {
   meta: any[];
   categories: number[];
   tags: number[];
+  yoast_head?: string;
+  yoast_head_json?: {
+    title?: string;
+    description?: string;
+    og_image?: { url: string }[];
+  };
 };
 
 export type Category = {
@@ -99,6 +105,12 @@ export type Page = {
   ping_status: "open" | "closed";
   template: string;
   meta: any[];
+  yoast_head?: string;
+  yoast_head_json?: {
+    title?: string;
+    description?: string;
+    og_image?: { url: string }[];
+  };
 };
 
 export type Author = {

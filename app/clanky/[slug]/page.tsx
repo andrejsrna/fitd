@@ -20,15 +20,17 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const post = await getPostBySlug(params.slug);
   const featuredMedia = await getFeaturedMediaById(post.featured_media);
-  
-  // Remove HTML tags from description
+
   const cleanDescription = post.excerpt.rendered.replace(/<\/?[^>]+(>|$)/g, "").trim();
-  
+  const yoastTitle = post.yoast_head_json?.title;
+  const yoastDescription = post.yoast_head_json?.description;
+  const yoastOgImage = post.yoast_head_json?.og_image?.[0]?.url;
+
   return {
-    title: post.title.rendered,
-    description: cleanDescription,
+    title: yoastTitle ?? post.title.rendered,
+    description: yoastDescription ?? cleanDescription,
     openGraph: {
-      images: [featuredMedia.source_url],
+      images: [yoastOgImage ?? featuredMedia.source_url],
     },
   };
 }
