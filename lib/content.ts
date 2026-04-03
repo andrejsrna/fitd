@@ -244,6 +244,70 @@ export const getPostBySlug = cache(async (slug: string): Promise<Post | null> =>
   return posts.find((post) => post.slug === slug) ?? null;
 });
 
+function legacySlugFromWordpressLink(link?: string) {
+  if (!link) return null;
+
+  try {
+    const pathname = new URL(link).pathname.replace(/^\/+|\/+$/g, "");
+    if (!pathname || pathname.includes("/")) return null;
+    return pathname;
+  } catch {
+    return null;
+  }
+}
+
+function legacySlugFromTitle(title?: string) {
+  if (!title) return null;
+
+  const slug = title
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+
+  return slug || null;
+}
+
+function getLegacySlugsForPost(post: Post) {
+  const slugs = new Set<string>();
+  const wordpressSlug = legacySlugFromWordpressLink(post.wordpressLink);
+  const titleSlug = legacySlugFromTitle(post.title);
+
+  if (wordpressSlug && wordpressSlug !== post.slug) {
+    slugs.add(wordpressSlug);
+  }
+
+  if (titleSlug && titleSlug !== post.slug) {
+    slugs.add(titleSlug);
+  }
+
+  return Array.from(slugs);
+}
+
+export const getPostByLegacySlug = cache(async (slug: string): Promise<Post | null> => {
+  const posts = await getAllPosts();
+
+  return (
+    posts.find((post) => {
+      return getLegacySlugsForPost(post).includes(slug);
+    }) ?? null
+  );
+});
+
+export const getAllPostLegacySlugs = cache(async (): Promise<string[]> => {
+  const posts = await getAllPosts();
+  const slugs = new Set<string>();
+
+  for (const post of posts) {
+    for (const legacySlug of getLegacySlugsForPost(post)) {
+      slugs.add(legacySlug);
+    }
+  }
+
+  return Array.from(slugs);
+});
+
 export const getAllCategories = cache(async (): Promise<TaxonomyEntry[]> => {
   const posts = await getAllPosts();
   const seen = new Map<string, TaxonomyEntry>();
