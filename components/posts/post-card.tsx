@@ -1,24 +1,16 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import { Post } from "@/lib/wordpress.d";
+import { PostSummary } from "@/lib/content";
 import { cn } from "@/lib/utils";
 
-import {
-  getFeaturedMediaById,
-  getAuthorById,
-  getCategoryById,
-} from "@/lib/wordpress";
-
-export default async function PostCard({ post }: { post: Post }) {
-  const media = await getFeaturedMediaById(post.featured_media);
-  const author = await getAuthorById(post.author);
+export default function PostCard({ post }: { post: PostSummary }) {
   const date = new Date(post.date).toLocaleDateString("sk-SK", {
     month: "long",
     day: "numeric",
     year: "numeric",
   });
-  const category = await getCategoryById(post.categories[0]);
+  const category = post.categories[0];
 
   return (
     <Link
@@ -30,32 +22,26 @@ export default async function PostCard({ post }: { post: Post }) {
     >
       <div className="flex flex-col gap-4">
         <div className="h-48 w-full overflow-hidden relative rounded-md border flex items-center justify-center">
-          <Image
-            className="h-full w-full object-cover"
-            src={media.source_url}
-            alt={post.title.rendered}
-            width={400}
-            height={200}
-          />
+          {post.featuredImage?.url ? (
+            <Image
+              className="h-full w-full object-cover"
+              src={post.featuredImage.url}
+              alt={post.featuredImage.alt || post.title}
+              width={400}
+              height={200}
+            />
+          ) : null}
         </div>
-        <div
-          dangerouslySetInnerHTML={{ __html: post.title.rendered }}
-          className="text-xl text-primary font-medium group-hover:underline decoration-muted-foreground underline-offset-4 decoration-dotted transition-all"
-        ></div>
-        <div
-          className="text-sm"
-          dangerouslySetInnerHTML={{
-            __html:
-              post.excerpt.rendered.split(" ").slice(0, 12).join(" ").trim() +
-              "...",
-          }}
-        ></div>
+        <div className="text-xl text-primary font-medium group-hover:underline decoration-muted-foreground underline-offset-4 decoration-dotted transition-all">
+          {post.title}
+        </div>
+        <div className="text-sm">{post.excerpt.split(" ").slice(0, 20).join(" ").trim()}...</div>
       </div>
 
       <div className="flex flex-col gap-4">
         <hr />
         <div className="flex justify-between items-center text-xs">
-          <p>{category.name}</p>
+          <p>{category?.name || "Článok"}</p>
           <p>{date}</p>
         </div>
       </div>

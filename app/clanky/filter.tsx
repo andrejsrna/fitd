@@ -8,28 +8,12 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select"; // Ensure this is the correct import path
-import { Button } from "@/components/ui/button"; // Add this import for the Button component
-
-interface Author {
-  id: number;
-  name: string;
-}
-
-interface Tag {
-  id: number;
-  name: string;
-}
-
-interface Category {
-  id: number;
-  name: string;
-}
+import { Button } from "@/components/ui/button";
+import { TaxonomyEntry } from "@/lib/content";
 
 interface FilterPostsProps {
-  authors: Author[];
-  tags: Tag[];
-  categories: Category[];
-  selectedAuthor?: string;
+  tags: TaxonomyEntry[];
+  categories: TaxonomyEntry[];
   selectedTag?: string;
   selectedCategory?: string;
 }
@@ -43,7 +27,6 @@ export default function FilterPosts({
   const router = useRouter();
 
   const handleFilterChange = (type: string, value: string) => {
-    console.log(`Filter changed: ${type} -> ${value}`);
     const newParams = new URLSearchParams(window.location.search);
     if (value === "all") {
       newParams.delete(type);
@@ -69,7 +52,7 @@ export default function FilterPosts({
         <SelectContent>
           <SelectItem value="all">Všetky značky</SelectItem>
           {tags.map((tag) => (
-            <SelectItem key={tag.id} value={tag.id.toString()}>
+            <SelectItem key={tag.slug} value={tag.slug}>
               {tag.name}
             </SelectItem>
           ))}
@@ -86,29 +69,12 @@ export default function FilterPosts({
         <SelectContent>
           <SelectItem value="all">Všetky kategórie</SelectItem>
           {categories.map((category) => (
-            <SelectItem key={category.id} value={category.id.toString()}>
+            <SelectItem key={category.slug} value={category.slug}>
               {category.name}
             </SelectItem>
           ))}
         </SelectContent>
       </Select>
-
- {   /*   <Select
-        value={selectedAuthor || "all"}
-        onValueChange={(value) => handleFilterChange("author", value)}
-      >
-        <SelectTrigger>
-          <SelectValue placeholder="All Authors" />
-        </SelectTrigger>
-        <SelectContent>
-          <SelectItem value="all">All Authors</SelectItem>
-          {authors.map((author) => (
-            <SelectItem key={author.id} value={author.id.toString()}>
-              {author.name}
-            </SelectItem>
-          ))}
-        </SelectContent>
-      </Select> */ }
 
       <Button variant="outline" onClick={handleResetFilters}>
         Resetovať filter

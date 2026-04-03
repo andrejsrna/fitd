@@ -1,11 +1,11 @@
 // app/sitemap.tsx or wherever your sitemap file is located
 
 import { MetadataRoute } from "next";
-import { getAllPosts } from "@/lib/wordpress";
+import { getAllPosts } from "@/lib/content";
 import { siteConfig } from "@/site.config";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const { posts } = await getAllPosts(); // Destructure posts from the result
+  const posts = await getAllPosts();
 
   const staticUrls: MetadataRoute.Sitemap = [
     {
@@ -15,7 +15,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1,
     },
     {
-      url: `${siteConfig.site_domain}/posts`,
+      url: `${siteConfig.site_domain}/clanky`,
       lastModified: new Date(),
       changeFrequency: "weekly",
       priority: 0.8,
@@ -47,8 +47,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
 
   const postUrls: MetadataRoute.Sitemap = posts.map((post) => ({
-    url: `${siteConfig.site_domain}/posts/${post.slug}`,
-    lastModified: new Date(post.modified),
+    url: `${siteConfig.site_domain}/clanky/${post.slug}`,
+    lastModified: new Date(post.modified || post.date),
     changeFrequency: "weekly",
     priority: 0.5,
   }));

@@ -1,4 +1,4 @@
-import { getAllTags } from "@/lib/wordpress";
+import { getAllTags } from "@/lib/content";
 import { Section, Container } from "@/components/craft";
 import { Metadata } from "next";
 import Link from "next/link";
@@ -20,8 +20,8 @@ export default async function Page() {
         <BackButton />
         <h2>Všetky značky</h2>
         <div className="grid">
-          {tags.map((tag: any) => (
-            <Link key={tag.id} href={`/clanky/?tag=${tag.id}`}>
+          {tags.map((tag) => (
+            <Link key={tag.slug} href={`/clanky/?tag=${tag.slug}`}>
               {tag.name}
             </Link>
           ))}

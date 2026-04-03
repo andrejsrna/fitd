@@ -1,12 +1,11 @@
 // app/clanky/page.tsx
 
 import {
-  getAllPosts,
-  getAllAuthors,
+  getFilteredPosts,
   getAllTags,
   getAllCategories,
-} from "@/lib/wordpress";
-import PaginationComponent from "@/components/ui/pagination-component"; // Uistite sa, že cesta je správna
+} from "@/lib/content";
+import PaginationComponent from "@/components/ui/pagination-component";
 
 import { Section, Container } from "@/components/craft";
 import PostCard from "@/components/posts/post-card";
@@ -17,35 +16,26 @@ export default async function Page({
 }: {
   searchParams: { [key: string]: string | undefined };
 }) {
-  const { author, tag, category, page: pageParam } = searchParams;
+  const { tag, category, page: pageParam } = searchParams;
 
-  // Určte aktuálnu stránku
   const currentPage = pageParam ? parseInt(pageParam, 10) : 1;
   const postsPerPage = 9;
-
-  // Načítanie príspevkov pre aktuálnu stránku
-  const { posts, totalPages } = await getAllPosts(
-    { author, tag, category },
-    currentPage,
-    postsPerPage
-  );
-
-  // Načítanie možností filtrov
-  const [authors, tagsList, categoriesList] = await Promise.all([
-    getAllAuthors(),
+  const [allPosts, tagsList, categoriesList] = await Promise.all([
+    getFilteredPosts({ tag, category }),
     getAllTags(),
     getAllCategories(),
   ]);
+  const totalPages = Math.max(1, Math.ceil(allPosts.length / postsPerPage));
+  const page = Math.min(currentPage, totalPages);
+  const posts = allPosts.slice((page - 1) * postsPerPage, page * postsPerPage);
 
   return (
     <Section>
       <Container>
         <h1>Najnovšie články</h1>
         <FilterPosts
-          authors={authors}
           tags={tagsList}
           categories={categoriesList}
-          selectedAuthor={author}
           selectedTag={tag}
           selectedCategory={category}
         />
@@ -65,10 +55,9 @@ export default async function Page({
         {/* Paginácia */}
         <div className="mt-8 not-prose">
           <PaginationComponent
-            currentPage={currentPage}
+            currentPage={page}
             totalPages={totalPages}
             category={category}
-            author={author}
             tag={tag}
           />
         </div>

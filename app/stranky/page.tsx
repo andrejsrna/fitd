@@ -1,9 +1,9 @@
-import { getAllPages } from "@/lib/wordpress";
+import { getPagesSummary } from "@/lib/content";
 import { Section, Container } from "@/components/craft";
 import Link from "next/link";
 
 export default async function Page() {
-  const pages = await getAllPages();
+  const pages = await getPagesSummary();
 
   return (
     <Section>
@@ -12,9 +12,9 @@ export default async function Page() {
 
         <h2>Všetky stránky</h2>
         <div className="grid">
-          {pages.map((page: any) => (
-            <Link key={page.id} href={`stranky/${page.slug}`}>
-              {page.title.rendered}
+          {pages.map((page) => (
+            <Link key={page.slug} href={`/stranky/${page.slug}`}>
+              {page.title}
             </Link>
           ))}
         </div>
