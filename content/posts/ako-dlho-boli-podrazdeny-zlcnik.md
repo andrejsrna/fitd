@@ -29,7 +29,7 @@ Toto ochorenie sa najčastejšie prejavuje bolesťou v pravom hornej kvadrante b
 
 **Podráždený žlčník môže vzniknúť náhle – to sa označuje ako akútna cholecystitída – alebo sa môže vyvíjať postupne s časom, čo sa nazýva chronická cholecystitída.** Bez ohľadu na to, aký typ cholecystitídy trpíte, je dôležité konzultovať so zdravotníckym odborníkom, aby ste začali vhodnú liečbu a zabránili komplikáciám. Tento článok poskytne viac informácií o tom, čo spôsobuje podráždený žlčník, ako dlho trvá a ako sa s týmto stavom najlepšie zaoberať.
 
-TIP – [Pečen a žlčník, Vlčí mák, 20 vrecúšok](https://admin.fitdoplnky.sk/obchod/liver-a-bladder-tea/)
+TIP – [Pečen a žlčník, Vlčí mák, 20 vrecúšok](https://www.fitdoplnky.sk/obchod/liver-a-bladder-tea/)
 
 ## Čo je žlčník a akú úlohu zohráva v tele
 
@@ -60,7 +60,7 @@ Existuje niekoľko príčin, ktoré môžu viesť k podráždeniu žlčníka:
 
 Tieto príčiny vedú k podráždeniu žlčníka tým, že narušujú normálny tok žlče z pečene do tenkého čreva. Keď je tento tok narušený, žlč sa môže hromadiť v žlčníku, čo môže viesť k zápalu a bolesti. Čím dlhšie je žlč zadržiavaná v žlčníku, tým je pravdepodobnejšie, že dôjde k podráždeniu alebo zápalu.
 
-_TIP – [Mäta pieporná, Esenciálny olej, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/mata-essence/)_
+_TIP – [Mäta pieporná, Esenciálny olej, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/mata-essence/)_
 
 ## Príznaky podráždeného žlčníka
 
@@ -142,7 +142,7 @@ Aj keď nie je možné úplne zabrániť všetkým prípadom podráždenia žlč
 
 Pamätajte, že aj keď tieto stratégie môžu pomôcť znížiť riziko podráždenia žlčníka, nie sú absolútnou zárukou prevencie. Preto je dôležité pravidelne navštevovať lekára, hlavne ak ste v rizikovej skupine alebo ak začnete pociťovať symptómy podráždenia žlčníka.
 
-TIP – [Grapefruit, Esenciálny olej, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/grapefruit-essence/)
+TIP – [Grapefruit, Esenciálny olej, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/grapefruit-essence/)
 
 ## Ako dlho boli podráždený žlčník – Záver
 

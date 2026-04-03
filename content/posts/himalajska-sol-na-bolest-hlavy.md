@@ -21,9 +21,9 @@ seo:
   description: ""
   ogImage: "https://cdn.fitdoplnky.sk/2023/09/Himalajska-sol-na-bolest-hlavy.jpg"
 ---
-Himalájska soľ na bolesť hlavy – funguje? [Himalájska soľ](https://admin.fitdoplnky.sk/obchod/himalajska-sol-ruzova/), často označovaná za jeden z najčistejších foriem soli na svete, sa stáva stále populárnejšou nielen v kuchyni, ale aj v rámci alternatívnej medicíny. Pochádzajúca z pohoria Himaláje, táto ružovkastá soľ je známa svojim jedinečným zložením, ktoré zahŕňa množstvo minerálov a stopových prvkov. Oproti bežnej stolovej soli, ktorá je väčšinou čisto chlorid sodný, himalájska soľ obsahuje viac ako 80 rôznych minerálov, vrátane vápnika, draslíka a horčíka.
+Himalájska soľ na bolesť hlavy – funguje? [Himalájska soľ](https://www.fitdoplnky.sk/obchod/himalajska-sol-ruzova/), často označovaná za jeden z najčistejších foriem soli na svete, sa stáva stále populárnejšou nielen v kuchyni, ale aj v rámci alternatívnej medicíny. Pochádzajúca z pohoria Himaláje, táto ružovkastá soľ je známa svojim jedinečným zložením, ktoré zahŕňa množstvo minerálov a stopových prvkov. Oproti bežnej stolovej soli, ktorá je väčšinou čisto chlorid sodný, himalájska soľ obsahuje viac ako 80 rôznych minerálov, vrátane vápnika, draslíka a horčíka.
 
-V alternatívnej medicíne sa himalájská soľ používa na rozličné účely. Jej priaznivci tvrdia, že má detoxikačné účinky, pomáha pri regulácii vody v tele, podporuje [zdravý spánok](https://admin.fitdoplnky.sk/obchod/sleep-a-relax/) a dokonca prispieva k zmierneniu symptómov niektorých chorôb. Jej použitie zahŕňa rôzne formy – od [solných lámp](https://admin.fitdoplnky.sk/obchod/himalay-salt-candlestick/), ktoré údajne zlepšujú kvalitu vzduchu, cez kúpele v solných roztokoch, až po jej použitie vo forme solných inhalátorov.
+V alternatívnej medicíne sa himalájská soľ používa na rozličné účely. Jej priaznivci tvrdia, že má detoxikačné účinky, pomáha pri regulácii vody v tele, podporuje [zdravý spánok](https://www.fitdoplnky.sk/obchod/sleep-a-relax/) a dokonca prispieva k zmierneniu symptómov niektorých chorôb. Jej použitie zahŕňa rôzne formy – od [solných lámp](https://www.fitdoplnky.sk/obchod/himalay-salt-candlestick/), ktoré údajne zlepšujú kvalitu vzduchu, cez kúpele v solných roztokoch, až po jej použitie vo forme solných inhalátorov.
 
 V poslednom čase sa objavujú tvrdenia o tom, že himalájska soľ môže byť užitočná aj pri liečbe bolesti hlavy. Tento článok sa pokúsi preskúmať, či tieto nároky majú oporu v skutočnosti a ako by himalájska soľ mohla teoreticky pôsobiť na bolesť hlavy.
 
@@ -39,7 +39,7 @@ Himalájska soľ je druh kamenné soli, ktorá sa ťaží prevažne z oblasti Kh
 
 #### Zloženie Himalájskej soli:
 
--   **Minerály a Stopové Prvky:** Himalájska soľ na bolesť hlavy obsahuje viac ako 80 [minerálov](https://admin.fitdoplnky.sk/obchod/koralove-mineraly/) a stopových prvkov vrátane vápnika, horčíka, draslíka, medi a železa, čo jej dáva jedinečné vlastnosti.
+-   **Minerály a Stopové Prvky:** Himalájska soľ na bolesť hlavy obsahuje viac ako 80 [minerálov](https://www.fitdoplnky.sk/obchod/koralove-mineraly/) a stopových prvkov vrátane vápnika, horčíka, draslíka, medi a železa, čo jej dáva jedinečné vlastnosti.
 -   **Chlorid sodný:** Podobne ako bežná stolová soľ, aj himalájska soľ obsahuje hlavne chlorid sodný, ale v nižších koncentráciách.
 
 #### Porovnanie s bežnou stolovou soľou a inými typmi solí:
@@ -63,8 +63,8 @@ Himalájska soľ je často spájaná s rôznymi zdravotnými výhodami v alterna
 #### Možný mechanizmus pôsobenia:
 
 1.  **Hydratácia a Elektrolyty:** Jedným z možných mechanizmov, ako by himalájska soľ mohla ovplyvniť bolesť hlavy, je prostredníctvom zlepšenia hydratácie a rovnováhy elektrolytov v tele. Bolesť hlavy môže byť často spôsobená dehydratáciou a nerovnováhou elektrolytov, a minerály v himalájskej soli, ako sú draslík, vápnik a horčík, môžu pomôcť obnoviť túto rovnováhu.
-2.  **Detoxikačné účinky:** Niektoré tvrdenia naznačujú, že himalájska soľ má [detoxikačné](https://admin.fitdoplnky.sk/obchod/detox-organizmu/) vlastnosti, ktoré môžu pomôcť odstrániť toxíny z tela, čo môže potenciálne zmierňovať bolesti hlavy spôsobené toxickým preťažením.
-3.  **Zmiernenie stresu a napätia:** Himalájska soľ sa často používa v solných lampách alebo počas solných kúpeľov, ktoré môžu prispieť k relaxácii a zmierneniu [stresu](https://admin.fitdoplnky.sk/obchod/anti-stress-essence/) a napätia v tele. Stres a napätie sú bežnými spúšťačmi bolesti hlavy, takže ich zmiernenie môže mať priaznivý vplyv.
+2.  **Detoxikačné účinky:** Niektoré tvrdenia naznačujú, že himalájska soľ má [detoxikačné](https://www.fitdoplnky.sk/obchod/detox-organizmu/) vlastnosti, ktoré môžu pomôcť odstrániť toxíny z tela, čo môže potenciálne zmierňovať bolesti hlavy spôsobené toxickým preťažením.
+3.  **Zmiernenie stresu a napätia:** Himalájska soľ sa často používa v solných lampách alebo počas solných kúpeľov, ktoré môžu prispieť k relaxácii a zmierneniu [stresu](https://www.fitdoplnky.sk/obchod/anti-stress-essence/) a napätia v tele. Stres a napätie sú bežnými spúšťačmi bolesti hlavy, takže ich zmiernenie môže mať priaznivý vplyv.
 
 #### Dôležité poznámky:
 
@@ -97,7 +97,7 @@ Himalájska soľ sa teší rastúcej popularite v mnohých sférach, najmä v al
 #### Populárne Použitia:
 
 1.  **Solné Lampy:** Tvrdí sa, že lampy vyrobené z himalájskej soli môžu čistiť vzduch ionizáciou, čím zlepšujú kvalitu ovzdušia v miestnostiach.
-2.  **Solné Kúpele:** [Kúpele](https://admin.fitdoplnky.sk/obchod/bath-bomb-hearts/) s prídavkom himalájskej soli sú považované za relaxačné a detoxikačné, pomáhajúce pri kožných problémoch a zlepšujúce celkové pohodlie.
+2.  **Solné Kúpele:** [Kúpele](https://www.fitdoplnky.sk/obchod/bath-bomb-hearts/) s prídavkom himalájskej soli sú považované za relaxačné a detoxikačné, pomáhajúce pri kožných problémoch a zlepšujúce celkové pohodlie.
 3.  **Použitie v Strave:** Himalájská soľ sa často používa ako zdravšia alternatíva k bežnej stolovej soli, kvôli jej minerálnemu zloženiu.
 4.  **Inhalácia:** Niektoré prístupy alternatívnej medicíny odporúčajú inhaláciu solných pár ako spôsob liečby respiračných problémov.
 5.  **Solné Bloky na Varenie:** Tieto bloky sa používajú na prípravu jedla, pričom im dodávajú jemnú solnú chuť a minerály.

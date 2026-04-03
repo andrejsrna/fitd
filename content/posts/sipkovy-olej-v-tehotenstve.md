@@ -27,7 +27,7 @@ Mnohé budúce mamičky sa pýtajú, či je šípkový olej bezpečný pre ich d
 
 V tomto článku sa budeme venovať problematike používania šípkového oleja počas tehotenstva. Preskúmame jeho zloženie, potenciálne benefity, ale aj možné riziká a nežiaduce účinky. Poskytneme vám odporúčania, ako bezpečne používať šípkový olej počas tehotenstva a predstavíme aj alternatívy, ktoré môžete zvážiť. Cieľom tohto článku je poskytnúť vám komplexný prehľad o tejto téme, aby ste mohli urobiť informované rozhodnutie o starostlivosti o svoju pokožku počas tehotenstva.
 
-TIP: [Šípkový olej – Luxusná starostlivosť 100% prírodný olej lisovaný, Altevita, 50 ml](https://admin.fitdoplnky.sk/obchod/sipkovy-olej/)
+TIP: [Šípkový olej – Luxusná starostlivosť 100% prírodný olej lisovaný, Altevita, 50 ml](https://www.fitdoplnky.sk/obchod/sipkovy-olej/)
 
 ## Šípkový olej a jeho vlastnosti
 
@@ -107,7 +107,7 @@ Vzhľadom na obmedzené vedecké dôkazy a možnosť individuálnych reakcií je
 
 V prípade výskytu akýchkoľvek nežiaducich účinkov, ako je svrbenie, začervenanie alebo podráždenie, prestaňte šípkový olej používať a poraďte sa s lekárom.
 
-Pozrite si tiež: [Nanovitae GLOW UP luxusné pleťové olejové sérum s kadidlom a neroli 50ml](https://admin.fitdoplnky.sk/obchod/glow-up-premium/)
+Pozrite si tiež: [Nanovitae GLOW UP luxusné pleťové olejové sérum s kadidlom a neroli 50ml](https://www.fitdoplnky.sk/obchod/glow-up-premium/)
 
 ## Odporúčania pre tehotné ženy
 

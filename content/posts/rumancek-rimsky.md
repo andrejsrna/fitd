@@ -29,7 +29,7 @@ Rumanček rímsky je cený pre svoje protizápalové, antiseptické a upokojujú
 
 Okrem medicínskeho využitia, rumanček rímsky nachádza uplatnenie aj v kulinárstve, kde sa používa na pridanie jemnej, trochu sladkej chuti a arómy jedlám a nápojom. Jeho popularita v rôznych kultúrach a oblastiach odráža jeho univerzálnosť a hodnotu ako prírodný prostriedok na podporu zdravia a pohody.
 
-_TIP – [Rumanček rímsky esenciálny olej](https://admin.fitdoplnky.sk/obchod/kamilka-rimska-dilute-essence/)_
+_TIP – [Rumanček rímsky esenciálny olej](https://www.fitdoplnky.sk/obchod/kamilka-rimska-dilute-essence/)_
 
 ## Taxonómia a klasifikácia
 
@@ -68,7 +68,7 @@ Rumanček rímsky je nízko rastúca, trváca bylina, ktorá dosahuje výšku pr
 
 Na tejto ilustrácii vidíme celú rastlinu vrátane koreňov, stonky, listov, kvetov a semien, poskytujúc detailný a presný obraz rumančeka rímskeho pre lepšie pochopenie jeho botanických charakteristík.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Výskyt a ekológia
 
@@ -149,7 +149,7 @@ Esenciálny olej z rumančeka sa používa v aromaterapii a na masáže.
 
 Rumanček rímsky pridáva jedinečnú chuť a vôňu do mnohých jedál a nápojov, čím obohacuje gastronomický zážitok. Jeho využitie v kuchyni sa obmedzuje nielen na jeho chuťové kvality, ale pridáva aj estetický a zdravotný aspekt k jedlám.
 
-_TIP – [Jasmínový tulsi čaj s rumančekom](https://admin.fitdoplnky.sk/obchod/tulsi-jasmine/)_
+_TIP – [Jasmínový tulsi čaj s rumančekom](https://www.fitdoplnky.sk/obchod/tulsi-jasmine/)_
 
 ## Pestovanie a zber
 
@@ -190,7 +190,7 @@ Rumanček rímsky je všeobecne považovaný za bezpečnú a dobre tolerovanú l
 
 Je dôležité pripomenúť, že prirodzené neznamená automaticky bezpečné pre každého. Ak máte akékoľvek zdravotné problémy, alebo užívate lieky, je dôležité pred použitím akýchkoľvek bylín alebo doplnkov konzultovať s odborníkom. Vedľajšie účinky môžu byť individuálne a závisia od viacerých faktorov vrátane dávkovania a osobnej citlivosti.
 
-_TIP – [Moringa histamín](https://admin.fitdoplnky.sk/obchod/moringa-histamin/)_
+_TIP – [Moringa histamín](https://www.fitdoplnky.sk/obchod/moringa-histamin/)_
 
 ## Záver
 

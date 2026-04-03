@@ -29,7 +29,7 @@ V tradičnej medicíne bola levanduľa využívaná pre jej antiseptické a prot
 
 Levanduľa teda predstavuje fascinujúci prepojený svet tradičného vedomia a moderných vedeckých poznatkov, čím si udržiava svoje miesto ako jedna z najcennejších a najuniverzálnejších byliniek v našich životoch.
 
-TIP – [Levanduľa, Esenciálny olej, Spánok, Bolesti, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/levandula-essence/)
+TIP – [Levanduľa, Esenciálny olej, Spánok, Bolesti, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/levandula-essence/)
 
 ## História levandule
 
@@ -83,7 +83,7 @@ Levanduľa zúbkatá
 
 Tieto hlavné druhy levandule ponúkajú širokú paletu vôní, vlastností a možností využitia, čo umožňuje ich rozmanité využitie v domácnosti, kozmetike, medicíne a v mnohých ďalších oblastiach.
 
-TIP – [Cist šedavý a levanduľa, Čaj na imunitu, 100g](https://admin.fitdoplnky.sk/obchod/cist-sedavy-a-levandula/)
+TIP – [Cist šedavý a levanduľa, Čaj na imunitu, 100g](https://www.fitdoplnky.sk/obchod/cist-sedavy-a-levandula/)
 
 ## Pestovanie levandule
 
@@ -138,7 +138,7 @@ V kozmetickom priemysle sa levanduľa často využíva pre svoje upokojujúce vl
 
 Vďaka svojej flexibilite a mnohostrannosti je levanduľa skutočným darom prírody, ktorý ponúka široké spektrum využitia v našich každodenných životoch.
 
-TIP – [Migréna, Esenciálny olej, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/migrena-essence/)
+TIP – [Migréna, Esenciálny olej, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/migrena-essence/)
 
 ## Zber a spracovanie levandule
 

@@ -35,7 +35,7 @@ Zelený jačmeň je mladý výhonok jačmeňa (Hordeum vulgare), ktorý sa pestu
 
 Zelený jačmeň má množstvo potenciálnych účinkov na zdravie, ktoré sú spojené s jeho vysokým obsahom živín a antioxidantov. Medzi hlavné účinky zeleného jačmeňa patria:
 
-1.  **Posilnenie [imunitného systému](https://admin.fitdoplnky.sk/imunita-imunitny-system/):** Zelený jačmeň obsahuje vitamíny a minerály, ako sú **vitamíny A, C, E, K, B-komplex, železo, zinok a meď, ktoré pomáhajú posilňovať imunitný systém a zvyšovať odolnosť organizmu voči infekciám a chorobám.**
+1.  **Posilnenie [imunitného systému](https://www.fitdoplnky.sk/imunita-imunitny-system/):** Zelený jačmeň obsahuje vitamíny a minerály, ako sú **vitamíny A, C, E, K, B-komplex, železo, zinok a meď, ktoré pomáhajú posilňovať imunitný systém a zvyšovať odolnosť organizmu voči infekciám a chorobám.**
 2.  **Podpora tráviaceho zdravia:** Zelený jačmeň je bohatý na vlákninu a enzýmy, ktoré **pomáhajú zlepšovať trávenie a pôsobia ako prebiotikum, podporujúc rast prospešných bakteriálnych kultúr v črevách. Pomáha tiež pri zápche, nadúvaní a problémoch s trávením.**
 3.  **Antioxidanty a detoxikácia:** Zelený jačmeň obsahuje vysoký obsah antioxidantov, ktoré pomáhajú chrániť bunky pred poškodením spôsobeným voľnými radikálmi. **Týmto spôsobom podporuje detoxikáciu organizmu a môže znižovať riziko vzniku niektorých chronických ochorení.**
 4.  **Zlepšenie kardiovaskulárneho zdravia:** Obsah vlákniny, omega-3 mastných kyselín a kyseliny folickej v zelenom jačmeni **môže pomôcť znižovať hladinu LDL (zlého) cholesterolu a triglyceridov v krvi, čím sa znižuje riziko srdcových ochorení.**

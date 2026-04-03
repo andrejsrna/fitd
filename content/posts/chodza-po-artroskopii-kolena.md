@@ -71,7 +71,7 @@ Niektoré z možných typov kúpeľov po artroskopií kolena môžu zahŕňať:
 
 1.  **Kryokúpele**: Kryoterapia alebo chladová terapia **môže pomôcť zmierniť opuch a zmierniť bolesť v kolene.** Kryokúpele sú navrhnuté tak, aby sa do nich dalo ponoriť postihnuté koleno na určitý čas.
     
-2.  **Horúce kúpele**: Horúce kúpele s teplou alebo **horúcou vodou môžu pomôcť zmierniť bolesť a [napätie svalov](https://admin.fitdoplnky.sk/svaly-dolezity-organ-pre-silu-a-pohyb/) v kolene.**
+2.  **Horúce kúpele**: Horúce kúpele s teplou alebo **horúcou vodou môžu pomôcť zmierniť bolesť a [napätie svalov](https://www.fitdoplnky.sk/svaly-dolezity-organ-pre-silu-a-pohyb/) v kolene.**
     
 3.  **Minerálne kúpele**: Niektoré minerálne prírodné kúpele obsahujú látky, ktoré **môžu pomôcť zmierniť zápaly a zlepšiť krvný obeh v oblasti kolena.**
     

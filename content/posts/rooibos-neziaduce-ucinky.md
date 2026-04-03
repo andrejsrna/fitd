@@ -27,7 +27,7 @@ Napriek jeho rastúcej popularite a údajným zdravotným výhodám je dôležit
 
 V tomto článku sa bližšie pozrieme na možné nežiaduce účinky rooibosu, vrátane jeho vplyvu na pečeň, hormonálne účinky a interakcie s liekmi. Zameriame sa na skupiny ľudí, ktoré by mali byť pri konzumácii rooibosu opatrné, a poskytneme odporúčania pre bezpečnú konzumáciu. Cieľom tohto článku je poskytnúť vám komplexný prehľad o možných rizikách spojených s konzumáciou rooibosu, aby ste mohli urobiť informované rozhodnutie o jeho zaradení do svojho životného štýlu.
 
-TIP – [Altevita BIO Organic Rooibos Tea 80g](https://admin.fitdoplnky.sk/obchod/rooibos-caj/)
+TIP – [Altevita BIO Organic Rooibos Tea 80g](https://www.fitdoplnky.sk/obchod/rooibos-caj/)
 
 ## Možné nežiaduce účinky rooibosu
 

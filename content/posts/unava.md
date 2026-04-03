@@ -35,7 +35,7 @@ seo:
     
 3.  **Nedostatok pohybu:** Pravidelný pohyb zvyšuje hladinu energie a pomáha bojovať proti únave. Dôležitý je aj výber vhodnej formy pohybu – zatiaľ čo niektorí ľudia preferujú intenzívne cvičenie, iní sa môžu cítiť lepšie pri miernejšej aktivite, ako je prechádzka alebo joga.
     
-4.  **Stres a [úzkosť](https://admin.fitdoplnky.sk/uzkost/):** Stres a úzkosť môžu výrazne prispievať k pocitu únavy. Je dôležité nájsť spôsoby, ako zvládať stres a udržať úzkosť pod kontrolou.
+4.  **Stres a [úzkosť](https://www.fitdoplnky.sk/uzkost/):** Stres a úzkosť môžu výrazne prispievať k pocitu únavy. Je dôležité nájsť spôsoby, ako zvládať stres a udržať úzkosť pod kontrolou.
     
 5.  **Zdravotné problémy:** Určité zdravotné stavy, ako sú hypotyreóza, anémia alebo chronický únavový syndróm, môžu spôsobiť trvalú únavu. V prípade podozrenia na zdravotný problém je potrebné konzultovať lekára.
     

@@ -41,7 +41,7 @@ Vitamíny sú pre pečeň nevyhnutné, pretože podporujú jej normálne fungova
 
 Tento článok sa podrobne zaoberá rôznymi vitamínmi a ich špecifickým vplyvom na zdravie pečene, ako aj potravinami a doplnkami, ktoré tieto dôležité vitamíny obsahujú. Naším cieľom je poskytnúť čitateľom dôležité informácie, ktoré im pomôžu v starostlivosti o zdravie svojej pečene prostredníctvom adekvátnej výživy.
 
-TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)
+TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)
 
 ## Dôležitosť vitamínov pre zdravie pečene
 
@@ -51,7 +51,7 @@ Vitamíny sú nevyhnutné pre udržanie celkového zdravia pečene, a to z nieko
     
 2.  **Ochrana pred oxidatívnym poškodením:** Antioxidanty, ako sú vitamín E a C, chránia pečeňové bunky pred oxidačným stresom a poškodením spôsobeným voľnými radikálmi. Toto je obzvlášť dôležité, pretože pečeň často manipuluje s toxickými látkami a je vystavená vyššiemu riziku oxidačného poškodenia.
     
-3.  **Detoxikačná funkcia:** Pečeň hraje hlavnú úlohu v procese [detoxikácie organizmu](https://admin.fitdoplnky.sk/obchod/detox-organizmu/). Vitamíny ako vitamín C a B-komplex podporujú detoxikačné procesy v pečeni, zvyšujú jej schopnosť rozkladať a eliminovať toxické látky z tela.
+3.  **Detoxikačná funkcia:** Pečeň hraje hlavnú úlohu v procese [detoxikácie organizmu](https://www.fitdoplnky.sk/obchod/detox-organizmu/). Vitamíny ako vitamín C a B-komplex podporujú detoxikačné procesy v pečeni, zvyšujú jej schopnosť rozkladať a eliminovať toxické látky z tela.
     
 4.  **Podpora regenerácie pečeňových buniek:** Pečeň má jedinečnú schopnosť regenerovať poškodené bunky. Niektoré vitamíny, ako je napríklad vitamín A a vitamíny zo skupiny B, sú dôležité pre tento regeneračný proces. Zabezpečujú, že pečeň sa môže efektívne obnovovať a udržiavať svoju plnú funkčnosť aj po poškodení.
     
@@ -88,7 +88,7 @@ _TIP – [Stukovatená pečeň](https://www.fitdoplnky.sk/clanky/stukovatena-pec
 
 Pre udržanie zdravej pečene je dôležité začleniť do svojej stravy potraviny, ktoré sú bohaté na vitamíny podporujúce jej funkciu. Tu je zoznam takýchto potravín a niekoľko tipov, ako ich zaradiť do každodennej stravy:
 
-1.  **Listová zelenina (napr. špenát, kel, [rukola](https://admin.fitdoplnky.sk/obchod/mikrozelenina-rukola/)):** Bohatá na vitamíny B a C. Môžete ich pridať do šalátov, smoothies alebo ako prílohu k hlavným jedlám.
+1.  **Listová zelenina (napr. špenát, kel, [rukola](https://www.fitdoplnky.sk/obchod/mikrozelenina-rukola/)):** Bohatá na vitamíny B a C. Môžete ich pridať do šalátov, smoothies alebo ako prílohu k hlavným jedlám.
     
 2.  **Citrusové plody (pomaranče, grapefruity, limetky):** Vynikajúci zdroj vitamínu C. Konzumujte ich ako čerstvé ovocie, v šťavách alebo ako osviežujúci prísadu do šalátov.
     
@@ -96,7 +96,7 @@ Pre udržanie zdravej pečene je dôležité začleniť do svojej stravy potravi
     
 4.  **Ryby a morské plody (napr. losos, sardinky):** Sú výborným zdrojom vitamínu D a omega-3 mastných kyselín. Môžete ich pripraviť pečené, grilované alebo ako súčasť zdravých šalátov.
     
-5.  **Orechy a semienka (napr. mandle, [ľanové semienka](https://admin.fitdoplnky.sk/obchod/lanove-semienka/)):** Vysoký obsah vitamínu E. Skvelé ako snack, pridané do müsli alebo posypané na šalát.
+5.  **Orechy a semienka (napr. mandle, [ľanové semienka](https://www.fitdoplnky.sk/obchod/lanove-semienka/)):** Vysoký obsah vitamínu E. Skvelé ako snack, pridané do müsli alebo posypané na šalát.
     
 6.  **Celozrnné produkty (napr. ovsené vločky, hnedá ryža):** Sú dobrým zdrojom vitamínov B-komplexu. Vhodné na prípravu raňajok, ako súčasť pečiva, alebo ako zdravá príloha k hlavným jedlám.
     
@@ -126,7 +126,7 @@ Doplnky stravy môžu byť užitočným nástrojom pre doplnenie vitamínov a mi
 
 **Výhody doplnkov stravy:**
 
-1.  **Kompenzácia nedostatkov:** Doplnky môžu pomôcť vyrovnať nedostatok určitých vitamínov a [minerálov](https://admin.fitdoplnky.sk/obchod/koralove-mineraly/), ktoré sú dôležité pre funkciu pečene.
+1.  **Kompenzácia nedostatkov:** Doplnky môžu pomôcť vyrovnať nedostatok určitých vitamínov a [minerálov](https://www.fitdoplnky.sk/obchod/koralove-mineraly/), ktoré sú dôležité pre funkciu pečene.
 2.  **Pohodlnosť a konzistencia:** Ponúkajú jednoduchý a konzistentný spôsob, ako zabezpečiť príjem potrebných živín.
 3.  **Cieľová podpora:** Niektoré doplnky sú špeciálne formulované na podporu zdravia pečene, obsahujú zložky ako mliečny bodliak alebo kurkumín, ktoré môžu mať prospěšné účinky.
 
@@ -144,7 +144,7 @@ Doplnky stravy môžu byť užitočným nástrojom pre doplnenie vitamínov a mi
 
 Záverom, hoci doplnky stravy môžu byť prospešné pre zdravie pečene, je dôležité používať ich s rozvahou a vždy v rámci celkovej stratégie starostlivosti o zdravie, ktorá zahŕňa vyváženú stravu, pravidelnú fyzickú aktivitu a vhodnú zdravotnú starostlivosť.
 
-_TIP – [Pestrec mariánsky drvený](https://admin.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/)_
+_TIP – [Pestrec mariánsky drvený](https://www.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/)_
 
 ## Prevencia a liečba pečeňových chorôb s vitamínmi
 

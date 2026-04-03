@@ -90,11 +90,11 @@ Ashwagandha je adaptogénna bylina ktorá pomáha regulovať hormóny zlepšuje 
 
 Hormonálna rovnováha je kľúčová pre optimálne fungovanie tela a duševné zdravie. Rôzne bylinky a doplnky stravy môžu pomôcť pri udržiavaní hormonálnej rovnováhy a zlepšení celkovej pohody. Tu je zoznam niektorých bylín a doplnkov, ktoré môžete vyskúšať:
 
-1.  **[Maca](https://admin.fitdoplnky.sk/obchod/altevita-bio-superfood-macacauko-210g/):** Maca je adaptogénna rastlina pochádzajúca z peruánskych Ánd. Má pozitívny vplyv na hormonálnu rovnováhu, energiu, výdrž a plodnosť.
+1.  **[Maca](https://www.fitdoplnky.sk/obchod/altevita-bio-superfood-macacauko-210g/):** Maca je adaptogénna rastlina pochádzajúca z peruánskych Ánd. Má pozitívny vplyv na hormonálnu rovnováhu, energiu, výdrž a plodnosť.
     
 2.  **Vitex Agnus Castus:** Vitex Agnus Castus je bylinka, ktorá sa často používa na reguláciu ženských hormónov, zlepšenie PMS a plodnosti.
     
-3.  [**Ashwagandha**](https://admin.fitdoplnky.sk/obchod/altevita-bio-organic-ashwaganda-60-kapsul/): Ashwagandha je adaptogénna bylina, ktorá pomáha regulovať hormóny, zlepšuje stresovú toleranciu a podporuje celkovú pohodu.
+3.  [**Ashwagandha**](https://www.fitdoplnky.sk/obchod/altevita-bio-organic-ashwaganda-60-kapsul/): Ashwagandha je adaptogénna bylina, ktorá pomáha regulovať hormóny, zlepšuje stresovú toleranciu a podporuje celkovú pohodu.
     
 4.  **Rhodiola rosea:** Táto rastlina je známa svojimi adaptogénnymi vlastnosťami, ktoré podporujú zdravú hladinu kortizolu a zlepšujú odolnosť voči stresu.
     

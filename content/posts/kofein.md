@@ -23,7 +23,7 @@ seo:
   description: "V tomto článku sa pozrieme na to, ako kofeín ovplyvňuje náš organizmus a na to, ako ho konzumovať v rámci zdravej stravy."
   ogImage: "https://cdn.fitdoplnky.sk/2023/03/Kofein-6-ucinkov-na-nas-organizmus.jpg"
 ---
-Kofeín je stimulant, ktorý sa nachádza v **káve, čaji, niektorých druhoch nápojov a potravín**. Pre mnohých ľudí je súčasťou ich denného rituálu a používa sa na [zlepšenie nálady](https://admin.fitdoplnky.sk/ako-si-zlepsit-naladu/), [zvýšenie energie](https://admin.fitdoplnky.sk/telesna-energia-ako-udrzat-svoje-telo-plne-energie/) a zlepšenie výkonnosti. Avšak, nadmerné užívanie môže mať negatívny vplyv na [zdravie](https://admin.fitdoplnky.sk/zlepsenie-zdravia-ako-spravna-vyziva-cvicenie-a-zdravy-zivotny-styl-mozu-pozitivne-ovplyvnit-nase-telo/). V tomto článku sa pozrieme na to, ako ovplyvňuje náš organizmus a na to, ako ho konzumovať v rámci zdravej stravy.
+Kofeín je stimulant, ktorý sa nachádza v **káve, čaji, niektorých druhoch nápojov a potravín**. Pre mnohých ľudí je súčasťou ich denného rituálu a používa sa na [zlepšenie nálady](https://www.fitdoplnky.sk/ako-si-zlepsit-naladu/), [zvýšenie energie](https://www.fitdoplnky.sk/telesna-energia-ako-udrzat-svoje-telo-plne-energie/) a zlepšenie výkonnosti. Avšak, nadmerné užívanie môže mať negatívny vplyv na [zdravie](https://www.fitdoplnky.sk/zlepsenie-zdravia-ako-spravna-vyziva-cvicenie-a-zdravy-zivotny-styl-mozu-pozitivne-ovplyvnit-nase-telo/). V tomto článku sa pozrieme na to, ako ovplyvňuje náš organizmus a na to, ako ho konzumovať v rámci zdravej stravy.
 
 ## Účinky
 
@@ -63,25 +63,25 @@ Je dôležité si uvedomiť, že **nie je pre každého a jeho účinky sa môž
 
 ## Ako pôsobí v našom organizme
 
-Kofeín ovplyvňuje náš organizmus tým, že stimuluje nervový systém. Jeho účinky sa prejavujú v **zlepšení nálady, zvýšení pozornosti a koncentrácie a zlepšení výkonnosti**. Kofeín taktiež zvyšuje rýchlosť metabolizmu a môže pomôcť spaľovať [tuk](https://admin.fitdoplnky.sk/telesny-tuk-preco-je-dolezite-kontrolovat-jeho-mnozstvo/).
+Kofeín ovplyvňuje náš organizmus tým, že stimuluje nervový systém. Jeho účinky sa prejavujú v **zlepšení nálady, zvýšení pozornosti a koncentrácie a zlepšení výkonnosti**. Kofeín taktiež zvyšuje rýchlosť metabolizmu a môže pomôcť spaľovať [tuk](https://www.fitdoplnky.sk/telesny-tuk-preco-je-dolezite-kontrolovat-jeho-mnozstvo/).
 
 ## Negatívne účinky 
 
 Avšak, nadmerné užívanie **môže mať aj negatívne účinky na zdravie**. Niektoré z týchto účinkov zahŕňajú:
 
--   **[Nespavosť a poruchy spánku](https://admin.fitdoplnky.sk/dolezitost-spanku-pre-zdravie-ako-zlepsit-svoj-spankovy-rezim/)**: môže viesť k problémom so **spánkom**, najmä ak sa konzumuje v neskorých hodinách.
+-   **[Nespavosť a poruchy spánku](https://www.fitdoplnky.sk/dolezitost-spanku-pre-zdravie-ako-zlepsit-svoj-spankovy-rezim/)**: môže viesť k problémom so **spánkom**, najmä ak sa konzumuje v neskorých hodinách.
 -   **Úzkosť a podráždenosť**: môže zvýšiť hladinu **adrenalínu v tele, čo môže viesť k úzkosti a podráždenosti**.
 -   **Nadváha**: Niektoré druhy nápojov s **vysokým obsahom kofeínu môžu obsahovať aj veľa cukru a kalórií**, čo môže viesť k nadváhe.
--   **Závislosť**: Nadmerné užívanie môže viesť k závislosti a **abstinenčné príznaky** môžu zahŕňať migrény, podráždenosť a [únavu](https://admin.fitdoplnky.sk/unava-a-jej-priciny-ako-sa-vyhnut-pretazeniu-organizmu/).
+-   **Závislosť**: Nadmerné užívanie môže viesť k závislosti a **abstinenčné príznaky** môžu zahŕňať migrény, podráždenosť a [únavu](https://www.fitdoplnky.sk/unava-a-jej-priciny-ako-sa-vyhnut-pretazeniu-organizmu/).
 
 ## Ako kofeín zaradiť do zdravej stravy
 
-Pre väčšinu ľudí je konzumácia **bezpečná a môže byť súčasťou [zdravej stravy](https://admin.fitdoplnky.sk/zdrava-strava-ako-ju-definovat-a-ako-sa-jej-drzat/)**. Je však dôležité mať na pamäti niektoré veci, aby sme ho konzumovali zdravým spôsobom:
+Pre väčšinu ľudí je konzumácia **bezpečná a môže byť súčasťou [zdravej stravy](https://www.fitdoplnky.sk/zdrava-strava-ako-ju-definovat-a-ako-sa-jej-drzat/)**. Je však dôležité mať na pamäti niektoré veci, aby sme ho konzumovali zdravým spôsobom:
 
 -   **Dávkovanie**: Dospelí by mali konzumovať **najviac 400 mg denne**, čo sa rovná približne 4 šálkam kávy. Je dôležité si všímať množstvo kofeínu v iných zdrojoch, ako sú napríklad energetické nápoje alebo čokoláda.
 -   **Konzumácia v primeranej dobe**: Je dôležité sa **vyhnúť konzumácii v neskorých hodinách**, aby sme neovplyvnili kvalitu spánku.
 -   **Výber zdrojo**: Káva a čaj sú zvyčajne lepšie **zdroje ako energetické nápoje alebo niektoré druhy sýtených nápojov**.
--   **Zvážte svoje zdravotné podmienky**: Osoby s určitými zdravotnými podmienkami, ako sú napríklad [problémy so srdcom](https://admin.fitdoplnky.sk/srdcove-choroby/) alebo [vysoký krvný tlak](https://admin.fitdoplnky.sk/zvyseny-krvny-tlak-priciny-priznaky-a-liecba/), by mali konzumáciu**konzultovať so svojim lekárom**.
+-   **Zvážte svoje zdravotné podmienky**: Osoby s určitými zdravotnými podmienkami, ako sú napríklad [problémy so srdcom](https://www.fitdoplnky.sk/srdcove-choroby/) alebo [vysoký krvný tlak](https://www.fitdoplnky.sk/zvyseny-krvny-tlak-priciny-priznaky-a-liecba/), by mali konzumáciu**konzultovať so svojim lekárom**.
 
 ## Doplnky stravy s obsahom kofeínu
 
@@ -214,7 +214,7 @@ Kofeín je prirodzený stimulant, ktorý sa **nachádza v rôznych potravinách 
     
 9.  Guarana a yerba maté **Guarana a yerba maté** sú prírodné zdroje, ktoré sa často používajú v doplnkoch stravy a energizujúcich nápojoch. Guarana obsahuje približne dvojnásobné množstvo ako kávové zrná, zatiaľ čo yerba maté obsahuje mierne menej ako čaj.
     
-10.  Žuvacie gumy a cukrovinky Niektoré žuvacie gumy a cukrovinky sú **obohatené a sú určené na rýchle zvýšenie [energie](https://admin.fitdoplnky.sk/telesna-energia-ako-udrzat-svoje-telo-plne-energie/) a bdelosti.** Množstvo kofeínu v týchto produktoch sa môže líšiť, ale zvyčajne obsahujú približne 20-100 mg na jednu porciu.
+10.  Žuvacie gumy a cukrovinky Niektoré žuvacie gumy a cukrovinky sú **obohatené a sú určené na rýchle zvýšenie [energie](https://www.fitdoplnky.sk/telesna-energia-ako-udrzat-svoje-telo-plne-energie/) a bdelosti.** Množstvo kofeínu v týchto produktoch sa môže líšiť, ale zvyčajne obsahujú približne 20-100 mg na jednu porciu.
      
 
 He všeobecne považovaný za bezpečný pre väčšinu ľudí, ak sa konzumuje v umiernenej miere. **Odporúčaný maximálny príjem pre dospelých je 400 mg denne, čo zodpovedá približne štyrom šálkam filtrovanej kávy.** Pre tehotné a dojčiace ženy, deti a osoby citlivé je dôležité sledovať príjem a konzultovať s lekárom alebo farmaceutom pred užitím.

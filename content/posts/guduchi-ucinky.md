@@ -23,7 +23,7 @@ seo:
 ---
 Guduchi účinky – 7 dôležitých informácií. Guduchi, známe aj pod vedeckým názvom Tinospora Cordifolia, je liečivá rastlina, ktorá má v indickom subkontinente dlhú históriu používania v tradičnej ajurvédskej medicíne. Táto výnimočná bylina je cenena pre svoje mnohostranné terapeutické vlastnosti a je často označovaná ako „amrita“ alebo nektár nesmrteľnosti vďaka svojej schopnosti omladzovať telo a zvyšovať vitalitu. Jej pôvod siaha tisíce rokov dozadu a dnes je stále široko využívaná nielen v Indii, ale aj v mnohých ďalších častiach sveta, vďaka rastúcej popularite prírodnej a holistické liečby. Guduchi je obzvlášť známe svojimi posilňujúcimi účinkami na imunitný systém, ako aj svojou schopnosťou liečiť široké spektrum zdravotných problémov.
 
-TIP – [Guduchi, Aktívna dlhovekosť, Healing Nature, 60 kapsúl](https://admin.fitdoplnky.sk/obchod/guduchi/)
+TIP – [Guduchi, Aktívna dlhovekosť, Healing Nature, 60 kapsúl](https://www.fitdoplnky.sk/obchod/guduchi/)
 
 ## Historický kontext
 

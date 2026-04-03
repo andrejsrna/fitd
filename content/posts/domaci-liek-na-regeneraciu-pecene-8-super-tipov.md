@@ -25,7 +25,7 @@ Domáci liek na regeneráciu pečene – 8 super tipov. Pečeň je jedným z naj
 
 V dnešnej dobe, keď je naše telo často vystavené rôznym škodlivým látkam, ako sú znečisťujúce látky, nezdravá strava a alkohol, význam podpory zdravia pečene sa stáva ešte dôležitejším. Práve tu prichádza do hry možnosť využitia domácich liekov. Tieto prírodné prostriedky môžu pomôcť podporiť regeneráciu pečene a zlepšiť jej funkciu. V tomto článku sa pozrieme na rôzne domáce lieky, ktoré sú považované za prospešné pre zdravie pečene, a poskytneme praktické rady, ako ich môžete zaradiť do svojho životného štýlu.
 
-_TIP – [Detoxikácia pečene](https://admin.fitdoplnky.sk/obchod/detoxikacia-pecene/)_
+_TIP – [Detoxikácia pečene](https://www.fitdoplnky.sk/obchod/detoxikacia-pecene/)_
 
 ## Základné informácie o funkcii pečene
 
@@ -65,19 +65,19 @@ Pečeň môže byť poškodená z rôznych dôvodov, a to často v dôsledku kom
 
 Je dôležité si uvedomiť, že poškodenie pečene je často „tiché“ a môže zostať nezistené až do vážneho pokročenia ochorenia. Preto je kľúčové prevenciu a zdravý životný štýl brať vážne a vyhýbať sa faktorom, ktoré môžu poškodiť pečeň.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Domáci liek na regeneráciu pečene
 
 Pri podpore zdravia a regenerácie pečene môžu byť užitočné rôzne prírodné látky a potraviny. Tieto domáce lieky môžu pomôcť detoxikovať pečeň, podporiť jej funkciu a zlepšiť celkové zdravie. Tu sú niektoré z nich:
 
-1.  **[Pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/):**
+1.  **[Pestrec mariánsky](https://www.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/):**
     -   Obsahuje silimarín, zlúčeninu, ktorá je známa svojimi antioxidačnými a protizápalovými vlastnosťami.
     -   Môže chrániť pečeňové bunky pred poškodením a podporiť regeneráciu pečeňového tkaniva.
-2.  **[Kurkuma](https://admin.fitdoplnky.sk/obchod/kurkuma/):**
+2.  **[Kurkuma](https://www.fitdoplnky.sk/obchod/kurkuma/):**
     -   Kurkumín, hlavná zložka kurkumy, má silné protizápalové a antioxidačné vlastnosti.
     -   Pomáha stimulovať produkciu žlče a podporuje detoxikačné procesy v pečeni.
-3.  **[Zelený čaj](https://admin.fitdoplnky.sk/obchod/matcha-booster/):**
+3.  **[Zelený čaj](https://www.fitdoplnky.sk/obchod/matcha-booster/):**
     -   Vysoký obsah antioxidantov, najmä katechínov, ktoré môžu chrániť pečeň pred toxickými poškodeniami.
     -   Môže zlepšovať metabolické funkcie a pomáhať pri prevencii tukovej pečene.
 4.  **Citrónová voda:**

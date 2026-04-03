@@ -27,7 +27,7 @@ Ginko dvojlaločné je nielen esteticky príťažlivé, ale aj liečivo významn
 
 V tomto článku sa bližšie pozrieme na históriu a pôvod ginka, jeho botanickú charakteristiku, liečivé účinky a spôsoby použitia. Dozviete sa tiež o jeho symbolike a význame v rôznych kultúrach. Cieľom tohto článku je poskytnúť vám komplexný prehľad o tomto fascinujúcom strome a jeho potenciáli pre zlepšenie vášho zdravia a pohody.
 
-TIP: [Ginko tabletky / kapsule, Altevita, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/ginko-tabletky/)
+TIP: [Ginko tabletky / kapsule, Altevita, 80 kapsúl](https://www.fitdoplnky.sk/obchod/ginko-tabletky/)
 
 ## História a pôvod ginka
 
@@ -79,7 +79,7 @@ Ginko dvojlaločné je opadavý strom s jedinečným vzhľadom a zaujímavými b
 
 Ginko dvojlaločné je odolný a nenáročný strom, ktorý sa ľahko pestuje a nevyžaduje špeciálnu starostlivosť. Je to skvelá voľba pre tých, ktorí hľadajú okrasný strom s liečivými účinkami a bohatou históriou.
 
-TIP: [Ginko Biloba Prášok, Altevita, 90g](https://admin.fitdoplnky.sk/obchod/ginko/)
+TIP: [Ginko Biloba Prášok, Altevita, 90g](https://www.fitdoplnky.sk/obchod/ginko/)
 
 ## Liečivé účinky ginka
 

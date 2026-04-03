@@ -27,7 +27,7 @@ Inulín je typom rozpustnej vlákniny, ktorý sa nachádza v mnohých bežných 
 
 V tomto článku sa pozrieme na inulín podrobnejšie – čo to presne je, v akých potravinách sa nachádza, ako môže prispieť k zdravému životnému štýlu a aké výhody prináša. Zároveň sa budeme venovať aj možným vedľajším účinkom a odporúčaniam, ako ho začleniť do stravy.
 
-_TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://admin.fitdoplnky.sk/obchod/inulin/)_
+_TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://www.fitdoplnky.sk/obchod/inulin/)_
 
 ## **Definícia a základné charakteristiky inulínu**
 
@@ -99,7 +99,7 @@ Začlenenie inulínu do stravy môže mať mnohé pozitívne účinky na zdravie
 
 Je dôležité pripomenúť, že pri zvyšovaní príjmu vlákniny, vrátane inulínu, je potrebné postupovať postupne a zabezpečiť dostatočný príjem tekutín, aby sa predišlo tráviacim problémom, ako sú nadúvanie alebo plynatosť.
 
-TIP – [Masticha kapsule, Probiotiká, Inulín, Altevita, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/masticha-kapsule/)
+TIP – [Masticha kapsule, Probiotiká, Inulín, Altevita, 80 kapsúl](https://www.fitdoplnky.sk/obchod/masticha-kapsule/)
 
 ## **Možné vedľajšie účinky a riziká**
 

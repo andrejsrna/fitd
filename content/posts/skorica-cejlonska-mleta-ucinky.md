@@ -25,7 +25,7 @@ seo:
 
 Cejlónská škorica, známa aj ako „pravá škorica“, pochádza primárne zo Srí Lanky. Toto korenie, získavané z vnútornej kôry stromov rodu Cinnamomum, sa odlišuje svojou jemnoušou a sladšou chuťou oproti iným druhom škorice. V dávnych časoch bola cejlónská škorica tak cenná, že bola často považovaná za vhodný darček pre kráľov a panovníkov.
 
-[Cejlónská škorica](https://admin.fitdoplnky.sk/obchod/altevita-bio-cejlonska-skorica-mleta-250g/) sa vyznačuje svojím jedinečným zvíjaním a tenkou štruktúrou, ktorá je výsledkom starostlivého spracovania kôry. Toto korenie sa používa nielen pre svoje aromatické a chuťové kvality, ale aj pre svoje potenciálne zdravotné výhody, ktoré boli objektom mnohých výskumov.
+[Cejlónská škorica](https://www.fitdoplnky.sk/obchod/altevita-bio-cejlonska-skorica-mleta-250g/) sa vyznačuje svojím jedinečným zvíjaním a tenkou štruktúrou, ktorá je výsledkom starostlivého spracovania kôry. Toto korenie sa používa nielen pre svoje aromatické a chuťové kvality, ale aj pre svoje potenciálne zdravotné výhody, ktoré boli objektom mnohých výskumov.
 
 V dnešnej dobe je cejlónská škorica cenami nielen pre svoju chuť, ale aj pre jej úlohu v tradičnej a moderní medicíne. Tento úvod ponúka pohľad na historický a kultúrny význam cejlónskej škorice a nastavuje scénu pre podrobnejšie skúmanie jej vlastností a účinkov.
 
@@ -35,7 +35,7 @@ V dnešnej dobe je cejlónská škorica cenami nielen pre svoju chuť, ale aj pr
 
 #### Vzhľad, Chuť a Aroma
 
-Cejlónská škorica, často označovaná ako pravá [škorica](https://admin.fitdoplnky.sk/obchod/zelena-kava-a-skorica/), má niekoľko charakteristických vlastností, ktoré ju odlišujú od ostatných druhov škorice.
+Cejlónská škorica, často označovaná ako pravá [škorica](https://www.fitdoplnky.sk/obchod/zelena-kava-a-skorica/), má niekoľko charakteristických vlastností, ktoré ju odlišujú od ostatných druhov škorice.
 
 -   **Vzhľad**: Je známa svojou tenkou, jemnou a skoro papierovou kôrou, ktorá sa zvíja do tesných špirál pri sušení. Tieto špirály, často opisované ako „cigary“ alebo „valčeky“, majú svetlohnedú farbu a sú oveľa krehkejšie ako kôra iných druhov škorice.
 -   **Chuť**: V porovnaní s inými druhmi škorice má cejlónská škorica menej prudkú a viac jemnú, sladkú chuť. Jej chuť je často opisovaná ako delikátnejšia s náznakmi citrusových tónov a absenciou ostrejších pikantných nôt, ktoré sú typické pre iné druhy škorice.
@@ -60,7 +60,7 @@ Proces výroby mletej cejlónskej škorice je starostlivý a tradičný postup, 
 -   **Výber Stromov**: Cejlónská škorica sa získava z vnútornej kôry malých, vždyzelených stromov z rodu Cinnamomum, ktoré sú staré 2-3 roky.
 -   **Zber Kôry**: Kôra sa zbiera počas obdobia dažďov, keď je vlhkosť vyššia a kôra sa ľahšie oddeľuje od stromu.
 -   **Odstránenie Vonkajšej Kôry**: Vonkajšia kôra je ručne odstránená, aby sa odhalila vnútorná, hodnotnejšia časť.
--   **Macerácia a Fermentácia**: Odstránená kôra sa nechá macerovať a mierne fermentovať, čo pomáha zjemniť textúru a uvoľniť [aromatické oleje](https://admin.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/).
+-   **Macerácia a Fermentácia**: Odstránená kôra sa nechá macerovať a mierne fermentovať, čo pomáha zjemniť textúru a uvoľniť [aromatické oleje](https://www.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/).
 
 #### 2\. Sušenie a Formovanie
 
@@ -95,7 +95,7 @@ Cejlónská škorica je nielen cenami pre svoju chuť a arómu, ale aj pre svoje
 Nutričný profil škorice je zaujímavý, hoci treba pripomenúť, že škorica sa zvyčajne používa v malých množstvách, takže jej prínos k celkovej dennej výžive je obmedzený. Napriek tomu, v typickej jednej čajovej lyžičke (cca 2 gramy) mletej škorice nájdeme:
 
 -   **Kalórie**: Približne 6 kcal.
--   **[Vláknina](https://admin.fitdoplnky.sk/obchod/psyllium/)**: Približne 1,3 g.
+-   **[Vláknina](https://www.fitdoplnky.sk/obchod/psyllium/)**: Približne 1,3 g.
 -   **Uhľohydráty**: Okolo 2 g (z toho väčšina je vláknina).
 -   **Proteín a Tuk**: Minimálne množstvo.
 -   **[Vitamíny](https://zdravievpraxi.sk/vitamin-c-a-neziaduce-ucinky-4-najcastejsie/) a Minerály**: Zahrňuje malé množstvá vápnika, železa, mangánu, vitamínu K a vitamínu E.
@@ -122,7 +122,7 @@ Cejlónská škorica je známa nielen svojou vynikajúcou chuťou a arómou, ale
 
 #### Antioxidantické Vlastnosti
 
--   **Boj proti Oxidatívnemu [Stresu](https://admin.fitdoplnky.sk/obchod/anti-stress-essence/)**: Škorica obsahuje vysoké množstvo antioxidantov, ako sú polyfenoly, ktoré pomáhajú chrániť telo pred poškodením spôsobeným voľnými radikálmi.
+-   **Boj proti Oxidatívnemu [Stresu](https://www.fitdoplnky.sk/obchod/anti-stress-essence/)**: Škorica obsahuje vysoké množstvo antioxidantov, ako sú polyfenoly, ktoré pomáhajú chrániť telo pred poškodením spôsobeným voľnými radikálmi.
 -   **Celkové Zdravie a Prevencia Chorôb**: Tieto antioxidantické vlastnosti môžu prispievať k lepšiemu celkovému zdraviu a pomáhajú pri prevencii rôznych chronických chorôb.
 
 #### Vplyv na Hladinu Cukru v Krvi
@@ -143,7 +143,7 @@ Cejlónská škorica je kľúčovou ingredienciou v mnohých pečených výrobko
 
 ## Použitie Cejlónskej Škorice v Kuchyni a Alternatívnej Medicíne
 
-Cejlónská škorica ([Škoricový esenciálny olej](https://admin.fitdoplnky.sk/obchod/skorica-essence/)) je vysoko cenami nielen pre svoje zdravotné výhody, ale aj pre svoju univerzálnosť v kuchyni a použitie v alternatívnej medicíne.
+Cejlónská škorica ([Škoricový esenciálny olej](https://www.fitdoplnky.sk/obchod/skorica-essence/)) je vysoko cenami nielen pre svoje zdravotné výhody, ale aj pre svoju univerzálnosť v kuchyni a použitie v alternatívnej medicíne.
 
 #### Použitie v Kulinárstve
 

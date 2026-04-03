@@ -27,7 +27,7 @@ Pre diabetikov je dôležité zameriavať sa na potraviny s nízkym glykemickým
 
 Tento článok poskytne návod na vytvorenie vyváženého týždenného jedálnička pre diabetikov, ktorý bude nielen zdravý, ale aj chutný a uspokojí rôzne gastronomické preferencie. Od raňajok po večeru, vrátane zdravých snackov, vás prevedieme možnosťami, ktoré vám pomôžu zvládať váš diabetes efektívne a chutne.
 
-_TIP – [Quinoa](https://admin.fitdoplnky.sk/obchod/quinoa/)_
+_TIP – [Quinoa](https://www.fitdoplnky.sk/obchod/quinoa/)_
 
 ## Základné princípy výživy pre diabetikov
 
@@ -105,7 +105,7 @@ Quinoa s grilovanou zeleninou
 
 Tieto návrhy pre pondelok ponúkajú vyvážené kombinácie bielkovín, zdravých tukov a komplexných sacharidov, čo pomáha udržiavať stabilnú hladinu cukru v krvi a zabezpečuje dostatočnú energiu počas celého dňa.
 
-_TIP – [Cejlónska škorica mletá](https://admin.fitdoplnky.sk/obchod/altevita-bio-cejlonska-skorica-mleta-250g/)_
+_TIP – [Cejlónska škorica mletá](https://www.fitdoplnky.sk/obchod/altevita-bio-cejlonska-skorica-mleta-250g/)_
 
 ## Utorok
 
@@ -195,7 +195,7 @@ Chia puding s mandľovým mliekom a lesným ovocím
 
 Tieto jedlá pre stredajší deň sú navrhnuté tak, aby poskytovali vyvážený mix bielkovín, tukov a sacharidov, čím pomáhajú diabetikom udržiavať stabilnú hladinu cukru v krvi a zároveň sa cítiť nasýtení a energickí počas celého dňa.
 
-TIP – [Horká čokoládova tyčinka Balance, pre diabetikov](https://admin.fitdoplnky.sk/obchod/horka-cokoladova-tycinka-balance/)
+TIP – [Horká čokoládova tyčinka Balance, pre diabetikov](https://www.fitdoplnky.sk/obchod/horka-cokoladova-tycinka-balance/)
 
 ## Štvrtok
 
@@ -284,7 +284,7 @@ Pečený losos s bylinkovou krustou
 
 Tieto jedlá pre piatok sú navrhnuté tak, aby poskytovali potrebné živiny a pomáhali udržiavať stabilnú hladinu cukru v krvi, zatiaľ čo ponúkajú príjemné a chutné možnosti na konci pracovného týždňa.
 
-_TIP – [Ryžový proteín](https://admin.fitdoplnky.sk/obchod/ryzovy-protein/)_
+_TIP – [Ryžový proteín](https://www.fitdoplnky.sk/obchod/ryzovy-protein/)_
 
 ## Sobota
 
@@ -323,7 +323,7 @@ _TIP – [Ryžový proteín](https://admin.fitdoplnky.sk/obchod/ryzovy-protein/)
 
 Tieto jedlá na sobotu poskytujú pestrú a chutnú výživu, ktorá je zároveň priaznivá pre udržiavanie hladiny cukru v krvi diabetikov. Vyvážený prísun bielkovín, tukov a komplexných sacharidov zabezpečuje, že zostanú sýti a plní energie počas celého dňa.
 
-_TIP – [Ľanové semienka](https://admin.fitdoplnky.sk/obchod/lanove-semienka/)_
+_TIP – [Ľanové semienka](https://www.fitdoplnky.sk/obchod/lanove-semienka/)_
 
 ## Nedeľa
 
@@ -366,7 +366,7 @@ _TIP – [Ľanové semienka](https://admin.fitdoplnky.sk/obchod/lanove-semienka/
 
 Tieto nedeľné jedlá sú navrhnuté tak, aby poskytli zdravý a chutný koniec týždňa, pričom zároveň podporujú stabilnú hladinu cukru v krvi u diabetikov. Vyvážený príjem z rôznych živinových skupín pomáha udržiavať energiu a pohodu počas celého dňa.
 
-_TIP – [Biela čokoláda pre diabetikov](https://admin.fitdoplnky.sk/obchod/balance-cokolada-biela-s-vanilkou-bez-pridaneho-cukru-dia-100g/)_
+_TIP – [Biela čokoláda pre diabetikov](https://www.fitdoplnky.sk/obchod/balance-cokolada-biela-s-vanilkou-bez-pridaneho-cukru-dia-100g/)_
 
 ## Tipy na zdravé snacky a nápoje
 
@@ -404,7 +404,7 @@ _TIP – [Biela čokoláda pre diabetikov](https://admin.fitdoplnky.sk/obchod/ba
 
 Je dôležité, aby diabetici vyberali snacky a nápoje, ktoré pomáhajú udržiavať stabilnú hladinu cukru v krvi, zároveň poskytujú potrebné živiny a prispievajú k celkovej pohode.
 
-_TIP – [Mandle](https://admin.fitdoplnky.sk/obchod/mandle/)_
+_TIP – [Mandle](https://www.fitdoplnky.sk/obchod/mandle/)_
 
 ## Ako prispôsobiť jedálny lístok individuálnym potrebám
 
@@ -427,7 +427,7 @@ _TIP – [Mandle](https://admin.fitdoplnky.sk/obchod/mandle/)_
 
 Tieto rady vám pomôžu prispôsobiť jedálny lístok vašim individuálnym potrebám a preferenciám, čím zabezpečíte, že vaša strava bude nielen zdravá a vyvážená, ale aj chutná a uspokojujúca.
 
-_TIP – [Xylitol](https://admin.fitdoplnky.sk/obchod/xylicare-eukalyptus/)_
+_TIP – [Xylitol](https://www.fitdoplnky.sk/obchod/xylicare-eukalyptus/)_
 
 ## Týždenný jedálny lístok pre diabetikov – záver
 

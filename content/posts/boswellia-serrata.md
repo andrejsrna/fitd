@@ -117,7 +117,7 @@ V posledných rokoch bola Boswellia serrata predmetom zvýšeného záujmu vo ve
 
 Výsledky týchto výskumov sú sľubné, ale je potrebné ďalšie preskúmanie a výskum na lepšie pochopenie mechanizmov pôsobenia a na stanovenie optimálnych dávkovacích schém a bezpečnostných profilov. Klinické štúdie a výskumy pomáhajú vytvárať základ pre potenciálne využitie Boswellia serrata v modernom zdravotníctve ako doplnkový prostriedok pri liečbe rôznych zdravotných stavov.
 
-_TIP – [Kiddy Sleepy, lepší spánok bábatiek](https://admin.fitdoplnky.sk/obchod/kiddy-sleepy/)_
+_TIP – [Kiddy Sleepy, lepší spánok bábatiek](https://www.fitdoplnky.sk/obchod/kiddy-sleepy/)_
 
 ## Použitie Boswellia Serrata v Súčasnej Zdravotnej Starostlivosti
 
@@ -168,7 +168,7 @@ Hoci sú vedľajšie účinky zriedkavé, niektorí ľudia môžu zažiť:
 
 Celkovo, hoci Boswellia serrata je považovaná za bezpečný doplnok, je dôležité pristupovať k jej užívaniu zodpovedne a vždy zvážiť možné interakcie a individuálne zdravotné potreby.
 
-_TIP – [Protizápalové lieky na kĺby](https://admin.fitdoplnky.sk/wp-admin/post.php?post=46437&action=edit)_
+_TIP – [Protizápalové lieky na kĺby](https://www.fitdoplnky.sk)_
 
 ## Boswellia Serata – záver
 

@@ -170,7 +170,7 @@ Byliny a doplnky stravy môžu byť užitočné pri regulácii vysokého krvnéh
     
 3.  **Olej z pečene rýb** – Rybí olej je bohatý na o**mega-3 mastné kyseliny**, ktoré môžu pomôcť znížiť zápal a zlepšiť zdravie srdca a krvných ciev.
     
-4.  **[Koenzým Q10](https://admin.fitdoplnky.sk/koenzym-q10/) (CoQ10)** – CoQ10 je **antioxidant, ktorý sa prirodzene vyskytuje v tele a pomáha pri tvorbe energie v bunkách**. Môže pomôcť zlepšiť zdravie srdca a znížiť krvný tlak.
+4.  **[Koenzým Q10](https://www.fitdoplnky.sk/koenzym-q10/) (CoQ10)** – CoQ10 je **antioxidant, ktorý sa prirodzene vyskytuje v tele a pomáha pri tvorbe energie v bunkách**. Môže pomôcť zlepšiť zdravie srdca a znížiť krvný tlak.
     
 5.  **Draslík** – Draslík je dôležitý minerál, ktorý pomáha **udržiavať normálnu hladinu krvného tlaku.** Potraviny bohaté na draslík, ako sú banány, avokádo a špenát, môžu pomôcť zlepšiť zdravie srdca.
     

@@ -25,7 +25,7 @@ seo:
 
 MCT je skratka pre stredne reťazcové triglyceridy (medium-chain triglycerides), čo sú druhy tukov nachádzajúce sa vo vysokom množstve v niektorých olejoch a mliečnych produktoch. Na rozdiel od dlho reťazcových triglyceridov, ktoré tvoria väčšinu tukov v strave, MCT sa vyznačujú kratšou dĺžkou reťazca, čo uľahčuje ich trávenie a umožňuje rýchlejšiu konverziu na energiu. Hlavnými zdrojmi MCT oleja sú kokosový olej, palmový olej a mliečne výrobky. Jeho extrakcia a koncentrácia týchto triglyceridov vedie k vytvoreniu čistého MCT oleja, ktorý poskytuje sústredený zdroj týchto unikátnych tukov.
 
-TIP – [MCT Olej, Olej z kokosu, Altevita, 500ml](https://admin.fitdoplnky.sk/obchod/mct-olej/)
+TIP – [MCT Olej, Olej z kokosu, Altevita, 500ml](https://www.fitdoplnky.sk/obchod/mct-olej/)
 
 ## Čo je MCT olej?
 
@@ -72,7 +72,7 @@ Výroba MCT oleja zahŕňa proces extrakcie a čistenia, ktorý oddeľuje stredn
 
 Výsledkom tohto procesu je čistý MCT olej, ktorý je koncentrovaným zdrojom stredne reťazcových triglyceridov a môže byť ľahko pridaný do stravy bez prítomnosti iných tukov, ktoré sú bežné v jeho prírodných zdrojoch. Výroba MCT oleja vyžaduje špeciálne technológie a postupy, aby sa zabezpečila jeho čistota a zachovali sa jeho unikátne vlastnosti.
 
-TIP – [Vegánske probiotiká, Vegan Probiotics Creamer, Altevita, 120g](https://admin.fitdoplnky.sk/obchod/vegan-probiotics-creamer/)
+TIP – [Vegánske probiotiká, Vegan Probiotics Creamer, Altevita, 120g](https://www.fitdoplnky.sk/obchod/vegan-probiotics-creamer/)
 
 ## Výhody MCT oleja
 
@@ -119,7 +119,7 @@ MCT olej sa dá ľahko zaradiť do stravy rôznymi spôsobmi, či už pre jeho p
 
 Pri integrácii MCT oleja do vašej stravy je dôležité dbať na vyváženosť a neprekračovať odporúčané denné dávky, aby ste predišli možným vedľajším účinkom. Ako vždy, pri akýchkoľvek zmenách vo vašej strave alebo doplnkovej výžive je dobré konzultovať s lekárom alebo odborníkom na výživu, najmä ak máte existujúce zdravotné stavy.
 
-TIP – [Zubný olej, Fresh, Organic, Altevita, 50ml](https://admin.fitdoplnky.sk/obchod/altevita-zubny-olej-fresh-50-ml/)
+TIP – [Zubný olej, Fresh, Organic, Altevita, 50ml](https://www.fitdoplnky.sk/obchod/altevita-zubny-olej-fresh-50-ml/)
 
 ## Bezpečnosť a vedľajšie účinky MCT oleja
 
@@ -182,7 +182,7 @@ MCT olej je všestranný a dá sa pridať do kávy, smoothies, šalátových dre
 
 Hoci MCT olej môže byť prospešný ako súčasť vyváženej stravy, nemal by nahradiť všetky tuky vo vašej strave. Je dôležité konzumovať rôznorodé zdroje tukov, vrátane tých s dlhými reťazcovými triglyceridmi (LCTs), ktoré sú tiež dôležité pre zdravie.
 
-TIP – [Maslo Ghee, Z vysočiny, Najlepšia kvalita z Čiech, 220ml](https://admin.fitdoplnky.sk/obchod/maslo-ghee/)
+TIP – [Maslo Ghee, Z vysočiny, Najlepšia kvalita z Čiech, 220ml](https://www.fitdoplnky.sk/obchod/maslo-ghee/)
 
 ## Záver
 

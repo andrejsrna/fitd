@@ -11,7 +11,7 @@ import { cn } from "@/lib/utils";
 
 import Link from "next/link";
 import Balancer from "react-wrap-balancer";
-import { notFound } from "next/navigation";
+import { LegacyContentNotice } from "@/components/legacy/legacy-content-notice";
 
 export async function generateStaticParams() {
   const posts = await getAllPosts();
@@ -46,7 +46,12 @@ export async function generateMetadata({
 export default async function Page({ params }: { params: { slug: string } }) {
   const post = await getPostBySlug(params.slug);
   if (!post) {
-    notFound();
+    return (
+      <LegacyContentNotice
+        title="Tento starý článkový odkaz už nie je dostupný"
+        description="Narazili ste na starý článok z pôvodného WordPress webu, ktorý sa už nepodarilo jednoznačne namapovať po migrácii. Nový web beží staticky bez WordPressu, takže vás namiesto 404 presmerovávame na bezpečný fallback."
+      />
+    );
   }
 
   const html = await markdownToHtml(post.markdown);

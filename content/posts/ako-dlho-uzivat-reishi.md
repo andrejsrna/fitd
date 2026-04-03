@@ -25,7 +25,7 @@ Ako dlho užívať Reishi – 5 základných tipov. Reishi huby, známe tiež po
 
 V súčasnosti je význam Reishi húb pre zdravie podporovaný modernými vedeckými štúdiami, ktoré skúmajú ich potenciál v oblastiach ako zlepšenie imunity, antioxidačné vlastnosti, podpora srdcovocievneho zdravia a potlačenie únavy. Tieto huby obsahujú rôzne bioaktívne zlúčeniny, vrátane polysacharidov, triterpenoidov a peptidoglykanov, ktoré môžu prispievať k ich zdravotným prínosom. Aj keď je potrebné ďalšie výskumy na presné určenie mechanizmov účinku a optimálneho dávkovania, súčasná evidencia naznačuje, že Reishi môžu byť cenným doplnkom k podpore celkového zdravia a pohody.
 
-TIP – [Curcumin Reishi Complex, Altevita, 60ks](https://admin.fitdoplnky.sk/obchod/altevita-curcumin-reishi-complex-60ks/)
+TIP – [Curcumin Reishi Complex, Altevita, 60ks](https://www.fitdoplnky.sk/obchod/altevita-curcumin-reishi-complex-60ks/)
 
 ## Čo sú Reishi huby?
 
@@ -72,7 +72,7 @@ Okrem špecifických zdravotných výhod sa Reishi huby často používajú pre 
 
 Hoci je potrebný ďalší výskum na plné pochopenie a potvrdenie všetkých potenciálnych výhod Reishi húb, súčasné dôkazy naznačujú, že môžu byť cenným doplnkom pre tých, ktorí hľadajú prirodzené spôsoby, ako podporiť svoje zdravie a pohodu. Ako pri každom doplnku stravy, je dôležité konzultovať s kvalifikovaným zdravotníckym pracovníkom pred začatím užívania Reishi, najmä ak už užívate iné lieky alebo máte zdravotné problémy.
 
-TIP – [Reishi prášok, Imunita, Energia, Proti rakovine, 60g](https://admin.fitdoplnky.sk/obchod/reishi-powder/)
+TIP – [Reishi prášok, Imunita, Energia, Proti rakovine, 60g](https://www.fitdoplnky.sk/obchod/reishi-powder/)
 
 ## Ako dlho užívať Reishi
 
@@ -125,7 +125,7 @@ Pri zvažovaní začatia s užívaním Reishi húb je dôležité mať na pamät
 
 Dodržiavaním týchto praktických tipov môžete začať s užívaním Reishi húb spôsobom, ktorý podporuje vaše zdravie a pohodu, zatiaľ čo minimalizujete riziko vedľajších účinkov. Pamätajte, že aj keď Reishi môžu ponúkať mnohé potenciálne výhody, mali by byť súčasťou vyváženej stravy a zdravého životného štýlu.
 
-TIP – [Káva s reishi, Prémiová instantná káva, s Vlákninou, Reishi Coffee, 100g](https://admin.fitdoplnky.sk/obchod/kvalitne-reishi-tablety/)
+TIP – [Káva s reishi, Prémiová instantná káva, s Vlákninou, Reishi Coffee, 100g](https://www.fitdoplnky.sk/obchod/kvalitne-reishi-tablety/)
 
 ## Záver
 

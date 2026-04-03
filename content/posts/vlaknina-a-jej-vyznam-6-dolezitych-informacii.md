@@ -52,7 +52,7 @@ Zdroje vlákniny sú rôznorodé a zahŕňajú širokú paletu potravín. Tu sú
 -   **Ovocie:** Napríklad jablká, hrušky, bobule a banány.
 -   **Zelenina:** Ako brokolica, kapusta, mrkva a kel.
 -   **Strukoviny:** Fazuľa, šošovica, hrach a cícer.
--   **Orechy a semená:** Mandľe, chia semienka a [ľanové semienka](https://admin.fitdoplnky.sk/obchod/lanove-semienka/).
+-   **Orechy a semená:** Mandľe, chia semienka a [ľanové semienka](https://www.fitdoplnky.sk/obchod/lanove-semienka/).
 
 Inklúziou týchto potravín do vašej stravy môžete zabezpečiť dostatočný príjem vlákniny, ktorý je dôležitý pre trávenie a celkové zdravie. V nasledujúcich častiach sa pozrieme na konkrétne zdravotné prínosy vlákniny a odporúčania pre jej príjem.
 

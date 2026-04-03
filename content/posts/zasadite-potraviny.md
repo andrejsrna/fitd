@@ -27,7 +27,7 @@ Strava má priamy vplyv na pH hodnoty v tele, pretože rôzne potraviny po ich m
 
 Udržiavanie správnej rovnováhy pH prostredníctvom stravovania je preto základným krokom k podpore celkového zdravia a prevencii mnohých chorôb. Zahrnutie zásaditých potravín do jedálnička môže pomôcť neutralizovať nadmernú kyslosť a podporiť tak optimálne fungovanie organizmu.
 
-TIP – [Quinoa biela, Altevita](https://admin.fitdoplnky.sk/obchod/quinoa/)
+TIP – [Quinoa biela, Altevita](https://www.fitdoplnky.sk/obchod/quinoa/)
 
 ## Základné pojmy
 
@@ -94,13 +94,13 @@ Zásadité potraviny sú dôležité pre udržanie zdravého pH rovnováhy v tel
 
 #### Orechy a semená
 
--   **[Mandle](https://admin.fitdoplnky.sk/obchod/mandle-blansirovane/):** Sú jednými z mála orechov, ktoré majú zásadotvorný účinok, a sú tiež dobrým zdrojom zdravých tukov a proteínov.
--   **[Ľanové semená](https://admin.fitdoplnky.sk/obchod/lanove-semienka/):** Majú nielen zásadotvorný účinok, ale sú tiež bohaté na omega-3 mastné kyseliny a vlákninu.
+-   **[Mandle](https://www.fitdoplnky.sk/obchod/mandle-blansirovane/):** Sú jednými z mála orechov, ktoré majú zásadotvorný účinok, a sú tiež dobrým zdrojom zdravých tukov a proteínov.
+-   **[Ľanové semená](https://www.fitdoplnky.sk/obchod/lanove-semienka/):** Majú nielen zásadotvorný účinok, ale sú tiež bohaté na omega-3 mastné kyseliny a vlákninu.
 
 #### Obilniny a iné produkty
 
 -   Väčšina obilnín pôsobí v tele skôr kyslo, avšak existujú výnimky, ako napríklad:
-    -   **[Amarant](https://admin.fitdoplnky.sk/obchod/mikrozelenina-amarant-laskavec/) a quinoa:** Sú považované za viac zásadotvorné v porovnaní s tradičnými obilninami a sú dobrým zdrojom rastlinných proteínov.
+    -   **[Amarant](https://www.fitdoplnky.sk/obchod/mikrozelenina-amarant-laskavec/) a quinoa:** Sú považované za viac zásadotvorné v porovnaní s tradičnými obilninami a sú dobrým zdrojom rastlinných proteínov.
 -   **Tofu a tempeh:** Fermentované sójové produkty ako tofu a tempeh môžu mať tiež zásadotvorný účinok a sú výbornou alternatívou proteínu pre vegetariánov a vegánov.
 
 Pokiaľ ide o mäso a iné živočíšne produkty, tieto sú zvyčajne klasifikované ako kyslotvorné potraviny. Preto, ak hľadáte zásadotvorné efekty, je lepšie sa sústrediť na rastlinné zdroje potravín.

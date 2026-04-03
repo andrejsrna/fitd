@@ -25,7 +25,7 @@ Ako užívať pestrec mariánsky? Pestrec mariánsky, vedecky známy ako Silybum
 
 Historicky bol pestrec mariánsky užívaný v tradičnej medicíne po celé stáročia. Starovekí Gréci a Rímania využívali jeho hojivé účinky, predovšetkým na ochranu a podporu pečene a žlčníka. Moderné vedecké štúdie potvrdzujú niektoré z týchto tradičných použití, najmä pokiaľ ide o **podporu zdravia pečene.**
 
-[Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) sa dá užívať v rôznych formách, ako sú kapsule, čaj, prášok alebo tinktúra. Silymarín, aktívna zložka pestreca, **je silný antioxidant a má antiinflamatorické účinky, ktoré môžu pomôcť pri rôznych zdravotných problémoch.**
+[Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) sa dá užívať v rôznych formách, ako sú kapsule, čaj, prášok alebo tinktúra. Silymarín, aktívna zložka pestreca, **je silný antioxidant a má antiinflamatorické účinky, ktoré môžu pomôcť pri rôznych zdravotných problémoch.**
 
 Cieľom tohto článku je poskytnúť podrobný prehľad o tom, ako užívať pestrec mariánsky. Dozviete sa o rôznych formách tohto doplnku, ako aj o tom, ako ho bezpečne užívať. Tiež sa dozviete o jeho možných zdravotných výhodách a potenciálnych vedľajších účinkoch. Bez ohľadu na to, či sa pokúšate obohatiť svoju stravu o tento doplnok alebo hľadáte prirodzenú podporu pre svoje zdravie pečene, tento článok vám poskytne všetky potrebné informácie.
 

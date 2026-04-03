@@ -29,7 +29,7 @@ Esenciálne oleje sú výťažky z rastlín, ktoré zachovávajú charakteristic
 
 V nasledujúcich častiach sa pozrieme na to, ako môžete efektívne využívať esenciálne oleje v praní, na ich potenciálne zdravotné výhody a na to, ako si môžete vyrobiť vlastné aviváže s pridanými vonnými olejmi.
 
-_TIP – [Esenciálny olej Levanduľa](https://admin.fitdoplnky.sk/obchod/levandula-essence/)_
+_TIP – [Esenciálny olej Levanduľa](https://www.fitdoplnky.sk/obchod/levandula-essence/)_
 
 ## Čo sú vonné oleje
 
@@ -70,7 +70,7 @@ Citron ponúka sviežu a čistú vôňu, ktorá je vynikajúca na osvieženie ob
 
 Celkovo ponúkajú esenciálne oleje v praní zdravú, ekologickú a prispôsobiteľnú alternatívu k tradičným pracom prostriedkom, čím vytvárajú príjemné a udržateľné domáce prostredie.
 
-_TIP – [Organický esenciálny olej Ylang-Ylang](https://admin.fitdoplnky.sk/obchod/esencia-ylang-ylang/)_
+_TIP – [Organický esenciálny olej Ylang-Ylang](https://www.fitdoplnky.sk/obchod/esencia-ylang-ylang/)_
 
 ## Ako používať vonné oleje v praní
 
@@ -142,7 +142,7 @@ Zvyčajne stačí 3-5 kvapiek oleja na jednu dávku prádla.
 
 Tieto jednoduché DIY recepty na prírodné aviváže s použitím esenciálnych olejov vám umožnia prispôsobiť vôňu a vlastnosti aviváže podľa vašich osobných potrieb a preferencií.
 
-_TIP – [Esenciálny olej z čajovníka](https://admin.fitdoplnky.sk/obchod/tea-tree-olej/)_
+_TIP – [Esenciálny olej z čajovníka](https://www.fitdoplnky.sk/obchod/tea-tree-olej/)_
 
 ## Riešenie problémov a časté otázky
 

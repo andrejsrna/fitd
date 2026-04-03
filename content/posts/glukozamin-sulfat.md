@@ -23,7 +23,7 @@ seo:
   description: "ťaV tomto článku sa pozrieme na to, čo je glukozamín sulfát, aké sú jeho potenciálne výhody a riziká, ako aj na to ako ho užívať"
   ogImage: "https://cdn.fitdoplnky.sk/2023/02/Glukozamin-sulfat-5-ucinkov-pre-nase-zdravie.jpg"
 ---
-Glukozamín sulfát je populárny [suplement](https://admin.fitdoplnky.sk/suplementy-ich-ucinky-a-bezpecnost/), ktorý sa **používa na zlepšenie zdravia kĺbov**. Táto prírodná chemická zlúčenina je súčasťou chrupavkového tkaniva a podporuje jeho zdravie a funkciu. Aj keď existuje mnoho štúdií, ktoré skúmajú účinky na kĺby, nie všetky súhlasia s jeho účinnosťou. V tomto článku sa pozrieme na to, čo je glukozamín sulfát, aké sú jeho potenciálne výhody a riziká, ako aj na to, ktorí ľudia by mali glukozamín užívať.
+Glukozamín sulfát je populárny [suplement](https://www.fitdoplnky.sk/suplementy-ich-ucinky-a-bezpecnost/), ktorý sa **používa na zlepšenie zdravia kĺbov**. Táto prírodná chemická zlúčenina je súčasťou chrupavkového tkaniva a podporuje jeho zdravie a funkciu. Aj keď existuje mnoho štúdií, ktoré skúmajú účinky na kĺby, nie všetky súhlasia s jeho účinnosťou. V tomto článku sa pozrieme na to, čo je glukozamín sulfát, aké sú jeho potenciálne výhody a riziká, ako aj na to, ktorí ľudia by mali glukozamín užívať.
 
 Je to sacharid, ktorý sa **prirodzene vyskytuje v tele**. Je súčasťou chrupavkového tkaniva, ktoré sa nachádza v kĺboch a pomáha chrániť kosti pred tým, aby sa otierali o seba. Vyrába sa z chitinu, ktorý sa nachádza v kôrach kôrovcov, kreviet a krevietok.
 
@@ -59,7 +59,7 @@ Glukozamín sulfát môže byť užitočný pre ľudí, ktorí **majú problémy
 
 Okrem toho niektoré skupiny ľudí by mali byť **opatrní pri užívaní**. Patria sem tehotné a dojčiace ženy, deti a ľudia s cukrovkou alebo s poruchami krvnej zrážanlivosti. Títo ľudia by sa mali najprv poradiť so svojím lekárom pred užívaním glukozamínu.
 
-[![jointboost](https://cdn.fitdoplnky.sk/2023/06/jointboost-300x300.jpg "jointboost")](https://admin.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
+[![jointboost](https://cdn.fitdoplnky.sk/2023/06/jointboost-300x300.jpg "jointboost")](https://www.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
 
 jointboost
 
@@ -67,7 +67,7 @@ jointboost
 
 JointBoost Regenerácia kĺbov a chrupavky je unikátny doplnok stravy, navrhnutý špeciálne na podporu zdravia a regenerácie kĺbov a chrupavky. Vďaka vysokokvalitným zložkám ako sú glukozamín, chondroitín, MSM a kolagén, tento produkt poskytuje telu esenciálne živiny potrebné pre správne fungovanie a obnovu kĺbových tkanív.
 
-[Zobraziť viac](https://admin.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
+[Zobraziť viac](https://www.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
 
 ## Cena glukozamínu
 

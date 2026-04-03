@@ -23,7 +23,7 @@ seo:
   description: ""
   ogImage: "https://cdn.fitdoplnky.sk/2023/03/Chlorella-6-super-ucinkov-pre-zdravie.png"
 ---
-Chlorella je **mikroskopická sladkovodná riasa, ktorá je populárna ako výživový doplnok a [suplement](https://zdravievpraxi.sk/suplementy-7-najlepsich-suplementov-pre-nase-telo/)**. Je to zelená riasa, ktorá sa často vyskytuje vo forme prášku, tabletky alebo kapsule. Chlorella sa používa v tradičnej čínskej a japonskej medicíne ako prostriedok na podporu imunity, detoxikáciu a celkové [zdravie](https://admin.fitdoplnky.sk/zdravy-zivotny-styl/).
+Chlorella je **mikroskopická sladkovodná riasa, ktorá je populárna ako výživový doplnok a [suplement](https://zdravievpraxi.sk/suplementy-7-najlepsich-suplementov-pre-nase-telo/)**. Je to zelená riasa, ktorá sa často vyskytuje vo forme prášku, tabletky alebo kapsule. Chlorella sa používa v tradičnej čínskej a japonskej medicíne ako prostriedok na podporu imunity, detoxikáciu a celkové [zdravie](https://www.fitdoplnky.sk/zdravy-zivotny-styl/).
 
 Chlorella má vysoký obsah **bielkovín, vlákniny, vitamínov a minerálov**. Je bohatá na železo, vitamín C, vitamín B12 a beta-karotén. Okrem toho obsahuje aj malé množstvá ďalších živín, ako sú napríklad zinok, selén, meď a mnoho antioxidantov.
 

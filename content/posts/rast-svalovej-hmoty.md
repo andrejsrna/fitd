@@ -33,7 +33,7 @@ seo:
   description: "Rast svalov je cieľom mnohých ľudí, ktorí sa venujú cvičeniu. V tomto článku sa pozrieme na niektoré základné kroky pre rast svalov."
   ogImage: "https://cdn.fitdoplnky.sk/2023/02/Rast-svalov-Ako-dosiahnut-svoje-ciele.jpg"
 ---
-Rast [svalov](https://admin.fitdoplnky.sk/svaly-dolezity-organ-pre-silu-a-pohyb/) je cieľom mnohých ľudí, ktorí sa venujú cvičeniu. Niektorí chcú zlepšiť svoje zdravie a fyzickú kondíciu, zatiaľ čo iní sa snažia dosiahnuť estetický vzhľad, ktorý ich bude sprevádzať celý život. Bez ohľadu na to, aký je váš dôvod pre budovanie svalovej hmoty, existujú isté kroky, ktoré môžete podniknúť na dosiahnutie svojich cieľov. V tomto článku sa pozrieme na niektoré základné kroky pre rast svalov.
+Rast [svalov](https://www.fitdoplnky.sk/svaly-dolezity-organ-pre-silu-a-pohyb/) je cieľom mnohých ľudí, ktorí sa venujú cvičeniu. Niektorí chcú zlepšiť svoje zdravie a fyzickú kondíciu, zatiaľ čo iní sa snažia dosiahnuť estetický vzhľad, ktorý ich bude sprevádzať celý život. Bez ohľadu na to, aký je váš dôvod pre budovanie svalovej hmoty, existujú isté kroky, ktoré môžete podniknúť na dosiahnutie svojich cieľov. V tomto článku sa pozrieme na niektoré základné kroky pre rast svalov.
 
 ## Cvičte
 

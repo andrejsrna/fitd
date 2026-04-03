@@ -27,7 +27,7 @@ V kuchyni sa šalvia obľubuje pre jej silnú, mierne pikantnú chuť, ktorá sk
 
 Napriek týmto mnohým prínosom je však dôležité byť si vedomým, že šalvia môže v niektorých prípadoch spôsobiť aj nežiadúce účinky. Najmä pri nadmernej konzumácii alebo použití v koncentrovanej forme, ako sú éterické oleje, môže šalvia spôsobiť rôzne zdravotné problémy. Je preto kľúčové pristupovať k jej používaniu uvážlivo a s rešpektom k jej silným účinkom. Tento článok poskytne podrobný prehľad možných nežiadúcich účinkov šalvie, aby čitatelia mohli robiť informované rozhodnutia o jej používaní vo svojom živote.
 
-TIP – [Šalvia lekárska, Hydrolát, BIO, Altevita, 200ml](https://admin.fitdoplnky.sk/obchod/salvia-lekarska/)
+TIP – [Šalvia lekárska, Hydrolát, BIO, Altevita, 200ml](https://www.fitdoplnky.sk/obchod/salvia-lekarska/)
 
 ## Všeobecné informácie o šalvii
 
@@ -82,7 +82,7 @@ Ako pri mnohých rastlinách, aj pri šalvii existuje riziko alergických reakci
 
 Je dôležité pamätať na to, že aj keď sú tieto nežiadúce účinky možné, pri moderovanej konzumácii a používaní šalvie podľa odporúčaní sú väčšinou vzácne. Vždy je však najlepšie konzultovať použitie akýchkoľvek byliniek alebo doplnkov s kvalifikovaným zdravotníckym pracovníkom, najmä ak užívate iné lieky alebo máte existujúce zdravotné problémy.
 
-TIP – [Šalvia, Esenciálny olej, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/salvia-essence/)
+TIP – [Šalvia, Esenciálny olej, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/salvia-essence/)
 
 ## Interakcie šalvie s liekmi
 
@@ -139,7 +139,7 @@ Pri užívaní šalvie, ako aj iných bylinných doplnkov, je dôležité dodrž
 
 Dodržiavaním týchto bezpečnostných odporúčaní môžete maximalizovať prínosy šalvie pre vaše zdravie a minimalizovať potenciálne riziká. Vždy je lepšie byť pri používaní byliniek opatrný a informovaný, a v prípade akýchkoľvek pochybností sa poradiť so zdravotníckym odborníkom.
 
-TIP – [Šalvia a ľevandula, Organic Goodness, 1ks](https://admin.fitdoplnky.sk/obchod/organicky-difuzer-sage-lavender/)
+TIP – [Šalvia a ľevandula, Organic Goodness, 1ks](https://www.fitdoplnky.sk/obchod/organicky-difuzer-sage-lavender/)
 
 ## Nežiadúce účinky šalvie – Záver
 

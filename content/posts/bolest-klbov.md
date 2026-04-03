@@ -26,7 +26,7 @@ Bolesť kĺbov je bežným problémom, ktorý môže postihnúť ľudí všetký
 ## Príčiny bolesti kĺbov
 
 1.  **Artritída:** Artritída je najčastejšou príčinou bolesti kĺbov. Ide o zápalové ochorenie kĺbov, ktoré sa vyskytuje v rôznych formách, ako sú reumatoidná artritída, osteoartritída a dňa.
-2.  **[Poranenia](https://admin.fitdoplnky.sk/poranenia-koze-ako-sa-starat-o-zranenu-kozu-a-zabranit-infekcii/):** Bolesť kĺbov môže byť spôsobená poranením, ako sú natiahnuté alebo natrhnuté väzy, zlomeniny alebo vyklbenie kĺbu.
+2.  **[Poranenia](https://www.fitdoplnky.sk/poranenia-koze-ako-sa-starat-o-zranenu-kozu-a-zabranit-infekcii/):** Bolesť kĺbov môže byť spôsobená poranením, ako sú natiahnuté alebo natrhnuté väzy, zlomeniny alebo vyklbenie kĺbu.
 3.  **Infekcie:** Niektoré infekcie môžu spôsobiť bolesť kĺbov, ako napríklad infekcia spôsobená baktériami alebo vírusmi.
 4.  **Nadváha:** Nadváha môže spôsobiť zvýšený tlak na kĺby a zvýšiť riziko bolesti kĺbov.
 5.  **Nadmerné zaťaženie:** Nadmerné zaťaženie kĺbov, ako napríklad dlhodobé preťažovanie pri športe, môže spôsobiť bolesť a zápal.
@@ -76,7 +76,7 @@ Pred začatím užívania akýchkoľvekdoplnkov stravy alebo byliniek na bolesť
 
 Pri užívaní doplnkov stravy a byliniek na bolesť kĺbov je dôležité dodržiavať odporúčané dávkovanie a konzultovať s odborníkom. Je tiež dobré mať na pamäti, že účinnosť a bezpečnosť niektorých z týchto doplnkov môže byť rôzna u rôznych jedincov. Preto je dôležité pristupovať k užívaniu doplnkov a byliniek individuálne a pod dohľadom odborníka.
 
-[![jointboost](https://cdn.fitdoplnky.sk/2023/06/jointboost-300x300.jpg "jointboost")](https://admin.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
+[![jointboost](https://cdn.fitdoplnky.sk/2023/06/jointboost-300x300.jpg "jointboost")](https://www.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
 
 jointboost
 
@@ -84,7 +84,7 @@ jointboost
 
 JointBoost Regenerácia kĺbov a chrupavky je unikátny doplnok stravy, navrhnutý špeciálne na podporu zdravia a regenerácie kĺbov a chrupavky. Vďaka vysokokvalitným zložkám ako sú glukozamín, chondroitín, MSM a kolagén, tento produkt poskytuje telu esenciálne živiny potrebné pre správne fungovanie a obnovu kĺbových tkanív.
 
-[Zobraziť viac](https://admin.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
+[Zobraziť viac](https://www.fitdoplnky.sk/obchod/jointboost-klbova-vyziva-30-kapsul/)
 
 ## Štúdie preukazujúce účinnosť doplnkov stravy na bolesti kĺbov
 

@@ -29,7 +29,7 @@ V rôznych náboženstvách sa kadidlo a myrha používali pre ich údajné myst
 
 Kadidlo a myrha si zachovali svoju popularitu aj v súčasnosti, kde ich využitie presahuje náboženské obrady. Sú cenené v tradičnej a alternatívnej medicíne pre svoje údajné protizápalové a antiseptické vlastnosti, ako aj v parfumérii a aromaterapii pre ich jedinečné vône. Tento úvod poskytuje pohľad na bohatú históriu a rozmanité použitie kadidla a myrhy, ktoré sú zrkadlom ich trvalého významu a všestrannosti v ľudskej kultúre.
 
-TIP – [Frankincense, Organic, Nanovitae, 10ml](https://admin.fitdoplnky.sk/obchod/kadidlo-essence-premium/)
+TIP – [Frankincense, Organic, Nanovitae, 10ml](https://www.fitdoplnky.sk/obchod/kadidlo-essence-premium/)
 
 ## Historický kontext
 
@@ -84,7 +84,7 @@ Zber živice z kadidlových a myrhových stromov je starodávnou praxou, ktorá 
 
 Zber a spracovanie týchto živíc sú často tradičnými činnosťami, ktoré sa prenášajú z generácie na generáciu a majú významný sociálno-ekonomický vplyv na komunity žijúce v blízkosti týchto stromov. Udržateľné metódy zberu sú kľúčové pre ochranu týchto drahocenných zdrojov a zabezpečenie ich dostupnosti pre budúce generácie.
 
-TIP – [Kadidlo, Esenciálny olej, 100%, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/altevita-100-esencialny-olej-kadidlo-olej-pravdy-10ml/)
+TIP – [Kadidlo, Esenciálny olej, 100%, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/altevita-100-esencialny-olej-kadidlo-olej-pravdy-10ml/)
 
 ## Kultúrne a náboženské využitie
 
@@ -138,7 +138,7 @@ Vedecký výskum potvrdil niektoré z tradične prisudzovaných liečivých úč
 
 Je dôležité poznamenať, že hoci súčasný vedecký výskum ponúka sľubné dôkazy o potenciálnych zdravotných prínosoch kadidla a myrhy, mnohé z týchto zistení vyžadujú ďalšie štúdie na potvrdenie ich účinkov a bezpečnosti pri použití v medicíne. Navyše, vždy je dôležité konzultovať použitie akýchkoľvek doplnkov alebo alternatívnych liečebných metód s kvalifikovaným zdravotníckym pracovníkom, aby sa predišlo nežiaducim interakciám alebo vedľajším účinkom.
 
-TIP – [Myrha, Vonné kužele, Tribal Soul, 10ks](https://admin.fitdoplnky.sk/obchod/myrrh-essence-cone/)
+TIP – [Myrha, Vonné kužele, Tribal Soul, 10ks](https://www.fitdoplnky.sk/obchod/myrrh-essence-cone/)
 
 ## Súčasné využitie
 

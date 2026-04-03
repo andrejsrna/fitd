@@ -23,7 +23,7 @@ seo:
 ---
 Kolagén, jedna z najhojnejších proteínov v ľudskom tele, hrá neoceniteľnú úlohu v mnohých biologických procesoch a je kľúčovým stavebným blokom pre kožu, kosti, šľachy, väzy a mnoho ďalších tkanív. Jeho prítomnosť a kvalita majú zásadný vplyv na naše celkové zdravie a pohodu, vrátane elasticity kože a integrity našich kostí a kĺbov.
 
-V tomto článku preskúmame, čo presne je [kolagén](https://admin.fitdoplnky.sk/obchod/collagen-forte/), ako je produkovaný v našom tele a aké sú jeho hlavné funkcie. Pozrieme sa tiež na rôzne zdroje kolagénu, vrátane potravinových doplnkov, a na to, ako môžu prispievať k našemu zdraviu. Budeme sa venovať potenciálnym zdravotným výhodám doplnkov kolagénu, ako aj možným vedľajším účinkom a bezpečnostným aspektom ich užívania. Nakoniec sa pozrieme na to, ako starnutie ovplyvňuje produkciu kolagénu a ako môžeme podporiť jeho hladiny v našom tele.
+V tomto článku preskúmame, čo presne je [kolagén](https://www.fitdoplnky.sk/obchod/collagen-forte/), ako je produkovaný v našom tele a aké sú jeho hlavné funkcie. Pozrieme sa tiež na rôzne zdroje kolagénu, vrátane potravinových doplnkov, a na to, ako môžu prispievať k našemu zdraviu. Budeme sa venovať potenciálnym zdravotným výhodám doplnkov kolagénu, ako aj možným vedľajším účinkom a bezpečnostným aspektom ich užívania. Nakoniec sa pozrieme na to, ako starnutie ovplyvňuje produkciu kolagénu a ako môžeme podporiť jeho hladiny v našom tele.
 
 ## Čo je Kolagén
 
@@ -128,7 +128,7 @@ Kolagén je populárny doplnok, ktorý je dostupný v rôznych formách, každá
 
 1.  **Práškový Kolagén**
     -   Práškové doplnky sa ľahko rozpúšťajú vo vode alebo iných nápojoch a sú obľúbené pre svoju flexibilitu v dávkovaní a použití.
-    -   Sú dostupné v hydrolyzovanej forme, čo znamená, že kolagén bol rozložený na menšie [peptidy](https://admin.fitdoplnky.sk/obchod/collagen-peptides-premium/), čo uľahčuje jeho absorpciu.
+    -   Sú dostupné v hydrolyzovanej forme, čo znamená, že kolagén bol rozložený na menšie [peptidy](https://www.fitdoplnky.sk/obchod/collagen-peptides-premium/), čo uľahčuje jeho absorpciu.
 2.  **Tablety a Kapsuly**
     -   Tablety a kapsuly sú pohodlnou možnosťou pre tých, ktorí preferujú pevnú formu doplnku.
     -   Výhodou je jednoduché dávkovanie a prenosnosť.

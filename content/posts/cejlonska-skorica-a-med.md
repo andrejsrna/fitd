@@ -45,7 +45,7 @@ Keď sa cejlónska škorica a med skombinujú, ich liečivé účinky sa môžu 
 
 **Upozornenie:** Informácie v tomto článku sú len informatívne a nenahrádzajú lekársku radu. Pred začatím užívania akýchkoľvek doplnkov stravy alebo zmenou stravovania sa vždy poraďte so svojím lekárom.
 
-Pozrite si tiež: [Altevita BIO CEJLONSKÁ ŠKORICA mletá 250g](https://admin.fitdoplnky.sk/obchod/altevita-bio-cejlonska-skorica-mleta-250g/)
+Pozrite si tiež: [Altevita BIO CEJLONSKÁ ŠKORICA mletá 250g](https://www.fitdoplnky.sk/obchod/altevita-bio-cejlonska-skorica-mleta-250g/)
 
 ## Cejlónska škorica: Kráľovná korení s liečivou silou
 
@@ -118,7 +118,7 @@ Med má širokú škálu vedecky podložených účinkov na zdravie:
 
 Med je nielen chutný, ale aj zdravý a všestranný prírodný produkt. Jeho pravidelná konzumácia môže priniesť mnoho benefitov pre vaše zdravie a pohodu.
 
-Pozrite si tiež: [Altevita Zelená káva mletá s cejlónskou škoricou 200g](https://admin.fitdoplnky.sk/obchod/zelena-kava-a-skorica/)
+Pozrite si tiež: [Altevita Zelená káva mletá s cejlónskou škoricou 200g](https://www.fitdoplnky.sk/obchod/zelena-kava-a-skorica/)
 
 ## Cejlónska škorica a med: Sladká harmónia pre zdravie
 

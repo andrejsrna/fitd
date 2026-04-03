@@ -29,7 +29,7 @@ Existuje však niekoľko mýtov, ktoré obklopujú koncept pribierania na váhe.
 
 V tomto článku sa pozrieme na to, ako zdravo pribrať na váhe, a poskytneme užitočné tipy a stratégie, ktoré vám v tomto procese pomôžu.
 
-_TIP – [Ryžový proteín](https://admin.fitdoplnky.sk/obchod/ryzovy-protein/)_
+_TIP – [Ryžový proteín](https://www.fitdoplnky.sk/obchod/ryzovy-protein/)_
 
 ## **Dôležitosť zdravého pribierania na váhe**
 
@@ -70,7 +70,7 @@ Bielkoviny sú kľúčové pre rast a opravu svalov, sacharidy poskytujú energi
 
 **Vyvážený príjem týchto troch makroživín je kľúčový pre zdravé pribieranie na váhe.** Nie je len o zvýšení príjmu kalórií, ale aj o tom, aby tieto kalórie pochádzali z živinovo bohatých zdrojov. Tento prístup zabezpečuje, že telo dostane všetky potrebné živiny pre zdravý rast a funkciu.
 
-_TIP – [Vegánsky proteín](https://admin.fitdoplnky.sk/obchod/vegan-protein/)_
+_TIP – [Vegánsky proteín](https://www.fitdoplnky.sk/obchod/vegan-protein/)_
 
 ## **Stravovacie plány a príklady jedál**
 
@@ -128,7 +128,7 @@ Cvičenie hrá kľúčovú úlohu v procese zdravého pribierania na váhe, najm
 
 Je dôležité pripomenúť, že pri zavádzaní cvičebného režimu do života je vhodné konzultovať s fitness trénerom alebo lekárom, najmä ak máte zdravotné obmedzenia alebo špecifické ciele.
 
-_TIP – [Proteinella Cookie Dough](https://admin.fitdoplnky.sk/obchod/proteinella-cookie-dough/)_
+_TIP – [Proteinella Cookie Dough](https://www.fitdoplnky.sk/obchod/proteinella-cookie-dough/)_
 
 ## **Ako sa vyhnúť bežným chybám pri pribieraní**
 

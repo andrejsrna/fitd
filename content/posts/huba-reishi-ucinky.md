@@ -29,7 +29,7 @@ V súčasnosti je huba Reishi populárna po celom svete vďaka svojim potenciál
 
 Vďaka moderným vedeckým štúdiám, ktoré potvrdzujú niektoré z tradične prisudzovaných účinkov, sa Reishi stala obľúbenou súčasťou doplnkov výživy. Je dostupná v rôznych formách, vrátane kapsúl, práškov a čajov, čo umožňuje ľahké začlenenie do každodennej rutiny pre tých, kto hľadajú prírodné spôsoby, ako podporiť svoje zdravie a pohodu.
 
-TIP – [Reishi prášok, Imunita, Energia, Proti rakovine, 60g](https://admin.fitdoplnky.sk/obchod/reishi-powder/)
+TIP – [Reishi prášok, Imunita, Energia, Proti rakovine, 60g](https://www.fitdoplnky.sk/obchod/reishi-powder/)
 
 ## Charakteristika huby Reishi
 
@@ -83,7 +83,7 @@ Hoci existuje mnoho sľubných dôkazov o účinkoch huby Reishi na zdravie, je 
 
 Vzhľadom na tieto potenciálne prínosy a potrebu ďalšieho výskumu je dôležité konzultovať užívanie doplnkov Reishi s odborníkom, najmä ak už užívate iné lieky alebo máte existujúce zdravotné problémy.
 
-TIP – [Reishi tablety s kurkumínom, Imunita, Stres, Kĺby, Nanovitae, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/kvalitne-reishi-tablety/)
+TIP – [Reishi tablety s kurkumínom, Imunita, Stres, Kĺby, Nanovitae, 80 kapsúl](https://www.fitdoplnky.sk/obchod/kvalitne-reishi-tablety/)
 
 ## Ako užívať hubu Reishi
 

@@ -29,7 +29,7 @@ Existuje niekoľko rôznych foriem bielej škvrny, vrátane malých bielych bodi
 
 V tomto článku sa pozrieme na rôzne aspekty bielej škvrny na nechtoch – ich príčiny, spôsoby diagnostiky, možnosti liečby a preventívne kroky, ktoré môžete podniknúť, aby ste minimalizovali ich výskyt. Tiež vyvrátime niektoré bežné mýty a poskytneme užitočné informácie na lepšie pochopenie tohto zaujímavého fenoménu.
 
-_TIP – [Vitamíny pre ženy](https://admin.fitdoplnky.sk/obchod/vitaminy-pre-zeny-woman-vitality/), [Korálové minerály](https://admin.fitdoplnky.sk/obchod/koralove-mineraly/)_
+_TIP – [Vitamíny pre ženy](https://www.fitdoplnky.sk/obchod/vitaminy-pre-zeny-woman-vitality/), [Korálové minerály](https://www.fitdoplnky.sk/obchod/koralove-mineraly/)_
 
 ## **Čo sú biele škvrny na nechtoch**
 
@@ -67,7 +67,7 @@ Biele škvrny na nechtoch môžu mať viaceré príčiny, pričom niektoré sú 
 
 Dôležité je pripomenúť, že ak sú biele škvrny na nechtoch sprevádzané ďalšími príznakmi, ako je bolesť, zmena tvaru alebo farby nechtu, alebo ak sa objavujú často a bez zjavného dôvodu, je vhodné vyhľadať lekársku pomoc. Lekár môže pomôcť určiť presnú príčinu a odporučiť vhodnú liečbu.
 
-_TIP – [Vitamíny pre mužov](https://admin.fitdoplnky.sk/obchod/men-vitality/)_
+_TIP – [Vitamíny pre mužov](https://www.fitdoplnky.sk/obchod/men-vitality/)_
 
 ## **Diagnostika a vyšetrenia**
 
@@ -112,7 +112,7 @@ Liečba a prevencia bielej škvrny na nechtoch závisí od ich príčiny. V mnoh
 
 Pamätajte, že zatiaľ čo mnohé prípady bielej škvrny na nechtoch sú neškodné a postupne zmiznú, je dôležité byť ostražitý a pri akýchkoľvek obavách vyhľadať odbornú pomoc.
 
-_TIP – [Olej na krásne nechty](https://admin.fitdoplnky.sk/obchod/krasne-nechty/)_
+_TIP – [Olej na krásne nechty](https://www.fitdoplnky.sk/obchod/krasne-nechty/)_
 
 ## **Mýty a nedorozumenia**
 

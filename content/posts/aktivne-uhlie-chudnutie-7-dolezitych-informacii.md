@@ -25,7 +25,7 @@ Aktívne uhlie chudnutie – 7 dôležitých informácií. Aktívne uhlie, znám
 
 Cieľom tohto článku je poskytnúť čitateľom ucelený prehľad o tom, čo aktívne uhlie je, ako funguje, a najmä preskúmať jeho úlohu a efektivitu v kontexte chudnutia. Zamyslíme sa nad tým, či jeho použitie môže byť naozaj prospešné pre tých, ktorí sa snažia schudnúť, a aké dôkazy podporujú alebo spochybňujú tieto tvrdenia. Okrem toho sa budeme venovať aj potenciálnym rizikám a vedľajším účinkom spojeným s konzumáciou aktívneho uhlia. Naším zámerom je poskytnúť čitateľom všetky potrebné informácie, aby mohli urobiť informované rozhodnutie o tom, či je aktívne uhlie vhodný doplnok k ich cestám za chudnutím.
 
-TIP – [Aktívne uhlie, Žalúdok, Detoxikácia, Altevita](https://admin.fitdoplnky.sk/obchod/aktivne-uhlie/)
+TIP – [Aktívne uhlie, Žalúdok, Detoxikácia, Altevita](https://www.fitdoplnky.sk/obchod/aktivne-uhlie/)
 
 ## **Čo je aktívne uhlie?**
 
@@ -110,7 +110,7 @@ Aktívne uhlie môže mať niekoľko potenciálnych výhod pre zdravie, ktoré b
 
 Hoci existujú teoretické dôvody, prečo by aktívne uhlie mohlo podporovať chudnutie a zlepšenie zdravia, je dôležité mať na pamäti, že jeho účinnosť nie je vedecky potvrdená a môže prinášať riziká.
 
-TIP – [Detox organizmu, Black Detox, Čučoriedky, Aktívne uhlie, 210g](https://admin.fitdoplnky.sk/obchod/detox-organizmu/)
+TIP – [Detox organizmu, Black Detox, Čučoriedky, Aktívne uhlie, 210g](https://www.fitdoplnky.sk/obchod/detox-organizmu/)
 
 ## Ako bezpečne používať aktívne uhlie pre chudnutie
 
@@ -161,7 +161,7 @@ Pri hľadaní alternatív k aktívnemu uhlíu pre chudnutie je dôležité zamer
 
 Hoci aktívne uhlie môže byť prínosné pre určité zdravotné stavy spojené s detoxikáciou, ako súčasť stratégie chudnutia je dôležité zvážiť jeho potenciálne riziká a obmedzenia. Alternatívne metódy, ako sú vyvážená strava, pravidelná fyzická aktivita, zmeny v životnom štýle a niektoré doplnky, poskytujú bezpečnejšiu a overenú cestu k dosiahnutiu a udržaniu zdravej telesnej hmotnosti.
 
-TIP – [C60, Psyllium, Aktívne uhlie, Nanovitae, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/aktivne-uhlie-c60/)
+TIP – [C60, Psyllium, Aktívne uhlie, Nanovitae, 80 kapsúl](https://www.fitdoplnky.sk/obchod/aktivne-uhlie-c60/)
 
 ## Aktívne uhlie chudnutie – Záver
 

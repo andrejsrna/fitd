@@ -128,7 +128,7 @@ Vegáni zvyčajne zaujímajú prísnejší etický postoj, odmietajúc všetky f
 
 Tieto rady môžu pomôcť vegetariánom a vegánom zvládnuť každodenné výzvy a užiť si ich stravovací štýl bez veľkých obmedzení. Je dôležité pripomenúť, že každý prechod na nový stravovací štýl vyžaduje čas a trpezlivosť, a je úplne v poriadku učiť sa a prispôsobovať sa postupne.
 
-_TIP – [QUINOA – Matka všetkých obilnín](https://admin.fitdoplnky.sk/obchod/quinoa/)_
+_TIP – [QUINOA – Matka všetkých obilnín](https://www.fitdoplnky.sk/obchod/quinoa/)_
 
 ## Mýty a omyly o vegetariánstve a vegánstve
 

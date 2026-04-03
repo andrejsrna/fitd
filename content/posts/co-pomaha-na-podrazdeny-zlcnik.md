@@ -70,7 +70,7 @@ Aby sme predišli problémom so žlčníkom, je dôležité venovať pozornosť 
 
 Dodržiavaním týchto odporúčaní môžete znížiť riziko podráždenia žlčníka a udržať váš tráviaci systém zdravý. Je dôležité pamätať na to, že prevencia je kľúčom k dlhodobému zdraviu a pohode.
 
-TIP – [Kurkuma tablety s Masticha, Trávenie, Kĺby, Zápal, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/kurkuma-tablety/)
+TIP – [Kurkuma tablety s Masticha, Trávenie, Kĺby, Zápal, 80 kapsúl](https://www.fitdoplnky.sk/obchod/kurkuma-tablety/)
 
 ## Domáce liečebné metódy
 

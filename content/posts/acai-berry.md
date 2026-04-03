@@ -29,7 +29,7 @@ Ich pôvod siaha hlboko do histórie domorodých kultúr Amazónie, kde sa tieto
 
 Tento článok poskytne hlbší pohľad na to, čo robí acai berry takými zvláštnymi, a prečo si získali takú obľúbenosť v modernom svete.
 
-_TIP – [Smoothie, Acai, Brusnice, Goji, Ríbezľa, Repa, Malina, Red Mix, 300g](https://admin.fitdoplnky.sk/obchod/red-mix-smoothie/)_
+_TIP – [Smoothie, Acai, Brusnice, Goji, Ríbezľa, Repa, Malina, Red Mix, 300g](https://www.fitdoplnky.sk/obchod/red-mix-smoothie/)_
 
 ## História a pôvod
 
@@ -60,7 +60,7 @@ Acai berry sú známe svojim bohatým nutričným profilom, ktorý zahŕňa vita
 
 Výživové hodnoty acai berry môžu podporovať celkové zdravie a sú obzvlášť užitočné v rámci vyváženej a zdravej diéty.
 
-_TIP – [Tekutý kolagén s acai berry](https://admin.fitdoplnky.sk/obchod/altevita-liquid-collagen-postbiotic-forest-fruit-500ml/)_
+_TIP – [Tekutý kolagén s acai berry](https://www.fitdoplnky.sk/obchod/altevita-liquid-collagen-postbiotic-forest-fruit-500ml/)_
 
 ## Zdravotné prínosy
 
@@ -96,7 +96,7 @@ Acai berry sú v kuchyni veľmi všestranné a môžu byť použité v rôznych 
 
 Pri varení s acai berry je dôležité pamätať na to, že majú jemnú, mierne sladkastú chuť, ktorá môže byť prekrytá silnejšími prísadami. Preto je dobré kombinovať ich s prísadami, ktoré doplnia ich jedinečnú chuť, ako sú čerstvé ovocie, med, alebo oriešky. Acai berry sú skvelým spôsobom, ako pridať do jedál viac výživy a farby, a zároveň si vychutnať ich jedinečnú chuť.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Acai berry v kultúre a tradičnej medicíne
 
@@ -127,7 +127,7 @@ Hoci acai berry sú považované za zdravú potravinu s mnohými potenciálnymi 
 
 Všeobecne platí, že sú bezpečné, keď sa konzumujú ako súčasť vyváženej stravy. Avšak, ako pri každom potravinovom produkte, je dôležité byť si vedomý potenciálnych rizík a diskutovať o svojej diéte s kvalifikovaným zdravotníckym pracovníkom, najmä ak máte špecifické zdravotné stavy alebo obavy.
 
-_TIP – [Prírodné lieky na imunitu, Lucuma, Šípky, Acai, Cist šedavý, Zázvor, 180g](https://admin.fitdoplnky.sk/obchod/prirodne-lieky-na-imunitu/)_
+_TIP – [Prírodné lieky na imunitu, Lucuma, Šípky, Acai, Cist šedavý, Zázvor, 180g](https://www.fitdoplnky.sk/obchod/prirodne-lieky-na-imunitu/)_
 
 ## Udržateľnosť a environmentálny dopad
 

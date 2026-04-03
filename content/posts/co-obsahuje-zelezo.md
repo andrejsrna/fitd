@@ -29,7 +29,7 @@ Nedostatok železa môže viesť k anémii, stavu charakterizovanému znížený
 
 Vzhľadom na tieto faktory je zrejmé, že železo je neoddeliteľnou súčasťou udržiavania celkového zdravia a pohody. Adekvátny príjem železa prostredníctvom vyváženej stravy alebo, v prípade potreby, doplnkov, je preto nevyhnutný pre zachovanie vitálnych telesných funkcií a prevenciu možných zdravotných komplikácií.
 
-_TIP – [Vitamíny pre ženy, Woman Vitality, Šatavari, Maca, 60 kapsúl](https://admin.fitdoplnky.sk/obchod/vitaminy-pre-zeny-woman-vitality/)_
+_TIP – [Vitamíny pre ženy, Woman Vitality, Šatavari, Maca, 60 kapsúl](https://www.fitdoplnky.sk/obchod/vitaminy-pre-zeny-woman-vitality/)_
 
 ## Základné informácie o železe
 
@@ -88,7 +88,7 @@ Vstrebávanie non-heme železa možno zlepšiť konzumáciou potravín bohatých
 
 Vzhľadom na rozdielne vstrebávanie heme a non-heme železa je dôležité pre vegetariánov a vegánov, aby zabezpečili dostatočný príjem železa z rastlinných zdrojov a prípadne zvážili použitie doplnkov alebo obohatených potravín, aby pokryli svoje denné potreby železa.
 
-_TIP – [Quinoa biela, Altevita](https://admin.fitdoplnky.sk/obchod/quinoa/)_
+_TIP – [Quinoa biela, Altevita](https://www.fitdoplnky.sk/obchod/quinoa/)_
 
 ## Význam železa pre zdravie
 
@@ -133,7 +133,7 @@ Hoci je menej bežný ako nedostatok, nadbytok železa v tele môže byť tiež 
 
 Správna regulácia príjmu železa je kľúčová, či už ide o predchádzanie nedostatku alebo nadbytku. V prípade podozrenia na nedostatok alebo nadbytok železa je dôležité vyhľadať lekársku pomoc, aby sa zistila presná príčina a zvolila vhodná liečba. To môže zahŕňať diétnu úpravu, suplementáciu alebo v prípade nadbytku železa aj lekárske zákroky na zníženie hladiny železa v tele.
 
-TIP – [Ryžové mlieko, Prášok, Natural, Altevita, 400g](https://admin.fitdoplnky.sk/obchod/rice-milk/)
+TIP – [Ryžové mlieko, Prášok, Natural, Altevita, 400g](https://www.fitdoplnky.sk/obchod/rice-milk/)
 
 ## Ako zlepšiť vstrebávanie železa
 
@@ -179,7 +179,7 @@ Doplnky železa sú dôležitou možnosťou pre jedincov, ktorí majú problémy
 
 Doplnky železa môžu byť efektívnym riešením pre správne manažovanie hladín železa v tele, ale je dôležité ich používať rozumne a pod odborným dohľadom, aby sa predišlo riziku nadbytku železa a zabezpečila optimálna absorpcia a využitie.
 
-TIP – [Spirulina, Altevita, 640 tabliet](https://admin.fitdoplnky.sk/obchod/spirulina/)
+TIP – [Spirulina, Altevita, 640 tabliet](https://www.fitdoplnky.sk/obchod/spirulina/)
 
 ## Čo obsahuje železo – Záver
 

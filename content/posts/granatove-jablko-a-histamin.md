@@ -25,7 +25,7 @@ Granátove jablko a histamín – 10 dôležitých informácií. Granátové jab
 
 Histamín je organický dusíkatý zlúčenina, ktorá hrá kľúčovú úlohu v mnohých biologických procesoch, vrátane imunitných reakcií, regulácie žalúdočnej kyseliny a neurologických funkcií. Zatiaľ čo histamín je nevyhnutný pre správne fungovanie tela, jeho nadmerná produkcia alebo nedostatočný metabolizmus môže viesť k rôznym zdravotným problémom, ako sú alergické reakcie a histamínová intolerancia. Táto problematika je obzvlášť relevantná v súvislosti s potravinami, ako je granátové jablko, ktoré môže obsahovať rôzne úrovne histamínu alebo látky ovplyvňujúce jeho metabolizmus v ľudskom tele. Pochopte, ako granátové jablko interaguje s histamínom, je dôležité nielen pre osoby s alergiami a intoleranciami, ale aj pre všeobecnú populáciu, ktorá sa zaujíma o udržanie zdravého životného štýlu.
 
-_TIP – [Moringa histamín, Na zníženie histamínu v tele, 140 kapsúl](https://admin.fitdoplnky.sk/obchod/moringa-histamin/)_
+_TIP – [Moringa histamín, Na zníženie histamínu v tele, 140 kapsúl](https://www.fitdoplnky.sk/obchod/moringa-histamin/)_
 
 ## Čo je histamín?
 
@@ -60,7 +60,7 @@ Granátové jablko má bohatú históriu a kultúrne dedičstvo. Jeho pôvod sia
 
 Granátové jablko je vysoko cenené pre svoju výživovú hodnotu a zdravotné prínosy. Je bohaté na vitamíny, najmä na vitamín C a K, a obsahuje tiež dobrú dávku draslíka, vlákniny a antioxidantov. Antioxidanty prítomné v granátovom jablku, ako sú punicalaginy a antokyány, prispievajú k jeho protizápalovým a antikancerogénnym vlastnostiam. Konzumácia granátového jablka môže znižovať riziko niektorých chronických ochorení, vrátane srdcovocievnych ochorení, zápalov, niektorých druhov rakoviny a môže tiež pomáhať pri regulácii hladiny cukru v krvi. Jeho šťava je obľúbená nielen kvôli chuti, ale aj kvôli zdravotným benefitom.
 
-_TIP – [Vône do difúzera – 6 super vôní](https://admin.fitdoplnky.sk/vone-do-difuzera/)_
+_TIP – [Vône do difúzera – 6 super vôní](https://www.fitdoplnky.sk/vone-do-difuzera/)_
 
 ## Histamín v granátovom jablku
 
@@ -100,7 +100,7 @@ Výskumy týkajúce sa histamínu v granátových jablkách a ich vplyvu na hist
 
 V súhrne, hoci priame vedecké dôkazy týkajúce sa vplyvu granátového jablka na histamínovú hladinu v tele sú obmedzené, existujúce štúdie naznačujú, že konzumácia granátového jablka by mohla mať pozitívne účinky, najmä vďaka jeho antioxidačným vlastnostiam. Pre presnejšie pochopenie tejto problematiky je potrebný ďalší výskum.
 
-TIP – [Tabletky na alergiu, Perilla krovitá, Quercetin, Acerola, Bromelaín, Tulsi, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/tabletky-na-alergiu/)
+TIP – [Tabletky na alergiu, Perilla krovitá, Quercetin, Acerola, Bromelaín, Tulsi, 80 kapsúl](https://www.fitdoplnky.sk/obchod/tabletky-na-alergiu/)
 
 ## Alternatívy a odporúčania pre ľudí s histamínovou intoleranciou
 

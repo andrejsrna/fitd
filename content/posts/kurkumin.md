@@ -30,7 +30,7 @@ Kurkumín je **aktívna zložka kurkumy, ktorá zodpovedá za mnoho z jej zdravo
 ## Zdravotné výhody kurkumínu
 
 1.  **Protizápalové účinky**: Doplnok má **silné protizápalové účinky a môže pomôcť pri liečbe mnohých zápalových ochorení, ako sú artritída, astma a rôzne druhy zápalov.**
-2.  **[Antioxidanty](https://admin.fitdoplnky.sk/antioxidanty-vyznam-a-zdroje-pre-zdravy-zivot/):** Doplnok má aj silné **antioxidačné účinky a môže pomôcť pri eliminácii voľných radikálov,** ktoré môžu poškodzovať bunky a spôsobovať rôzne zdravotné problémy.
+2.  **[Antioxidanty](https://www.fitdoplnky.sk/antioxidanty-vyznam-a-zdroje-pre-zdravy-zivot/):** Doplnok má aj silné **antioxidačné účinky a môže pomôcť pri eliminácii voľných radikálov,** ktoré môžu poškodzovať bunky a spôsobovať rôzne zdravotné problémy.
 3.  **Podpora trávenia**: Doplnok **môže pomôcť pri podpore trávenia a zlepšení tráviaceho procesu.** Môže tiež pomôcť pri liečbe tráviacich ťažkostí, ako sú ~nadúvanie~, ~plynatosť~ a ~zápcha~.
 4.  **Podpora zdravia srdca:** Doplnok **môže pomôcť pri podpore zdravia srdca a znižovaní rizika kardiovaskulárnych ochorení.** Môže pomôcť pri znižovaní hladiny cholesterolu v krvi a podpore zdravého krvného obehu.
 5.  **Podpora zdravia mozgu:** Doplnok môže tiež pomôcť pri podpore zdravia mozgu a zlepšení kognitívnych funkcií. Môže pomôcť pri prevencii a liečbe ochorení, ako je Alzheimerova choroba.

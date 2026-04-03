@@ -35,7 +35,7 @@ Okrem rozdielu v procese výroby sa mandľový olej odlišuje aj podľa typu man
 
 Mandľový olej je cený pre jeho univerzálnosť a benefity, ktoré prináša nielen zvnútra, ale aj zvonka, čím sa stáva cenným doplnkom do každodennej starostlivosti o zdravie a krásu.
 
-TIP – [Mandľový olej lisovaný za studena, Na varenie, Day Spa, 250ml](https://admin.fitdoplnky.sk/obchod/mandlovy-olej-lisovany-za-studena/)
+TIP – [Mandľový olej lisovaný za studena, Na varenie, Day Spa, 250ml](https://www.fitdoplnky.sk/obchod/mandlovy-olej-lisovany-za-studena/)
 
 ## Zloženie a výživové hodnoty
 
@@ -83,7 +83,7 @@ Mandľový olej môže mať pozitívny vplyv aj na tráviaci systém. Jeho použ
 
 Výskum a klinické štúdie pokračujú v skúmaní plného rozsahu zdravotných prínosov mandľového oleja. Napriek tomu už teraz je jasné, že jeho pravidelná konzumácia a použitie môže byť cenným doplnkom k zdravému životnému štýlu. Je dôležité zdôrazniť, že ako s každým doplnkom stravy alebo kozmetickým produktom, aj pri používaní mandľového oleja je nutné dbať na možné alergické reakcie a konzultovať použitie s odborníkom, najmä v prípade existujúcich zdravotných stavov.
 
-TIP – [Migréna, Roll-on, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/altevita-roll-on-migrena-10ml/)
+TIP – [Migréna, Roll-on, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/altevita-roll-on-migrena-10ml/)
 
 ## Kozmetické a terapeutické využitie
 

@@ -18,7 +18,7 @@ Môžete nás kontaktovať nasledovne:
 
 **E-mail**
 
--   **[info@fitdoplnky.sk](mailto:info@admin.fitdoplnky.sk)**: Pre všeobecné otázky alebo pripomienky, prosím, kontaktujte nás na tejto adrese. Snažíme sa odpovedať na všetky e-maily do 24 hodín.
+-   **[info@fitdoplnky.sk](mailto:info@fitdoplnky.sk)**: Pre všeobecné otázky alebo pripomienky, prosím, kontaktujte nás na tejto adrese. Snažíme sa odpovedať na všetky e-maily do 24 hodín.
 
 **Telefón**
 

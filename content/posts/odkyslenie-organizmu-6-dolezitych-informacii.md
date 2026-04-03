@@ -31,7 +31,7 @@ Odkyslenie organizmu je proces, ktorý si kládza za cieľ dosiahnutie a udržan
 
 Odkyslenie organizmu preto znamená snahu o obnovenie a udržanie optimálneho pH, čo môže pomôcť zlepšiť celkové zdravie, zvýšiť energiu, zlepšiť trávenie a podporiť imunitný systém. V nasledujúcich sekciách sa pozrieme na to, ako môžeme efektívne dosiahnuť a udržať túto rovnováhu.
 
-_TIP – [Spirulina](https://admin.fitdoplnky.sk/obchod/spirulina/)_
+_TIP – [Spirulina](https://www.fitdoplnky.sk/obchod/spirulina/)_
 
 ## Základné princípy odkyslenia
 
@@ -94,7 +94,7 @@ Prekyslenie organizmu, známe aj ako acidóza, môže mať rôzne symptómy a zn
 
 Je dôležité poznamenať, že tieto symptómy môžu byť tiež príznakmi iných zdravotných problémov, a preto by ich nemalo byť interpretované ako definitívny dôkaz prekyslenia bez lekárskej diagnostiky. Ak máte podozrenie, že trpíte prekyslením, je dôležité konzultovať tieto príznaky so zdravotníckym odborníkom, ktorý môže poskytnúť presnú diagnózu a odporučiť vhodnú liečbu.
 
-_TIP – [Matcha late](https://admin.fitdoplnky.sk/obchod/matcha-latte/)_
+_TIP – [Matcha late](https://www.fitdoplnky.sk/obchod/matcha-latte/)_
 
 ## Príčiny prekyslenia
 
@@ -179,7 +179,7 @@ Pri zostavovaní jedálnička na odkyslenie organizmu je dôležité zamerať sa
 
 Pri zavádzaní akýchkoľvek zmien v stravovaní je vždy dôležité konzultovať sa so zdravotníckym odborníkom alebo výživovým poradcom, aby ste sa uistili, že vaše jedálničky sú bezpečné a vhodné pre vaše individuálne zdravotné potreby.
 
-_TIP – [Kurkuma tablety s Masticha](https://admin.fitdoplnky.sk/obchod/kurkuma-tablety/)_
+_TIP – [Kurkuma tablety s Masticha](https://www.fitdoplnky.sk/obchod/kurkuma-tablety/)_
 
 ### Doplnky a Prírodné Metódy Odkyslenia
 
@@ -241,7 +241,7 @@ Pri zavádzaní odkysľovacích diét a metód je dôležité byť si vedomý mo
 
 Vždy je dôležité konzultovať akékoľvek zmeny stravy alebo životného štýlu s odborníkom, ako je lekár alebo výživový poradca, najmä ak máte zdravotné problémy alebo užívate lieky. Tým sa zabezpečí, že vaše rozhodnutia sú založené na správnych informáciách a sú bezpečné pre vaše zdravie.
 
-_TIP – [Čaj prekyslenie organizmu, Vlčí mák](https://admin.fitdoplnky.sk/obchod/prekyslenie-organizmu-caj/)_
+_TIP – [Čaj prekyslenie organizmu, Vlčí mák](https://www.fitdoplnky.sk/obchod/prekyslenie-organizmu-caj/)_
 
 ## Odkyslenie organizmu – záver
 

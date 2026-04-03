@@ -27,7 +27,7 @@ Význam inulínu pre zdravie čreva spočíva predovšetkým v jeho role ako pre
 
 Okrem toho môže konzumácia inulínu prispieť k pocitu sýtosti, čo je užitočné pre tých, ktorí sa snažia kontrolovať svoju hmotnosť alebo regulovať príjem kalórií. Vďaka týmto vlastnostiam sa inulín stal obľúbenou súčasťou zdravej stravy a je čoraz viac využívaný v potravinárskom priemysle ako funkčná prísada do rôznych výrobkov, od pekárskych výrobkov po nápoje.
 
-TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://admin.fitdoplnky.sk/obchod/inulin/)
+TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://www.fitdoplnky.sk/obchod/inulin/)
 
 ## Čo je inulín
 
@@ -70,7 +70,7 @@ Nadmerný príjem inulínu môže ovplyvniť absorpciu niektorých minerálov, a
 
 Všeobecne platí, že mierne množstvo inulínu v strave môže priniesť mnohé zdravotné výhody bez významných vedľajších účinkov. Avšak, ako pri každej zmeně v strave, je dôležité postupovať s rozvahou a v prípade akýchkoľvek obáv konzultovať so zdravotníckym odborníkom.
 
-TIP – [Kolagénove peptidy, Jahoda, Inulín, MSM, Kyselina hyaluronová, Vitamíny, Altevita](https://admin.fitdoplnky.sk/obchod/collagen-peptides/)
+TIP – [Kolagénove peptidy, Jahoda, Inulín, MSM, Kyselina hyaluronová, Vitamíny, Altevita](https://www.fitdoplnky.sk/obchod/collagen-peptides/)
 
 ## Ako bezpečne konzumovať inulín
 

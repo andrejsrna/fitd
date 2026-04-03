@@ -23,7 +23,7 @@ seo:
 ---
 Pestrec mariánsky a čierny kmín, dve nenápadné rastliny s bohatou históriou a liečivými vlastnosťami, si v posledných rokoch získavajú čoraz väčšiu popularitu. Obzvlášť v oblasti zdravia a wellness sa stávajú cennými pomocníkmi pre podporu rôznych telesných funkcií a prevenciu ochorení. V tomto článku sa ponoríme do fascinujúceho sveta týchto rastlín a odhalíme ich liečivé benefity.
 
-TIP: [Altevita ČERNUŠKA SIATA – Nigella sativa 250g (Čierny kmín)](https://admin.fitdoplnky.sk/obchod/cernuska-siata/)
+TIP: [Altevita ČERNUŠKA SIATA – Nigella sativa 250g (Čierny kmín)](https://www.fitdoplnky.sk/obchod/cernuska-siata/)
 
 ## Pestrec mariánsky: Ochranca pečene a silný antioxidant
 
@@ -121,7 +121,7 @@ Organizmus je neustále vystavený toxínom z prostredia, potravy a liekov. Pest
 
 Pestrec mariánsky a čierny kmín sú dva silné dary prírody, ktoré ponúkajú širokú škálu liečivých benefitov. Ich spoločné užívanie môže posilniť trávenie, posilniť imunitný systém, chrániť pred zápalom a podporiť detoxikáciu organizmu. Ak hľadáte prírodné spôsoby, ako zlepšiť svoje zdravie, tieto dve rastliny by mali určite zaujať vaše miesto v lekárničke.
 
-TIP: [Altevita Liver Detox 300g](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+TIP: [Altevita Liver Detox 300g](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Dôležité upozornenia a interakcie
 

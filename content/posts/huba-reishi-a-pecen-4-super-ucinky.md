@@ -25,7 +25,7 @@ Huba Reishi a pečeň – 4 super účinky. Huba Reishi, známa aj pod vedeckým
 
 Tento článok sa zameriava na konkrétne potenciálne prínosy huby Reishi pre pečeň, orgán, ktorý má kľúčovú úlohu v našom zdraví tým, že podporuje detoxikáciu, metabolizmus a správnu funkciu imunitného systému. Vzhľadom na význam pečene pre celkové zdravie tela skúmame vedecké poznatky a tradičné použitie huby Reishi s cieľom posúdiť jej úlohu v podpore zdravia a funkcie pečene. Prehľadáme dostupné výskumy a štúdie, ktoré skúmajú hepatoprotektívne (ochranné účinky na pečeň), protizápalové a antioxidantové vlastnosti Reishi, aby sme poskytli ucelený pohľad na to, ako by táto huba mohla prispieť k lepšiemu zdraviu pečene.
 
-TIP – [Curcumin Reishi Complex, Altevita, 60ks](https://admin.fitdoplnky.sk/obchod/altevita-curcumin-reishi-complex-60ks/)
+TIP – [Curcumin Reishi Complex, Altevita, 60ks](https://www.fitdoplnky.sk/obchod/altevita-curcumin-reishi-complex-60ks/)
 
 ## Charakteristika huby Reishi
 
@@ -72,7 +72,7 @@ Pečeň je jedným z najdôležitejších orgánov v ľudskom tele, zohrávajúc
 
 Správna funkcia pečene je nevyhnutná pre udržanie celkového zdravia a pohody. Prevencia pečeňových ochorení zahŕňa zdravý životný štýl, obmedzenie konzumácie alkoholu, udržiavanie zdravej hmotnosti a vyhýbanie sa expozícii toxickým látkam. V prípade akýchkoľvek problémov s pečeňou je dôležité vyhľadať lekársku pomoc pre správnu diagnostiku a liečbu.
 
-TIP – [Reishi prášok, BIO, Imunita, Energia, Proti rakovine, Altevita, 60g](https://admin.fitdoplnky.sk/obchod/reishi-powder/)
+TIP – [Reishi prášok, BIO, Imunita, Energia, Proti rakovine, Altevita, 60g](https://www.fitdoplnky.sk/obchod/reishi-powder/)
 
 ## Výskum a prínosy huby Reishi pre pečeň
 
@@ -123,7 +123,7 @@ Aj keď je Reishi vo veľkej miere považovaná za bezpečnú, niektorí ľudia 
 
 Vždy je dôležité zvoliť kvalitný produkt od dôveryhodného výrobcu a byť si vedomý potenciálnych interakcií a vedľajších účinkov. Integrácia Reishi do vašej diéty by mala byť súčasťou celostného prístupu k zdraviu pečene, ktorý zahŕňa zdravú výživu, pravidelnú fyzickú aktivitu a dostatočný odpočinok.
 
-TIP – [Káva Reishi, Cordyceps, Hericium, Shiitake, Čaga, Myco Coffee, 90g](https://admin.fitdoplnky.sk/obchod/reishi-powder/)
+TIP – [Káva Reishi, Cordyceps, Hericium, Shiitake, Čaga, Myco Coffee, 90g](https://www.fitdoplnky.sk/obchod/reishi-powder/)
 
 ## Huba Reishi a pečeň – Záver
 

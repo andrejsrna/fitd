@@ -56,7 +56,7 @@ Kyselina hyalurónová (HA) je kľúčovým komponentom extracelulárneho matrix
 
 1.  **Hydratácia a elastickosť kože:** HA je schopná viazať významné množstvo vody, čo prispieva k udržaniu hydratácie a pružnosti kože. Táto vlastnosť je základom pre jej využitie v anti-aging kozmetických prípravkoch.
 2.  **Funkcia v očiach:** V očných štruktúrach, ako je sklovec, HA poskytuje viskozitu a lubrikáciu, čo je nevyhnutné pre správne fungovanie a ochranu očí.
-3.  **Úloha v [kĺboch](https://admin.fitdoplnky.sk/obchod/najsilnejsia-klbova-vyziva-joint-boost/):** HA je dôležitým zložkom kĺbovej tekutiny, kde funguje ako lubrikant a tlmič nárazov. Pomáha znižovať trenie medzi kĺbovými povrchmi a prispieva k ochrane kĺbov pri pohybe.
+3.  **Úloha v [kĺboch](https://www.fitdoplnky.sk/obchod/najsilnejsia-klbova-vyziva-joint-boost/):** HA je dôležitým zložkom kĺbovej tekutiny, kde funguje ako lubrikant a tlmič nárazov. Pomáha znižovať trenie medzi kĺbovými povrchmi a prispieva k ochrane kĺbov pri pohybe.
 4.  **Liečba osteoartritídy:** Využíva sa pri intraartikulárnych injekciách pre jej schopnosť zmierniť bolesť a zlepšiť mobilitu v postihnutých kĺboch.
 5.  **Regenerácia tkanív a zápal:** HA má dôležitú úlohu v procese hojenia rán a regenerácii tkanív. Podieľa sa tiež na modulácii zápalových procesov v tele.
 6.  **Podpora bunkovej migrácie:** HA je kľúčová pre bunkovú migráciu, čo je dôležité pre embryonálny vývoj, hojenie rán a obnovu tkanív.

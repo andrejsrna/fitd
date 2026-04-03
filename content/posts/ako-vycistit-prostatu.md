@@ -83,7 +83,7 @@ Záverom, zdravý životný štýl, vyvážená strava a pravidelná fyzická ak
 
 ## Prírodné metódy čistenia prostaty
 
-Pri hľadaní prírodných spôsobov, ako podporiť zdravie prostaty, môžu byť užitočné určité [bylinky na prostatu](https://admin.fitdoplnky.sk/obchod/prostate-care/) a doplnky, ako aj techniky ako masáž prostaty. Je dôležité zdôrazniť, že tieto metódy by mali slúžiť ako doplnok k tradičnej medicínskej starostlivosti a nie náhrada za profesionálnu lekársku pomoc.
+Pri hľadaní prírodných spôsobov, ako podporiť zdravie prostaty, môžu byť užitočné určité [bylinky na prostatu](https://www.fitdoplnky.sk/obchod/prostate-care/) a doplnky, ako aj techniky ako masáž prostaty. Je dôležité zdôrazniť, že tieto metódy by mali slúžiť ako doplnok k tradičnej medicínskej starostlivosti a nie náhrada za profesionálnu lekársku pomoc.
 
 #### Bylinky a doplnky
 

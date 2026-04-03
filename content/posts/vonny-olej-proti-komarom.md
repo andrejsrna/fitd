@@ -29,7 +29,7 @@ Vonný olej proti komárom – 4 super tipy. **Komáre:** Nevítaní hostia, kto
 
 **Dôležité:** Informácie v tomto článku slúžia len na informačné účely a nenahrádzajú odbornú lekársku pomoc. Pred použitím akýchkoľvek esenciálnych olejov sa odporúča poradiť sa s lekárom, najmä u tehotných žien, dojčiacich matiek a detí.
 
-Odporúčame: [NANOVITAE Eukalyptus esenciálny olej – ORGANIC quality 10ml](https://admin.fitdoplnky.sk/obchod/eukalyptus-essence-premium/)
+Odporúčame: [NANOVITAE Eukalyptus esenciálny olej – ORGANIC quality 10ml](https://www.fitdoplnky.sk/obchod/eukalyptus-essence-premium/)
 
 ## Ako fungujú vonné oleje proti komárom?
 
@@ -146,7 +146,7 @@ Existuje viacero spôsobov, ako používať vonné oleje na odpudzovanie komáro
 
 **Tip:** Vytvorte si vlastný repelent proti komárom zmiešaním rôznych esenciálnych olejov v nosnom oleji a uložte ho do malej fľaštičky, ktorú môžete nosiť so sebou.
 
-Odporúčame: [NANOVITAE LEVANDUĽA esenciálny olej – ORGANIC quality 10ml](https://admin.fitdoplnky.sk/obchod/kvalitny-levandulovy-esencialny-olej/)
+Odporúčame: [NANOVITAE LEVANDUĽA esenciálny olej – ORGANIC quality 10ml](https://www.fitdoplnky.sk/obchod/kvalitny-levandulovy-esencialny-olej/)
 
 ## Výhody a nevýhody používania vonných olejov proti komárom
 

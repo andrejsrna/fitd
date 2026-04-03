@@ -5,6 +5,7 @@ import process from "node:process";
 const SITE_URL = "https://www.fitdoplnky.sk";
 const ADMIN_URL_RE = /https?:\/\/admin\.fitdoplnky\.sk(\/[^)\s"'<>]*)?/g;
 const HTTP_CDN_RE = /http:\/\/cdn\.fitdoplnky\.sk\//g;
+const ADMIN_MAIL_RE = /mailto:info@admin\.fitdoplnky\.sk/g;
 
 async function listMarkdownFiles(dir) {
   let entries = [];
@@ -45,15 +46,26 @@ function rewriteAdminUrl(url, postSlugs, pageSlugs) {
   const [firstSegment, secondSegment] = trimmed.split("/");
   if (!firstSegment) return url;
 
+  if (firstSegment === "wp-content") {
+    const uploadsMarker = "/wp-content/uploads/";
+    if (pathname.startsWith(uploadsMarker)) {
+      return `https://cdn.fitdoplnky.sk/${pathname.slice(uploadsMarker.length)}`;
+    }
+    return SITE_URL;
+  }
+
   if (
     firstSegment === "obchod" ||
     firstSegment === "kategoria-produktu" ||
     firstSegment === "produkt" ||
     firstSegment === "tag" ||
-    firstSegment === "author" ||
-    firstSegment === "wp-content"
+    firstSegment === "author"
   ) {
-    return url;
+    return `${SITE_URL}${pathname}`;
+  }
+
+  if (firstSegment === "wp-admin" || firstSegment === "wp-login.php" || firstSegment === "xmlrpc.php") {
+    return SITE_URL;
   }
 
   const slug = firstSegment;
@@ -78,7 +90,9 @@ function rewriteAdminUrl(url, postSlugs, pageSlugs) {
 
 async function rewriteFile(file, postSlugs, pageSlugs) {
   const raw = await fs.readFile(file, "utf8");
-  let next = raw.replace(HTTP_CDN_RE, "https://cdn.fitdoplnky.sk/");
+  let next = raw
+    .replace(HTTP_CDN_RE, "https://cdn.fitdoplnky.sk/")
+    .replace(ADMIN_MAIL_RE, "mailto:info@fitdoplnky.sk");
 
   next = next.replace(ADMIN_URL_RE, (match) => rewriteAdminUrl(match, postSlugs, pageSlugs));
 

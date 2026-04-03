@@ -23,7 +23,7 @@ seo:
 ---
 Na čo sa používa Pestrec Mariánsky? Pestrec Mariánsky (Silybum marianum) je liečivá rastlina známa svojimi významnými terapeutickými vlastnosťami, ktorá je pôvodom zo Stredomoria, ale v súčasnosti je rozšírená po celom svete. Táto bylina je vysoko cenená pre svoje schopnosti chrániť a podporovať zdravie pečene. Pestrec Mariánsky je ľahko rozpoznateľný vďaka svojim veľkým zeleným listom s bielymi žilkami a purpurovým kvetom, ktorý sa objavuje na vrchole dlhého stonky.
 
-Tradične sa používal na liečbu rôznych ochorení pečene a žlčníka a na prirodzený [detox organizmu](https://admin.fitdoplnky.sk/obchod/detox-organizmu/). Účinnou zložkou Pestrecu Mariánskeho je silymarín, zlúčenina, ktorá pomáha chrániť pečeňové bunky pred poškodením a podporuje ich regeneráciu. Kvôli týmto vlastnostiam je Pestrec Mariánsky často súčasťou doplnkov stravy určených pre zdravie [pečene](https://www.fitdoplnky.sk/clanky/detoxikacia-pecene).
+Tradične sa používal na liečbu rôznych ochorení pečene a žlčníka a na prirodzený [detox organizmu](https://www.fitdoplnky.sk/obchod/detox-organizmu/). Účinnou zložkou Pestrecu Mariánskeho je silymarín, zlúčenina, ktorá pomáha chrániť pečeňové bunky pred poškodením a podporuje ich regeneráciu. Kvôli týmto vlastnostiam je Pestrec Mariánsky často súčasťou doplnkov stravy určených pre zdravie [pečene](https://www.fitdoplnky.sk/clanky/detoxikacia-pecene).
 
 Okrem svojich pečeňových prínosov, Pestrec Mariánsky tiež obsahuje antioxidanty a má protizápalové vlastnosti, čo robí z neho užitočný doplnok pri rôznych zdravotných stavoch. Vzhľadom na svoje široké použitie a dlhú históriu v tradičnej medicíne, Pestrec Mariánsky zostáva populárnou bylinou vo svete prírodného zdravotníctva.
 
@@ -104,7 +104,7 @@ Dôležité je zdôrazniť, že hoci existujú sľubné výsledky, výskum Pestr
 
 ## Formy a Spôsoby Použitia
 
-[Kvalitný Pestrec Mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) je dostupný v rôznych formách, čo umožňuje jeho flexibilné využitie v závislosti od osobných preferencií a zdravotných potrieb. Tu sú niektoré z najbežnejších foriem, ako sa Pestrec Mariánsky používa, spolu s pokynmi na použitie a dávkovanie:
+[Kvalitný Pestrec Mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) je dostupný v rôznych formách, čo umožňuje jeho flexibilné využitie v závislosti od osobných preferencií a zdravotných potrieb. Tu sú niektoré z najbežnejších foriem, ako sa Pestrec Mariánsky používa, spolu s pokynmi na použitie a dávkovanie:
 
 1.  **Sušená Bylina**
     -   Sušené listy alebo semienka Pestrecu Mariánskeho sa môžu použiť na prípravu čaju. Čaj sa pripravuje tak, že sa sušené byliny zalejú horúcou vodou a nechajú sa lúhovať po dobu 10 až 15 minút.
@@ -118,7 +118,7 @@ Dôležité je zdôrazniť, že hoci existujú sľubné výsledky, výskum Pestr
     -   Jednou z najpopulárnejších foriem je doplnok stravy v kapsulách alebo tabletách, ktoré obsahujú štandardizované množstvo silymarínu.
     -   Doplnky sa odporúčajú pre špecifické terapeutické použitie, ako je podpora pečeňovej funkcie. Dávkovanie by malo byť v súlade s pokynmi na obale alebo podľa odporúčania odborníka.
 5.  **Mleté Semienka**
-    -   [Pestrec Mariánsky drvený](https://admin.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/) sa môže pridávať do jedál ako doplnok stravy.
+    -   [Pestrec Mariánsky drvený](https://www.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/) sa môže pridávať do jedál ako doplnok stravy.
     -   Táto forma je vhodná pre tých, ktorí chcú začleniť Pestrec Mariánsky do svojej bežnej stravy.
 
 **Dávkovanie**

@@ -31,7 +31,7 @@ Triphala je všeobecne známa pre svoje komplexné účinky na podporu zdravia, 
 
 V súčasnosti sa Triphala využíva po celom svete a je dostupná vo viacerých formách, vrátane prášku, tabletiek a čajov. Jej popularita v medzinárodnom kontexte svedčí o rastúcom záujme o prírodné a holistické prístupy k zdraviu, ktoré Ayurveda predstavuje. Aj keď je Triphala považovaná za bezpečnú pre väčšinu ľudí, je dôležité konzultovať jej užívanie s odborníkom na zdravotnú starostlivosť, najmä v prípade špecifických zdravotných stavov alebo súbežného užívania iných liekov.
 
-TIP – [Triphala kapsule, Trávenie, Stres, Očista, 60 kapsúl](https://admin.fitdoplnky.sk/obchod/triphala/)
+TIP – [Triphala kapsule, Trávenie, Stres, Očista, 60 kapsúl](https://www.fitdoplnky.sk/obchod/triphala/)
 
 ## Zloženie Triphaly
 
@@ -83,7 +83,7 @@ Triphala môže prispieť k regulácii telesnej hmotnosti tým, že podporuje zd
 
 Spoločne tieto účinky činia Triphalu cenným doplnkom pre každého, kto hľadá prírodnú podporu pre svoje zdravie a pohodu. Je dôležité, aby sa užívanie Triphaly konzultovalo s odborníkom na zdravotnú starostlivosť, najmä v prípade existujúcich zdravotných stavov alebo užívaní iných liekov.
 
-TIP – [Triphala, BIO, Prášok, Detoxikácia, Regenerácia, 60g](https://admin.fitdoplnky.sk/obchod/triphala-powder/)
+TIP – [Triphala, BIO, Prášok, Detoxikácia, Regenerácia, 60g](https://www.fitdoplnky.sk/obchod/triphala-powder/)
 
 ## Vedľajšie účinky a bezpečnostné upozornenia
 
@@ -131,7 +131,7 @@ Triphala je dostupná v rôznych formách, vrátane prášku, kapsúl, tabletiek
 
 Vždy je dobré konzultovať užívanie akýchkoľvek doplnkov, vrátane Triphaly, s kvalifikovaným odborníkom na zdravotnú starostlivosť, najmä ak máte existujúce zdravotné stavy alebo užívate iné lieky.
 
-TIP – [Liver Detox, Ostropestrec mariánsky, Inulín, Psyllium, Škorica cejlónska, Triphala, Altevita, 300g](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+TIP – [Liver Detox, Ostropestrec mariánsky, Inulín, Psyllium, Škorica cejlónska, Triphala, Altevita, 300g](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Triphala účinky – Záver
 

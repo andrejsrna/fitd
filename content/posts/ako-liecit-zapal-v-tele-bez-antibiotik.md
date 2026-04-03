@@ -29,7 +29,7 @@ Dôležitosť hľadania alternatív k antibiotikám spočíva v ich častom nadu
 
 V tomto článku preskúmame, ako môžeme využívať prírodné spôsoby a zmeny životného štýlu na liečbu a prevenciu zápalu, čím podporíme nielen svoje zdravie, ale aj prispievame k udržateľnosti a efektívnosti antibiotík pre budúce generácie.
 
-_TIP – [Kurkumín s Reishi](https://admin.fitdoplnky.sk/obchod/kurkumin-reishi/)_
+_TIP – [Kurkumín s Reishi](https://www.fitdoplnky.sk/obchod/kurkumin-reishi/)_
 
 ## Čo je zápal a jeho príčiny
 
@@ -72,7 +72,7 @@ Antibiotiká sú významným objavom v medicíne, ktorý umožnil liečbu mnohý
 
 Táto časť podčiarkuje význam uváženého a zodpovedného používania antibiotík, ako aj potrebu hľadať alternatívne metódy liečby, ktoré by mohli byť efektívne v boji proti zápalom a zároveň by predchádzali uvedeným rizikám.
 
-_TIP – [Esenciálne oleje na imunitu](https://admin.fitdoplnky.sk/obchod/imunita-essence/)_
+_TIP – [Esenciálne oleje na imunitu](https://www.fitdoplnky.sk/obchod/imunita-essence/)_
 
 ## **Prírodné metódy liečby zápalu**
 
@@ -124,7 +124,7 @@ Okrem konvenčnej medicíny a prírodných metód existujú aj alternatívne ter
 
 Pri využívaní týchto alternatívnych metód je dôležité konzultovať ich s kvalifikovaným zdravotníckym odborníkom, aby sa zabezpečila ich bezpečnosť a efektivita, a aby sa predišlo prípadným interakciám s inými liečebnými postupmi alebo liekmi. Tieto metódy môžu byť užitočným doplnkom k tradičnej medicíne, najmä pri liečbe chronických alebo ťažko liečiteľných zápalových stavov.
 
-_TIP – [Vitamín C so šípkami](https://admin.fitdoplnky.sk/obchod/vitamin-c-a-sipka/)_
+_TIP – [Vitamín C so šípkami](https://www.fitdoplnky.sk/obchod/vitamin-c-a-sipka/)_
 
 ## **Prevencia zápalu**
 

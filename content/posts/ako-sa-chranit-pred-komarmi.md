@@ -27,7 +27,7 @@ Ochrana pred komármi je preto dôležitá nielen pre naše pohodlie, ale aj pre
 
 V tomto článku vám predstavíme najúčinnejšie metódy ochrany pred komármi, či už sa nachádzate v prírode alebo v pohodlí domova. Dozviete sa, ako si vybrať správny repelent, aké oblečenie vás ochráni najviac a ako zabrániť komárom v množení sa vo vašom okolí. Taktiež vám poradíme, čo robiť v prípade, že vás komár uštipne. Cieľom tohto článku je poskytnúť vám komplexný prehľad o ochrane pred komármi a pomôcť vám užiť si leto bez obáv z týchto nepríjemných návštevníkov.
 
-Pozrite si tiež: [BIO Repelent proti kliešťom, REPELENT SOFT 10ml](https://admin.fitdoplnky.sk/obchod/repelent-soft/)
+Pozrite si tiež: [BIO Repelent proti kliešťom, REPELENT SOFT 10ml](https://www.fitdoplnky.sk/obchod/repelent-soft/)
 
 ## Prečo sú komáre nebezpečné?
 

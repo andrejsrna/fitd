@@ -27,7 +27,7 @@ V súčasnosti sa ginkgo biloba často používa na zlepšenie pamäte a koncent
 
 Avšak, ako pri každom doplnku stravy alebo liečive, je dôležité pochopiť nielen potenciálne výhody, ale aj možné nežiaduce účinky spojené s jeho užívaním. Nasledujúca časť článku sa preto zameriava na bezpečnosť ginkga biloby a na to, čo by ste mali vedieť pred jeho zaradením do svojho zdravotného režimu.
 
-TIP – [Ginko biloba, Pamäť, Koncentrácia, Prekrvenie, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/ginko-biloba-tablety/)
+TIP – [Ginko biloba, Pamäť, Koncentrácia, Prekrvenie, 80 kapsúl](https://www.fitdoplnky.sk/obchod/ginko-biloba-tablety/)
 
 ## Čo je Ginkgo Biloba?
 
@@ -79,7 +79,7 @@ Ginkgo biloba sa teší veľkej popularite vďaka širokému spektru potenciáln
 
 Je dôležité poznamenať, že hoci existujú sľubné dôkazy o výhodách ginkga biloby, výsledky štúdií sa môžu líšiť a nie všetky účinky sú univerzálne akceptované vedeckou komunitou. Pred začatím akejkoľvek doplnkovej liečby je dôležité konzultovať s lekárom alebo zdravotníckym odborníkom, najmä ak už užívate iné lieky alebo máte zdravotné problémy.
 
-TIP – [Ginko dvojlaločné, Smoothie, Krvný obeh, 90g](https://admin.fitdoplnky.sk/obchod/ginko-dvojlalocne-smoothie/)
+TIP – [Ginko dvojlaločné, Smoothie, Krvný obeh, 90g](https://www.fitdoplnky.sk/obchod/ginko-dvojlalocne-smoothie/)
 
 ## Nežiaduce účinky Ginkgo Biloba
 
@@ -135,7 +135,7 @@ Pri užívaní ginkga biloby je potrebné zvážiť potenciálne riziká a opatr
 
 Pred začatím užívania ginkga biloby alebo akýchkoľvek doplnkov je dôležité poradiť sa s lekárom alebo zdravotníckym odborníkom, aby sa predišlo potenciálnym negatívnym interakciám a zabezpečila maximálna bezpečnosť.
 
-TIP – [Zelené smoothie, BIO, Green mix smoothie, Altevita, 300g](https://admin.fitdoplnky.sk/obchod/altevita-bio-green-mix-smoothie-300g/)
+TIP – [Zelené smoothie, BIO, Green mix smoothie, Altevita, 300g](https://www.fitdoplnky.sk/obchod/altevita-bio-green-mix-smoothie-300g/)
 
 ## Ako sa vyhnúť nežiaducim účinkom
 

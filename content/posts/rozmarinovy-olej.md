@@ -27,7 +27,7 @@ Rozmarínový olej, známy svojou charakteristickou arómou a bohatým zložení
 
 V súčasnosti si rozmarínový olej udržiava svoje postavenie ako populárny komponent v aromaterapii, kozmetike a dokonca aj v modernom zdravotníctve. Jeho účinky sú rovnako cené v domácnostiach po celom svete, kde sa využíva pre jeho antiseptické, protizápalové a relaxačné vlastnosti. Či už sa pridáva do kúpeľov, masážnych olejov alebo používa ako prírodný repelent proti hmyzu, rozmarínový olej je skutočne multifunkčným darom prírody. Tento článok poskytne ucelený prehľad o význame, výrobe a rozmanitých spôsoboch využitia rozmarínového oleja v každodennom živote.
 
-_TIP – [Rozmarínový esenciálny olej](https://admin.fitdoplnky.sk/obchod/rozmarin-essence-premium/)_
+_TIP – [Rozmarínový esenciálny olej](https://www.fitdoplnky.sk/obchod/rozmarin-essence-premium/)_
 
 ## Získavanie a výroba rozmarínového oleja
 
@@ -65,7 +65,7 @@ Rastliny pestované v ideálnych podmienkach, bez použitia pesticídov a herbic
 
 Rozmarínový olej, so svojím jedinečným chemickým zložením, ponúka širokú škálu terapeutických vlastností, čo ho robí obľúbeným v mnohých terapeutických a kozmetických aplikáciách. Jeho komplexné bioaktívne zložky sú základom jeho mnohostranných využití a účinkov.
 
-_TIP – [Rozmarín, Esenciálny olej](https://admin.fitdoplnky.sk/obchod/rozmarin-essence/)_
+_TIP – [Rozmarín, Esenciálny olej](https://www.fitdoplnky.sk/obchod/rozmarin-essence/)_
 
 ## Terapeutické a liečebné využitie
 
@@ -150,7 +150,7 @@ Rozmarínový olej je obzvlášť obľúbený pri príprave pečených alebo gri
 
 Bezpečnosť pri používaní rozmarínového oleja je kľúčová, a preto je dôležité byť si vedomý možných vedľajších účinkov a rizík. Pri akýchkoľvek pochybnostiach alebo zdravotných problémoch je najlepšie konzultovať použitie rozmarínového oleja s kvalifikovaným zdravotníckym pracovníkom.
 
-_TIP – [Esenciálne oleje na koncentráciu](https://admin.fitdoplnky.sk/obchod/oleje-na-pozornost-a-koncentraciu/)_
+_TIP – [Esenciálne oleje na koncentráciu](https://www.fitdoplnky.sk/obchod/oleje-na-pozornost-a-koncentraciu/)_
 
 ## Rozmarínový olej – záver
 

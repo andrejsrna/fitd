@@ -37,7 +37,7 @@ Bylinky na čistenie ciev môžu byť užitočné pri podpore zdravia ciev a pri
 
 Niektoré bylinky, ktoré sa často používajú na podporu zdravia ciev, zahŕňajú:
 
-1.  [**Ginko tablety**](https://admin.fitdoplnky.sk/obchod/ginko-biloba-tablety/): Ginkgo biloba je známy pre svoje vazodilatačné účinky, čo znamená, že môže pomôcť rozšíriť krvné cievy a zlepšiť prietok krvi. Táto bylina tiež obsahuje silné antioxidanty, ktoré môžu pomôcť bojovať proti zápalu a poškodeniu ciev.
+1.  [**Ginko tablety**](https://www.fitdoplnky.sk/obchod/ginko-biloba-tablety/): Ginkgo biloba je známy pre svoje vazodilatačné účinky, čo znamená, že môže pomôcť rozšíriť krvné cievy a zlepšiť prietok krvi. Táto bylina tiež obsahuje silné antioxidanty, ktoré môžu pomôcť bojovať proti zápalu a poškodeniu ciev.
     
 2.  **Cesnak (Allium sativum)**: Cesnak je bohatý na zlúčeniny, ktoré môžu pomôcť znižovať krvný tlak a zlepšovať zdravie ciev. Má antioxidačné, protizápalové a antitrombotické účinky, ktoré môžu pomôcť pri prevencii aterosklerózy.
     

@@ -35,7 +35,7 @@ Hlavné účinky moringy na zdravie zahŕňajú:
 
 Okrem týchto prínosov, moringa prispieva aj k zlepšeniu zdravia kože a vlasov, poskytuje energiu a zlepšuje celkovú vitalitu tela. Svojou jedinečnou kombináciou nutričných hodnôt a zdravotných prínosov si moringa získala pomenovanie superpotravina a je súčasťou mnohých zdravých diét po celom svete.
 
-TIP – [Moringa smoothie, Prášok z moringy, 90g](https://admin.fitdoplnky.sk/obchod/moringa-smoothie/)
+TIP – [Moringa smoothie, Prášok z moringy, 90g](https://www.fitdoplnky.sk/obchod/moringa-smoothie/)
 
 ## História a pôvod moringy
 
@@ -78,7 +78,7 @@ Pri porovnaní s inými superpotravinami, ako sú špenát, kale (kel), goji ale
 
 Táto kombinácia nutričných látok robí z moringy jednu z najvýživnejších rastlín dostupných a základný pilier pre zdravé stravovacie návyky. Jej schopnosť poskytnúť taký široký spektrum dôležitých vitamínov a minerálov z nej robí ideálnu superpotravinu pre doplnenie a zlepšenie každodennej diéty.
 
-TIP – [Moringa kapsule, Energia, Odolnosť, Chudnutie, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/moringa-kapsule/)
+TIP – [Moringa kapsule, Energia, Odolnosť, Chudnutie, 80 kapsúl](https://www.fitdoplnky.sk/obchod/moringa-kapsule/)
 
 ## Zdravotné účinky moringy
 
@@ -131,7 +131,7 @@ Je kľúčové konzultovať s lekárom alebo kvalifikovaným zdravotníckym prac
 
 Zatiaľ čo moringa ponúka množstvo zdravotných prínosov, je dôležité pristupovať k jej užívaniu informovane a zodpovedne, s dôrazom na možné interakcie a vedľajšie účinky.
 
-TIP – [Moringa histamín, Na zníženie histamínu v tele, 140 kapsúl](https://admin.fitdoplnky.sk/obchod/moringa-histamin/)
+TIP – [Moringa histamín, Na zníženie histamínu v tele, 140 kapsúl](https://www.fitdoplnky.sk/obchod/moringa-histamin/)
 
 ## Ako konzumovať moringu
 

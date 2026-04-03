@@ -29,7 +29,7 @@ Bolesti hlavy môžu byť príznakom rôznych zdravotných stavov, od banálnych
 
 V tomto článku sa pozrieme na rôzne aspekty bolestí hlavy, ich príčiny, symptómy, možnosti diagnostiky a liečby, ako aj na stratégie prevencie. Naším cieľom je poskytnúť čitateľom komplexný pohľad na tento rozšírený problém a ponúknuť praktické informácie, ktoré môžu pomôcť v boji proti bolestiam hlavy.
 
-TIP – [Migréna, Esenciálny olej, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/migrena-essence/)
+TIP – [Migréna, Esenciálny olej, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/migrena-essence/)
 
 ## Čo sú bolesti hlavy
 
@@ -101,7 +101,7 @@ Zdravotné stavy
 
 Rozpoznanie a modifikácia rizikových faktorov je základom prevencie bolestí hlavy. Pravidelné cvičenie, správna hydratácia, vyvážená strava, správna ergonómia pri práci, adekvátny spánok a efektívne manažovanie stresu môžu výrazne prispieť k zníženiu frekvencie a intenzity bolestí hlavy. Pre individuálny prístup a odporúčania je dôležitá konzultácia so zdravotníckym pracovníkom.
 
-TIP – [Levanduľa, Esenciálny olej, Spánok, Bolesti, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/levandula-essence/)
+TIP – [Levanduľa, Esenciálny olej, Spánok, Bolesti, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/levandula-essence/)
 
 ## Symptómy a diagnostika
 
@@ -188,7 +188,7 @@ Alternatívne terapie
 
 Pri výbere liečby je dôležité zvážiť potenciálne vedľajšie účinky liekov a možné interakcie s inými liekmi alebo zdravotnými stavmi. Preto je vždy odporúčané konzultovať možnosti liečby s lekárom alebo zdravotníckym odborníkom. V niektorých prípadoch môže byť potrebné vyskúšať viacero stratégií, aby sa našla najúčinnejšia metóda pre jednotlivca.
 
-TIP – [Ginko biloba tablety, Pamäť, Koncentrácia, Prekrvenie, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/ginko-biloba-tablety/)
+TIP – [Ginko biloba tablety, Pamäť, Koncentrácia, Prekrvenie, 80 kapsúl](https://www.fitdoplnky.sk/obchod/ginko-biloba-tablety/)
 
 ## Prevencia
 
@@ -262,7 +262,7 @@ Bolesť hlavy pri špecifických skupinách ľudí
 
 V prípade, že sa u vás objaví ktorýkoľvek z vyššie uvedených príznakov alebo ak máte obavy o vaše zdravotné stav, neodkladajte návštevu lekára. Včasná diagnóza a správna liečba sú kľúčové pre zvládanie zdravotných problémov spojených s bolesťami hlavy.
 
-TIP – [Levanduľa, Esenciálny olej, Organic, Nanovitae, Na bolesti, Akné, Spánok, 10ml](https://admin.fitdoplnky.sk/obchod/kvalitny-levandulovy-esencialny-olej/)
+TIP – [Levanduľa, Esenciálny olej, Organic, Nanovitae, Na bolesti, Akné, Spánok, 10ml](https://www.fitdoplnky.sk/obchod/kvalitny-levandulovy-esencialny-olej/)
 
 ## Záver
 

@@ -47,18 +47,18 @@ Cholesterol sa v krvi prepravuje vo forme lipoproteínov, ktoré sa líšia svoj
 Poďme na prvú čast ako znížit cholesterol bez liekov. Úprava stravovania je kľúčovým krokom v kontrole hladiny cholesterolu. Niektoré potraviny môžu prirodzene znížiť hladinu „zlého“ LDL cholesterolu, zatiaľ čo iné pomáhajú zvyšovať „dobrý“ HDL cholesterol. Tu je zoznam potravín, ktoré by mali byť súčasťou zdravého jedálnička na kontrolu cholesterolu:
 
 1.  **Ovos**: Obsahuje beta-glukán, rozpustnú vlákninu, ktorá pomáha znížiť LDL cholesterol.
-2.  **Orechy a Semienka**: Orechy ako mandle, vlašské orechy a [ľanové semienka](https://admin.fitdoplnky.sk/obchod/lanove-semienka/) sú bohaté na omega-3 mastné kyseliny a vlákninu, ktoré prispievajú k zníženiu cholesterolu.
-3.  **Rastlinné Oleje**: Oleje ako olivový, repkový a [mandľový olej](https://admin.fitdoplnky.sk/obchod/mandlovy-olej-lisovany-za-studena/) obsahujú nenasýtené tuky, ktoré pomáhajú znížiť LDL cholesterol.
+2.  **Orechy a Semienka**: Orechy ako mandle, vlašské orechy a [ľanové semienka](https://www.fitdoplnky.sk/obchod/lanove-semienka/) sú bohaté na omega-3 mastné kyseliny a vlákninu, ktoré prispievajú k zníženiu cholesterolu.
+3.  **Rastlinné Oleje**: Oleje ako olivový, repkový a [mandľový olej](https://www.fitdoplnky.sk/obchod/mandlovy-olej-lisovany-za-studena/) obsahujú nenasýtené tuky, ktoré pomáhajú znížiť LDL cholesterol.
 4.  **Strukoviny**: Fazuľa, šošovica a hrach sú bohaté na vlákninu a bielkoviny, ktoré môžu pomôcť regulovať hladinu cholesterolu.
 5.  **Ryby Bohaté na Omega-3**: Losos, makrela, sardinky a pstruh obsahujú zdravé omega-3 mastné kyseliny, ktoré znižujú celkový cholesterol.
-6.  **Ovocie a Zelenina** (napr [Goji](https://admin.fitdoplnky.sk/obchod/goji/)): Sú prirodzene nízke na cholesterol a bohaté na vlákninu, ktorá pomáha odstraňovať cholesterol z tela.
+6.  **Ovocie a Zelenina** (napr [Goji](https://www.fitdoplnky.sk/obchod/goji/)): Sú prirodzene nízke na cholesterol a bohaté na vlákninu, ktorá pomáha odstraňovať cholesterol z tela.
 7.  **Celozrnné Výrobky**: Ako celozrnný chlieb a hnedá ryža, ktoré obsahujú veľa rozpustnej vlákniny.
 
 Ako upraviť jedálniček pre lepšiu kontrolu cholesterolu:
 
 -   **Znížte Príjem Nasýtených Tukov**: Limitujte množstvo červeného mäsa a mliečnych výrobkov s vysokým obsahom tuku.
 -   **Vyhnite sa Trans-tukom**: Čítajte etikety a vyhýbajte sa potravinám obsahujúcim hydrogenované oleje.
--   **Zvýšte Príjem Rozpustnej Vlákniny** (napr [Psyllium](https://admin.fitdoplnky.sk/obchod/psyllium/)): Začlenite viac ovsa, strukovín, ovocia a zeleniny do stravy.
+-   **Zvýšte Príjem Rozpustnej Vlákniny** (napr [Psyllium](https://www.fitdoplnky.sk/obchod/psyllium/)): Začlenite viac ovsa, strukovín, ovocia a zeleniny do stravy.
 -   **Konsumujte Viac Omega-3 Mastných Kyselín**: Zahrňte do stravy viac ryby a orechy.
 -   **Vyvážené Porcie**: Strážte si množstvo prijímaných potravín a sledujte celkový príjem kalórií.
 
@@ -116,7 +116,7 @@ Existuje niekoľko prírodných doplnkov, ktoré sú známe svojimi potenciálny
 4.  **Červená droždia ryža**: Obsahuje látky podobné statínom, ktoré môžu pomôcť znížiť LDL cholesterol, ale môže mať podobné vedľajšie účinky ako statíny.
 5.  **Psyllium (Indická Trávovka)**: Vláknina z psyllium môže pomôcť znížiť hladiny LDL cholesterolu.
 6.  **Artičokový Extrakt**: Niektoré štúdie naznačujú, že artičokový extrakt môže pomôcť znížiť celkový a LDL cholesterol.
-7.  **[Zelený Čaj v kapsuliach](https://admin.fitdoplnky.sk/obchod/matcha-booster/) alebo Extrakt z Zeleného Čaju**: Zelený čaj je známy pre svoje antioxidantné vlastnosti a môže pomôcť znížiť LDL cholesterol.
+7.  **[Zelený Čaj v kapsuliach](https://www.fitdoplnky.sk/obchod/matcha-booster/) alebo Extrakt z Zeleného Čaju**: Zelený čaj je známy pre svoje antioxidantné vlastnosti a môže pomôcť znížiť LDL cholesterol.
 8.  **Rastlinné Steroly a Stanoly**: Tieto látky sa nachádzajú v niektorých rastlinných olejoch, semienkach a orechoch a môžu pomôcť znížiť absorpciu cholesterolu v čreve.
 
 ### Upozornenie:

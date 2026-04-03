@@ -35,7 +35,7 @@ V tradičnej medicíne sa opunciový olej používa pre svoje potenciálne lieč
 
 Tento olej si získal uznanie nielen kvôli svojim zdravotným účinkom, ale aj pre svoju exkluzivitu a multifunkčnosť. V dnešnej dobe, keď sa čoraz viac ľudí obracia k prírodným a udržateľným produktom, opunciový olej predstavuje vrchol v oblasti prírodnej starostlivosti o telo a zdravie.
 
-TIP – [Opunciový olej, Zo semien opuncie, Za studena lisovaný, Na pleť a nechty, Anti-aging, Hydratácia, 50ml](https://admin.fitdoplnky.sk/obchod/opunciovy-olej/)
+TIP – [Opunciový olej, Zo semien opuncie, Za studena lisovaný, Na pleť a nechty, Anti-aging, Hydratácia, 50ml](https://www.fitdoplnky.sk/obchod/opunciovy-olej/)
 
 ## Získavanie opunciového oleja
 

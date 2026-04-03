@@ -25,7 +25,7 @@ Zápcha domáca liečba – 10 dôležitých informácií. Zápcha je bežný zd
 
 Hoci existuje mnoho domácich liečebných metód, ktoré môžu pomôcť pri riešení miernych prípadov zápchy, je dôležité mať na pamäti, že tieto metódy sú doplnkové a by nemali nahrádzať odbornú lekársku starostlivosť. Pri vážnych, pretrvávajúcich alebo opakovaných príznakoch zápchy je vždy odporúčané vyhľadať lekársku pomoc. Lekár môže poskytnúť presné diagnostické hodnotenie a odporučiť vhodnú liečbu založenú na príčine a závažnosti problému. Tento článok poskytne prehľad o bežných domácich liečebných metódach pre zápchu a ponúkne praktické rady pre tých, ktorí hľadajú úľavu od týchto nepríjemných príznakov.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Čo je zápcha
 
@@ -80,7 +80,7 @@ Pri riešení a prevencii zápchy môže mať zásadný vplyv prispôsobenie str
 
 Vytvorenie stravovacích návykov, ktoré zahŕňajú vysoký príjem vlákniny a dostatočnú hydratáciu, je základom pre prevenciu a liečbu zápchy. Je tiež dôležité pristupovať k zmene stravy postupne, aby sa predišlo náhlym tráviacim problémom, ako je nadúvanie alebo plynatosť.
 
-_TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://admin.fitdoplnky.sk/obchod/inulin/)_
+_TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://www.fitdoplnky.sk/obchod/inulin/)_
 
 ## Fyzická aktivita
 
@@ -136,7 +136,7 @@ Pri liečbe zápchy môžu byť užitočné aj niektoré prírodné laxatíva, k
 
 Pri výbere domácich prostriedkov na liečbu zápchy je dôležité zvážiť vaše osobné zdravotné potreby a konzultovať s lekárom, aby ste predišli možným vedľajším účinkom alebo interakciám s inými liekmi. Prírodné laxatíva môžu byť užitočným doplnkom k zmene stravy a životného štýlu pri liečbe zápchy.
 
-_TIP – [Vône do difúzera – 6 super vôní](https://admin.fitdoplnky.sk/vone-do-difuzera/)_
+_TIP – [Vône do difúzera – 6 super vôní](https://www.fitdoplnky.sk/vone-do-difuzera/)_
 
 ## Zmeny v životnom štýle
 

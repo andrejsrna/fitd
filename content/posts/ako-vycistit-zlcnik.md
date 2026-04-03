@@ -82,7 +82,7 @@ Hlavnými cieľmi čistenia žlčníka sú:
     -   **Endoskopické procedúry:** Napríklad ERCP (endoskopická retrográdna cholangiopankreatografia) na odstránenie kameňov z žlčových ciest.
 2.  **Prírodné prístupy:**
     -   **Zmena stravovacích návykov:** Zvýšenie príjmu vlákniny, zníženie tukov a cholesterolu, zdravé tuky.
-    -   **Bylinky a doplnky:** Napríklad [pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/), artičok, alebo kurkuma, ktoré môžu podporovať funkciu pečene a žlčníka.
+    -   **Bylinky a doplnky:** Napríklad [pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/), artičok, alebo kurkuma, ktoré môžu podporovať funkciu pečene a žlčníka.
     -   **Hydratácia:** Pitie dostatočného množstva vody na podporu zdravého odtoku žlče.
     -   **Fyzická aktivita:** Regularny pohyb podporuje zdravie žlčníka.
 
@@ -106,7 +106,7 @@ Prírodné metódy na podporu zdravia žlčníka zahŕňajú správnu výživu, 
 
 #### Bylinné doplnky a terapie
 
-1.  [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)**:** Táto bylina je známa svojimi ochrannými účinkami na pečeň a môže pomôcť podporovať zdravie žlčníka.
+1.  [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)**:** Táto bylina je známa svojimi ochrannými účinkami na pečeň a môže pomôcť podporovať zdravie žlčníka.
 2.  **Artičok:** Podporuje produkciu žlče a môže pomôcť pri tráviacich problémoch.
 3.  **Kurkuma:** Obsahuje kurkumín, ktorý môže podporovať zdravie pečene a žlčníka.
 4.  **Peppermint:** Môže pomáhať uvoľňovať žlčové cesty a znižovať bolesti.

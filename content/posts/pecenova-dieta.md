@@ -117,7 +117,7 @@ Nastrúhajte cukety a nechajte ich odstáť asi 10 minút, aby uvoľnili vodu. V
 
 Na panvici s olivovým olejom orestujeme mrkvu a fazuľku. Pridáme trochu vody, prikryjeme a necháme dusiť 10-15 minút, kým zelenina nie je mäkká. Dochutíme soľou a korením. Toto jedlo je bohaté na vitamíny a vlákninu. Všetky tieto recepty sú vhodné pre pečeňovú diétu a zároveň poskytujú chutný a zdravý spôsob stravovania. Dôležité je dodržiavať stravu s nízkym obsahom tukov, vyhnúť sa alkoholu a zahrnúť veľa ovocia, zeleniny a celozrnných potravín pre optimálnu podporu zdravia pečene.
 
-[![](https://cdn.fitdoplnky.sk/2023/05/3323_liver-detox-600x600-novy-300x300.jpg "3323_liver-detox-600x600-novy")](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+[![](https://cdn.fitdoplnky.sk/2023/05/3323_liver-detox-600x600-novy-300x300.jpg "3323_liver-detox-600x600-novy")](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Altevita Liver Detox
 
@@ -133,4 +133,4 @@ Liver Detox tiež pomáha optimalizovať hladinu glukózy v krvi a inzulínové 
 
 Dôležité je však mať na pamäti, že Liver Detox je doplnok stravy, nie náhrada za vyváženú a pestru stravu. Rovnako ako pri všetkých doplnkoch stravy, aj pri Liver Detox je dôležité dodržiavať odporúčanú dennú dávku a skladovať ho podľa pokynov výrobcu. Liver Detox je vhodný pre dospelých, ale nie je vhodný pre deti, tehotné a dojčiace ženy.
 
-[Zobraziť viac](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+[Zobraziť viac](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)

@@ -31,7 +31,7 @@ Eukalyptus sa delí na niekoľko podrodov a druhov, pričom každý má svoje š
 
 Vzhľadom na ich adaptabilitu a hospodársky význam, boli eukalyptusy introdukované do mnohých častí sveta, kde sa v niektorých prípadoch stali invazívnymi druhmi. Ich rýchly rast a schopnosť prežiť v rozličných prostrediach spôsobujú, že sú často používané v lesníctve a pri rekultivácii pôdy.
 
-_TIP – [Esenciálny olej Eukalyptus](https://admin.fitdoplnky.sk/obchod/eukalyptus-essence/)_
+_TIP – [Esenciálny olej Eukalyptus](https://www.fitdoplnky.sk/obchod/eukalyptus-essence/)_
 
 ## Botanický popis
 
@@ -75,7 +75,7 @@ Okrem toho, niektoré druhy eukalyptu majú tendenciu uvoľňovať chemikálie d
 
 Celkovo, ekologický význam eukalyptov je komplexný a závisí od mnohých faktorov vrátane ich druhu, umiestnenia a správy prostredia.
 
-_TIP – [Prémiový eukalyptový esenciálny olej](https://admin.fitdoplnky.sk/obchod/eukalyptus-essence-premium/)_
+_TIP – [Prémiový eukalyptový esenciálny olej](https://www.fitdoplnky.sk/obchod/eukalyptus-essence-premium/)_
 
 ## Využitie eukalyptov
 
@@ -113,7 +113,7 @@ V umení a literatúre sa eukalyptus často objavuje ako symbol austrálskej kra
 
 Eukalyptové stromy a ich prostredie sú často zobrazované v austrálskej výtvarnej a fotografickej tvorbe, kde symbolizujú divokú krásu a odolnosť prírody. V literatúre sa eukalyptus objavuje v poézii, próze a detských knihách, často ako symbol domova alebo ako klúčový prvok príbehov, ktoré sa odohrávajú v austrálskom vidieckom prostredí.
 
-_TIP – [Xylitol s príchuťou Eukalyptus](https://admin.fitdoplnky.sk/obchod/xylicare-eukalyptus/)_
+_TIP – [Xylitol s príchuťou Eukalyptus](https://www.fitdoplnky.sk/obchod/xylicare-eukalyptus/)_
 
 ## Výzvy a kontroverzie
 

@@ -27,7 +27,7 @@ Chrípková sezóna je obdobie, kedy sa výskyt chrípkových ochorení a respir
 
 Venovanie pozornosti chrípkovej sezóne je dôležité z niekoľkých dôvodov. Predovšetkým chrípka môže viesť k vážnym zdravotným komplikáciám, najmä u starších ľudí, malých detí a jedincov s oslabeným imunitným systémom. Okrem toho významné zvýšenie počtu prípadov chrípky môže preťažiť zdravotnícke zariadenia, čo môže ovplyvniť dostupnosť liečby pre iné ochorenia. Preventívne opatrenia, ako je očkovanie a správna hygiena, sú kľúčové pre znižovanie šírenia vírusu a ochranu zdravia populácie. Z týchto dôvodov je pochopenie a rešpektovanie chrípkovej sezóny nevyhnutné pre individuálne i verejné zdravie.
 
-_TIP – [Vitamín C a šípka](https://admin.fitdoplnky.sk/obchod/vitamin-c-a-sipka/)_
+_TIP – [Vitamín C a šípka](https://www.fitdoplnky.sk/obchod/vitamin-c-a-sipka/)_
 
 ## Čo je chrípka?
 
@@ -73,7 +73,7 @@ Chrípka, známa tiež ako influenca, je vírusové respiračné ochorenie, ktor
 
 Vzhľadom na možné závažné komplikácie je dôležité, aby ľudia, ktorí zažívajú príznaky chrípky, vyhľadali lekársku pomoc, najmä ak patria do rizikovej skupiny alebo ak symptómy pretrvávajú alebo sa zhoršujú.
 
-_TIP – [Kurkumín s Reishi](https://admin.fitdoplnky.sk/obchod/kurkumin-reishi/)_
+_TIP – [Kurkumín s Reishi](https://www.fitdoplnky.sk/obchod/kurkumin-reishi/)_
 
 ## Preventívne opatrenia
 
@@ -118,7 +118,7 @@ Pravidelné očkovanie proti chrípke je jedným z najúčinnejších spôsobov 
 
 Zhrnutie: Liečba chrípky sa zameriava hlavne na zmiernenie symptómov a podporu prirodzenej obranyschopnosti tela. V prípade závažných symptómov alebo u rizikových skupín je dôležité vyhľadať lekársku pomoc. Včasná intervencia môže zabrániť komplikáciám a urýchliť proces zotavenia.
 
-_TIP – [Esenciálne oleje Imunita](https://admin.fitdoplnky.sk/obchod/imunita-essence/)_
+_TIP – [Esenciálne oleje Imunita](https://www.fitdoplnky.sk/obchod/imunita-essence/)_
 
 ## Chrípková sezóna a verejné zdravie
 

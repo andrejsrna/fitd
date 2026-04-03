@@ -27,7 +27,7 @@ V súčasnosti sa goji bobule tešia veľkej popularite v západnom svete, kde s
 
 Nasledujúca časť článku sa bude zaoberať podrobným prehľadom špecifických účinkov goji na organizmus a poskytne odporúčania, ako ich zaradiť do svojej stravy.
 
-TIP – [Goji, Altevita, 500g](https://admin.fitdoplnky.sk/obchod/goji/)
+TIP – [Goji, Altevita, 500g](https://www.fitdoplnky.sk/obchod/goji/)
 
 ## Nutričný profil goji bobúľ
 
@@ -83,7 +83,7 @@ Aj keď sú goji bobule všeobecne považované za bezpečné a prospešné pre 
 
 Vždy je dôležité konzultovať s lekárom alebo zdravotníckym pracovníkom pred zahrnutím goji bobúľ do vašej stravy, najmä ak máte zdravotné problémy alebo užívate lieky. Informovanosť o možných interakciách a vedľajších účinkoch vám pomôže vychutnať si prínosy goji bobúľ bez zbytočných rizík.
 
-TIP – [Altevita BIO red mix smoothie 300g](https://admin.fitdoplnky.sk/obchod/red-mix-smoothie/)
+TIP – [Altevita BIO red mix smoothie 300g](https://www.fitdoplnky.sk/obchod/red-mix-smoothie/)
 
 ## Ako zahrnúť goji bobule do stravy
 

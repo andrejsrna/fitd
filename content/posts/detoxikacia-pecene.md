@@ -49,7 +49,7 @@ Ako prebieha detoxikácia pečene? Pečeň je jedným z najdôležitejších org
 4.  **Prevencia ochorení pečene:** Pravidelná detoxikácia pečene môže pomôcť znižovať riziko vzniku ochorení pečene, ako sú cirhóza, steatóza a zápal pečene (8).
     
 
-[![](https://cdn.fitdoplnky.sk/2023/05/3323_liver-detox-600x600-novy-300x300.jpg "3323_liver-detox-600x600-novy")](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+[![](https://cdn.fitdoplnky.sk/2023/05/3323_liver-detox-600x600-novy-300x300.jpg "3323_liver-detox-600x600-novy")](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Altevita Liver Detox
 
@@ -65,7 +65,7 @@ Liver Detox tiež pomáha optimalizovať hladinu glukózy v krvi a inzulínové 
 
 Dôležité je však mať na pamäti, že Liver Detox je doplnok stravy, nie náhrada za vyváženú a pestru stravu. Rovnako ako pri všetkých doplnkoch stravy, aj pri Liver Detox je dôležité dodržiavať odporúčanú dennú dávku a skladovať ho podľa pokynov výrobcu. Liver Detox je vhodný pre dospelých, ale nie je vhodný pre deti, tehotné a dojčiace ženy.
 
-[Zobraziť viac](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+[Zobraziť viac](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Štúdie o detoxikácii pečene
 
@@ -150,7 +150,7 @@ Detoxikačná kúra pečene môže pomôcť posilniť a očistiť pečeň. Pred 
 
 **Deň 6:**
 
--   Raňajky: Chia puding s [mangové pyré](https://admin.fitdoplnky.sk/obchod/mangove-pyre/) a kokosom
+-   Raňajky: Chia puding s [mangové pyré](https://www.fitdoplnky.sk/obchod/mangove-pyre/) a kokosom
 -   Obed: Grilovaný losos so šalátom z rukoly, cherry paradajkami a citrónovou šťavou
 -   Večera: Parné zeleninové kari s hnedou ryžou
 -   Pite veľa vody počas celého dňa

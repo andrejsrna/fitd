@@ -29,7 +29,7 @@ Viac ako len estetický problém, akné má významný vplyv na psychické zdrav
 
 Je dôležité chápať, že akné nie je len otázkou „kožnej hlbky“. Je to komplexný stav, ktorý vyžaduje komplexný prístup k liečbe, zahŕňajúci nielen topické liečiva alebo lieky na predpis, ale aj zmeny životného štýlu, stravovacie návyky a prístupy k starostlivosti o psychické zdravie. V nasledujúcich sekciách sa pozrieme na príčiny akné, spôsoby jeho prevencie a liečby, ako aj na to, ako minimalizovať jeho vplyv na každodenný život a sebavedomie jedincov.
 
-TIP – [Bambucké maslo, Hydratácia, Altevita, 80ml](https://admin.fitdoplnky.sk/obchod/bambucke-maslo/)
+TIP – [Bambucké maslo, Hydratácia, Altevita, 80ml](https://www.fitdoplnky.sk/obchod/bambucke-maslo/)
 
 ## Čo je akné a prečo vzniká
 
@@ -114,7 +114,7 @@ Niektoré štúdie naznačujú, že zníženie príjmu rafinovaných cukrov a ml
 
 Pamätajte, že každá pleť je iná a to, čo funguje pre jednu osobu, nemusí nutne fungovať pre inú. Prírodné liečby môžu vyžadovať čas, kým prejavia svoje účinky, a vždy je dôležité monitorovať reakciu vašej pleti a v prípade podráždenia alebo zhoršenia stavu konzultovať používanie s dermatológom.
 
-TIP – [Tea Tree, Esenciálny Olej, Organic, Nanovitae, 10ml](https://admin.fitdoplnky.sk/obchod/tea-tree-olej/)
+TIP – [Tea Tree, Esenciálny Olej, Organic, Nanovitae, 10ml](https://www.fitdoplnky.sk/obchod/tea-tree-olej/)
 
 ## Kedy vyhľadať pomoc dermatológa
 
@@ -170,7 +170,7 @@ Udržiavanie zdravej rutiny starostlivosti o pleť a zdravého životného štý
 
 Pamätajte, že starostlivosť o pleť je dlhodobý záväzok, a aj keď vaše akné môže byť momentálne pod kontrolou, udržiavanie zdravej rutiny a životného štýlu je kľúčové pre predchádzanie budúcim problémom s pokožkou.
 
-TIP – [Viasaka, Ajurvédske bylinné mydlo, Aloe Vera, Kokosový olej, 75g](https://admin.fitdoplnky.sk/obchod/visaka-mydlo/)
+TIP – [Viasaka, Ajurvédske bylinné mydlo, Aloe Vera, Kokosový olej, 75g](https://www.fitdoplnky.sk/obchod/visaka-mydlo/)
 
 ## Ako sa zbaviť akné – Záver
 

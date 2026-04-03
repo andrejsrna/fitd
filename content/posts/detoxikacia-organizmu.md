@@ -63,7 +63,7 @@ Detoxikácia organizmu je dôležitým aspektom udržiavania zdravia a celkovéh
 
 Bylinky a doplnky stravy môžu tiež prispieť k detoxikácii organizmu tým, že podporujú prirodzené čistiacie procesy tela. Nasledujúce bylinky a doplnky sa často odporúčajú na podporu detoxikácie:
 
-1.  **[Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) (Silybum marianum):** Táto bylina je bohatá na antioxidant silymarín, ktorý sa často používa na podporu zdravia pečene a jej detoxikačných procesov (1).
+1.  **[Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) (Silybum marianum):** Táto bylina je bohatá na antioxidant silymarín, ktorý sa často používa na podporu zdravia pečene a jej detoxikačných procesov (1).
     
 2.  **Kurkuma (Curcuma longa):** Kurkuma obsahuje účinnú zložku kurkumín, ktorý má silné antioxidačné a protizápalové vlastnosti. Môže pomôcť chrániť pečeň pred poškodením a podporiť jej detoxikačnú funkciu (2).
     

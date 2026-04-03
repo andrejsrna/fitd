@@ -25,7 +25,7 @@ Skákanie na švihadle, často považované za detskú hru, je v skutočnosti ef
 
 Historicky, švihadlo má dlhú a rozmanitú históriu, ktorá siaha do starovekých civilizácií. Už v starovekom Egypte a Číne boli používané rôzne formy švihadla ako nástroje pre fyzické cvičenie. V stredoveku sa švihadlo stalo populárnou formou zábavy a udržiavania fyzickej kondície v Európe. S postupom času sa skákanie na švihadle rozvinulo nielen ako detská hra, ale aj ako súčasť atletického tréningu pre športovcov vo viacerých disciplínach.
 
-_TIP – [Ryžový proteín](https://admin.fitdoplnky.sk/obchod/ryzovy-protein/)_
+_TIP – [Ryžový proteín](https://www.fitdoplnky.sk/obchod/ryzovy-protein/)_
 
 ## Význam skákacieho švihadla
 
@@ -73,7 +73,7 @@ Ak je váš cieľ zlepšiť rýchlosť a agilitu, odporúča sa rýchlostné šv
 -   **Pohľad a dýchanie:** Sústreďte sa na bod pred sebou a udržujte rovnomerné dýchanie.
 -   **Výška skoku:** Skáčte len dostatočne vysoko, aby lanko prešlo pod nohami. Vyššie skoky zvyšujú riziko únavy a zranenia.
 
-_TIP – [Denný spalovač tukov, Fat Burn Day, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/fat-burn-day/)_
+_TIP – [Denný spalovač tukov, Fat Burn Day, 80 kapsúl](https://www.fitdoplnky.sk/obchod/fat-burn-day/)_
 
 ## Výhody skákania na švihadle
 
@@ -124,7 +124,7 @@ Fyzická aktivita ako skákanie na švihadle stimuluje uvoľňovanie endorfínov
 
 Vždy si pamätajte na dôležitosť adaptácie tréningového programu podľa vašich individuálnych cieľov, kondície a zdravotného stavu. Skákanie na švihadle môže byť výzvou pre kĺby, takže je dôležité postupovať opatrne a zabezpečiť dostatočnú regeneráciu medzi tréningami.
 
-_TIP – [Káva Reishi, Cordyceps, Hericium, Shiitake, Čaga, Myco Coffee, 90g](https://admin.fitdoplnky.sk/obchod/kava-reishi/)_
+_TIP – [Káva Reishi, Cordyceps, Hericium, Shiitake, Čaga, Myco Coffee, 90g](https://www.fitdoplnky.sk/obchod/kava-reishi/)_
 
 ## Bezpečnostné tipy a prevencia zranení
 
@@ -169,7 +169,7 @@ Existujú organizované súťaže v skákaní na švihadle, ktoré sa konajú na
 
 Skákanie na švihadle tak zastáva dôležitú úlohu nielen v športe a fitnese, ale aj v širšom kultúrnom kontexte, kde sa teší obľube medzi rôznymi vekovými skupinami a v rôznych kultúrnych prostrediach.
 
-_TIP – [Kolagenový nápoj, Reishi, MSM prášok, Inulín, Kyselina hyaluronová, 320g](https://admin.fitdoplnky.sk/obchod/kolagenovy-napoj/)_
+_TIP – [Kolagenový nápoj, Reishi, MSM prášok, Inulín, Kyselina hyaluronová, 320g](https://www.fitdoplnky.sk/obchod/kolagenovy-napoj/)_
 
 ## Záver
 

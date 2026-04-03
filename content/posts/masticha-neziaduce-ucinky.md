@@ -27,7 +27,7 @@ Mastichu je možné konzumovať v rôznych formách – ako surovú živicu, v p
 
 Cieľom tohto článku je preskúmať a informovať o masticha nežiadúce účinky. Napriek jej mnohým pozitívnym vlastnostiam je dôležité byť si vedomým možných rizík a vedľajších účinkov, ktoré môže jej konzumácia priniesť. Toto zahŕňa možné interakcie s inými liekmi, alergické reakcie alebo nežiaduce účinky pri nadmernom užívaní. Tento článok poskytuje prehľad týchto aspektov, aby čitatelia mohli urobiť informované rozhodnutia pri používaní mastichy.
 
-TIP – [Kurkuma kapsule s Masticha, Trávenie, Kĺby, Zápal, 80 kapsúl](https://admin.fitdoplnky.sk/obchod/kurkuma-kapsule/)
+TIP – [Kurkuma kapsule s Masticha, Trávenie, Kĺby, Zápal, 80 kapsúl](https://www.fitdoplnky.sk/obchod/kurkuma-kapsule/)
 
 ## História a tradičné použitie mastichy
 
@@ -75,7 +75,7 @@ Masticha, známa tiež ako mastichová živica, je cenená pre rôzne zdravotné
 
 Tieto výhody mastichy sú podložené storočiami tradičného používania a sú podporené aj moderným vedeckým výskumom. Avšak, ako pri každom prírodnom produkte, je dôležité zvážiť individuálne zdravotné potreby a konzultovať použitie mastichy s odborníkom, najmä v prípade existujúcich zdravotných stavov alebo užívaní iných liekov.
 
-TIP – [Mastichová voda, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/altevita-mastichova-voda-10ml/)
+TIP – [Mastichová voda, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/altevita-mastichova-voda-10ml/)
 
 ## Masticha nežiadúce účinky
 
@@ -146,7 +146,7 @@ Masticha, ako prírodný produkt s rôznymi zdravotnými výhodami, môže byť 
 
 Vo všeobecnosti, výber medzi mastichou a inými alternatívnymi liečbami by mal byť založený na dôkladnom zvážení individuálnych zdravotných cieľov, potrieb a konzultácii s kvalifikovaným zdravotníckym odborníkom.
 
-TIP – [Mastichová voda, Altevita, 100ml](https://admin.fitdoplnky.sk/obchod/altevita-mastichova-voda-100ml/)
+TIP – [Mastichová voda, Altevita, 100ml](https://www.fitdoplnky.sk/obchod/altevita-mastichova-voda-100ml/)
 
 ## Rady pre bezpečné používanie
 

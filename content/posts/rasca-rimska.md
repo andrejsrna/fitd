@@ -27,7 +27,7 @@ Okrem kulinárskeho využitia má rímska rasca dlhú históriu aj v tradičnej 
 
 V tomto článku sa bližšie pozrieme na rímsku rascu, jej históriu, botanický opis, hlavné účinky na zdravie, možné vedľajšie účinky a praktické použitie. Cieľom je poskytnúť čitateľom ucelený prehľad o tejto fascinujúcej korenine, ktorá je viac než len prídavkom do jedál – je to prírodné liečivo, ktoré našlo svoje miesto v domácnostiach a medicíne už tisícročia.
 
-TIP – [Rímska Rasca, Mletá, Altevita, 80g](https://admin.fitdoplnky.sk/obchod/altevita-bio-rimska-rasca-mleta-80g/)
+TIP – [Rímska Rasca, Mletá, Altevita, 80g](https://www.fitdoplnky.sk/obchod/altevita-bio-rimska-rasca-mleta-80g/)
 
 ## Historický prehľad
 
@@ -85,7 +85,7 @@ Rímska rasca sa pestuje pre svoje „semená“, ktoré sú v skutočnosti plod
 
 Vzhľadom na svoju populárnu kulinársku a medicínsku hodnotu je rímska rasca cenným príspevkom k pestrej paletě rastlinných druhov s dlhou históriou využitia človekom. Jej schopnosť prispôsobiť sa rôznym podmienkam a klimatickým pásmam spolu s jej významnými vlastnosťami zabezpečuje, že rímska rasca zostane obľúbenou koreninou a liečivou rastlinou aj v budúcnosti.
 
-TIP – [Livlon-N, Eklipta, Echinacea, Puškvorec, Tinospóra, Rasca rímska, Aloe vera, Senovka, Čakanka, Zázvor, IMIS, 120 tabliet](https://admin.fitdoplnky.sk/obchod/imis-livlon-n-120-tabliet/)
+TIP – [Livlon-N, Eklipta, Echinacea, Puškvorec, Tinospóra, Rasca rímska, Aloe vera, Senovka, Čakanka, Zázvor, IMIS, 120 tabliet](https://www.fitdoplnky.sk/obchod/imis-livlon-n-120-tabliet/)
 
 ## Účinky a využitie
 
@@ -140,7 +140,7 @@ Rímska rasca môže interagovať s niektorými liekmi, čo môže ovplyvniť ic
 
 Rímska rasca je pri bežnom použití v kuchyni bezpečná pre väčšinu ľudí. Vždy je však dôležité používať ju s mierou a byť si vedomý možných vedľajších účinkov a interakcií s liekmi. Ak máte zdravotné problémy alebo užívate lieky, konzultácia s lekárom alebo odborníkom na zdravie pred začatím akejkoľvek novej liečby, vrátane prírodných doplnkov ako rímska rasca, je vždy najlepším postupom.
 
-TIP – [Čierna rasca, Černuška Siata, Nigella Sativa, Vitamínová bomba, Afrodiziakum, Na trávenie a Proti rakovine, 250g](https://admin.fitdoplnky.sk/obchod/cernuska-siata/)
+TIP – [Čierna rasca, Černuška Siata, Nigella Sativa, Vitamínová bomba, Afrodiziakum, Na trávenie a Proti rakovine, 250g](https://www.fitdoplnky.sk/obchod/cernuska-siata/)
 
 ## Praktické použitie
 

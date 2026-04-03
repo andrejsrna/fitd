@@ -33,7 +33,7 @@ Už od dávnych čias je citrónová tráva vysoko cenená v tradičnej ázijske
 
 S rastúcim záujmom o zdravý životný štýl a exotické chute sa citrónová tráva stala populárnou aj na Západe, kde sa dnes bežne využíva v kuchyniach a vo wellness produktách. Tento úvod ponúka pohľad na fascinujúci svet citrónovej trávy, odhaľujúc jej pôvod, charakteristické vlastnosti a rozmanité využitie.
 
-_TIP – [Esenciálny olej Lemongrass](https://admin.fitdoplnky.sk/obchod/lemongrass-essence-premium/)_
+_TIP – [Esenciálny olej Lemongrass](https://www.fitdoplnky.sk/obchod/lemongrass-essence-premium/)_
 
 ## Botanický popis
 
@@ -68,7 +68,7 @@ Citrónová tráva, známa botanicky ako Cymbopogon citratus, má bohatú a rozm
 
 Takto sa citrónová tráva stala súčasťou mnohých kultúr po celom svete, pričom každá kultúra prispela k jej jedinečnému využitiu a hodnote. Jej historické a kultúrne zázemie odráža jej všestrannosť a dlhú tradíciu využitia.
 
-_TIP – [Esenciálny olej citrónová tráva](https://admin.fitdoplnky.sk/obchod/citronova-trava-essence/)_
+_TIP – [Esenciálny olej citrónová tráva](https://www.fitdoplnky.sk/obchod/citronova-trava-essence/)_
 
 ## Pestovanie a zber
 
@@ -133,7 +133,7 @@ Citrónová tráva, s latinským názvom Cymbopogon citratus, sa tradične využ
 
 Je dôležité poznamenať, že napriek sľubným výsledkom výskumu, väčšina štúdií bola vykonaná na zvieratách alebo in vitro, a preto sú potrebné ďalšie výskumy na ľuďoch, aby sa tieto nálezy plne potvrdili. Navyše, ako pri všetkých doplnkoch stravy alebo bylinkách, je dôležité konzultovať použitie citrónovej trávy s odborníkom na zdravotnú starostlivosť, najmä v prípade tehotenstva, dojčenia alebo akýchkoľvek existujúcich zdravotných problémov.
 
-_TIP – [ORGANICKÝ DIFUZÉR – Lemongrass & Spice](https://admin.fitdoplnky.sk/obchod/organicky-difuzer-lemongrass-spice/)_
+_TIP – [ORGANICKÝ DIFUZÉR – Lemongrass & Spice](https://www.fitdoplnky.sk/obchod/organicky-difuzer-lemongrass-spice/)_
 
 ## Kulinaristické použitie
 
@@ -185,7 +185,7 @@ Citrónová tráva sa stala populárnou nielen v kulinárstve, ale aj v oblasti 
 
 Pri používaní esenciálnych olejov je vždy dôležité dodržiavať bezpečnostné pokyny, najmä v prípade tehotných žien, dojčiacich matiek a malých detí. Esenciálny olej z citrónovej trávy by sa mal vždy riediť pred aplikáciou na pokožku.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Možné vedľajšie účinky a upozornenia
 

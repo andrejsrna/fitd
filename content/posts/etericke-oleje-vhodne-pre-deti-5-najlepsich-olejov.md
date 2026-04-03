@@ -27,7 +27,7 @@ Napriek svojej obľube je však kľúčové pripomenúť, že používanie éter
 
 ## Odporúčané produkty
 
-[Éterické oleje pre deti](https://admin.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/pre-deti-esencialne-oleje/)
+[Éterické oleje pre deti](https://www.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/pre-deti-esencialne-oleje/)
 
 \[products ids=“45017, 45043, 45089, 45982″\]
 
@@ -71,7 +71,7 @@ Pri výbere éterických olejov pre deti je kľúčové vyberať také, ktoré s
     -   **Použitie:** Môže byť pridaný do difuzérov alebo použitý v masážnych olejoch na podporu relaxácie.
 4.  **Jemná šalvia (Salvia sclarea)**
     -   **Výhody:** Často sa používa na upokojenie a uvoľnenie mysle, môže tiež pomôcť pri problémoch so spánkom.
-    -   **Použitie:** Pridáva sa do masážnych zmesí alebo do [difuzér do auta](https://admin.fitdoplnky.sk/obchod/difuzer-do-auta/), najlepšie v kombinácii s inými upokojujúcimi olejmi.
+    -   **Použitie:** Pridáva sa do masážnych zmesí alebo do [difuzér do auta](https://www.fitdoplnky.sk/obchod/difuzer-do-auta/), najlepšie v kombinácii s inými upokojujúcimi olejmi.
 5.  **Sweet Orange (Citrus sinensis)**
     -   **Výhody:** Svieža a povznášajúca vôňa sladkého pomaranča môže pomôcť pri zmiernení úzkosti a zlepšení nálady.
     -   **Použitie:** Skvelé pre difuzéry, najmä v chladných mesiacoch, pre zvýšenie energie a radosti.

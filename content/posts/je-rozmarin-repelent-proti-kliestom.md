@@ -23,7 +23,7 @@ seo:
 ---
 Kliešte sú drobní ektoparaziti, ktoré sa môžu stať zdrojom vážnych zdravotných problémov u ľudí i zvierat. Ich schopnosť prenášať choroby, ako je Lymeova choroba alebo anaplazmóza, robí prevenciu uhrýznutia kliešťom nesmierne dôležitou. S nástupom teplejších mesiacov a zvýšenou aktivitou v prírode sa zvyšuje aj riziko kontaktu s týmito parazitmi, čo vyvoláva potrebu efektívnych a bezpečných repelentov.
 
-V tomto kontexte sa pozornosť obracia k prírodným riešeniam, medzi ktoré patrí aj [rozmarín](https://admin.fitdoplnky.sk/obchod/rozmarin-essence/). Táto aromatická rastlina, známa svojimi výraznými vôňami a využívaná v kuchyni i v tradičnej medicíne, je skúmaná aj ako potenciálny repelent proti kliešťom. Rozmarín obsahuje [esenciálne oleje](https://admin.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/) a zlúčeniny, ktoré môžu pôsobiť ako odstrašujúci prostriedok proti týmto parazitom, čím ponúka možnosť prirodzenej ochrany bez použitia syntetických chemikálií. V tomto článku preskúmame dostupné vedecké dôkazy a prax, aby sme zistili, či je rozmarín skutočne účinným [repelentom](https://admin.fitdoplnky.sk/obchod/repelent-soft/) proti kliešťom.
+V tomto kontexte sa pozornosť obracia k prírodným riešeniam, medzi ktoré patrí aj [rozmarín](https://www.fitdoplnky.sk/obchod/rozmarin-essence/). Táto aromatická rastlina, známa svojimi výraznými vôňami a využívaná v kuchyni i v tradičnej medicíne, je skúmaná aj ako potenciálny repelent proti kliešťom. Rozmarín obsahuje [esenciálne oleje](https://www.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/) a zlúčeniny, ktoré môžu pôsobiť ako odstrašujúci prostriedok proti týmto parazitom, čím ponúka možnosť prirodzenej ochrany bez použitia syntetických chemikálií. V tomto článku preskúmame dostupné vedecké dôkazy a prax, aby sme zistili, či je rozmarín skutočne účinným [repelentom](https://www.fitdoplnky.sk/obchod/repelent-soft/) proti kliešťom.
 
 ## Odporúčané produkty
 
@@ -45,7 +45,7 @@ Kliešte sú malí, ale významní paraziti, ktorí patria do skupiny článkono
 
 #### Zdravotné Riziká Spojeé s Uhrýznutím Kliešťom
 
--   **Lymeova Choroba**: Jednou z najzávažnejších chorôb prenášaných kliešťom je Lymeova [borelióza](https://admin.fitdoplnky.sk/borelioza/), spôsobovaná baktériou Borrelia burgdorferi. Symptómy môžu zahŕňať vyrážky, únava, horúčka a v pokročilých štádiách aj problémy s nervovým systémom a kĺbmi.
+-   **Lymeova Choroba**: Jednou z najzávažnejších chorôb prenášaných kliešťom je Lymeova [borelióza](https://www.fitdoplnky.sk/borelioza/), spôsobovaná baktériou Borrelia burgdorferi. Symptómy môžu zahŕňať vyrážky, únava, horúčka a v pokročilých štádiách aj problémy s nervovým systémom a kĺbmi.
 -   **Ďalšie Infekcie**: Kliešte môžu prenášať aj iné patogény, vrátane vírusov (napr. encefalitída) a baktérií (napr. anaplazmóza, babesióza).
 -   **Alergické Reakcie**: Niektorí ľudia môžu mať alergickú reakciu na sliny kliešťa, čo môže vyvolať miestne alebo všeobecné alergické reakcie.
 
@@ -57,7 +57,7 @@ Zúčeniny v rozmarínovom esenciálnom oleji sú preskúmavané kvôli ich mož
 
 ## Je rozmarín repelent proti kliešťom? – Vedecké Dôkazy a Štúdie
 
-Účinnosť [rozmarínu](https://admin.fitdoplnky.sk/obchod/rozmarin-essence-premium/) (Rosmarinus officinalis) ako repelentu proti kliešťom bola predmetom viacerých vedeckých štúdií. Tieto štúdie sa sústredili na identifikáciu a hodnotenie účinných zlúčenín v rozmaríne, ktoré môžu odstrašovať kliešte.
+Účinnosť [rozmarínu](https://www.fitdoplnky.sk/obchod/rozmarin-essence-premium/) (Rosmarinus officinalis) ako repelentu proti kliešťom bola predmetom viacerých vedeckých štúdií. Tieto štúdie sa sústredili na identifikáciu a hodnotenie účinných zlúčenín v rozmaríne, ktoré môžu odstrašovať kliešte.
 
 #### Zameranie Vedeckých Štúdií na Rozmarín
 
@@ -83,7 +83,7 @@ Rozmarín a rozmarínový olej môžu byť použité ako prírodné repelenty pr
 #### Aplikácia Rozmarínu ako Repelentu
 
 1.  **Rozmarínový Olej**:
-    -   Rozmarínový esenciálny olej môže byť použitý samostatne alebo zmiešaný s inými olejmi (ako je [kokosový olej](https://admin.fitdoplnky.sk/obchod/kokosovy-olej/) alebo jojobový olej) na zriedenie.
+    -   Rozmarínový esenciálny olej môže byť použitý samostatne alebo zmiešaný s inými olejmi (ako je [kokosový olej](https://www.fitdoplnky.sk/obchod/kokosovy-olej/) alebo jojobový olej) na zriedenie.
     -   Aplikujte malé množstvo zriedeného oleja na kožu, zameriavajúc sa na oblasti ako členky, zápästia a krk, kde sú kliešte pravdepodobnejšie prichytia.
 2.  **Domáca Repelentná Zmes**:
     -   Môžete pripraviť domáci repelent zmiešaním rozmarínového oleja s vodou a alkoholom alebo jablčným octom v rozprašovači.
@@ -109,7 +109,7 @@ Okrem rozmarínu existuje niekoľko iných prírodných repelentov, ktoré môž
 #### Typy Prírodných Repelentov
 
 1.  **Citronella**: Tento olej, získavaný z rastliny citronella, je známy pre svoje repelentné vlastnosti, najmä proti komárom, ale môže byť účinný aj proti kliešťom.
-2.  **[Eukalyptový Olej](https://admin.fitdoplnky.sk/obchod/eukalyptus-essence/)**: Olej získaný z listov eukalyptu, najmä z druhu Eucalyptus citriodora, je známy svojimi repelentnými vlastnosťami.
+2.  **[Eukalyptový Olej](https://www.fitdoplnky.sk/obchod/eukalyptus-essence/)**: Olej získaný z listov eukalyptu, najmä z druhu Eucalyptus citriodora, je známy svojimi repelentnými vlastnosťami.
 3.  **Klinčekový Olej**: Tento olej, ktorý má silnú, pikantnú vôňu, môže byť účinným repelentom, ale je potrebné ho používať zriedený, aby sa zabránilo podráždeniu pokožky.
 4.  **Olej z Lemongrassu**: Podobný citronelle, olej z lemongrassu (Cymbopogon) je známy svojimi repelentnými vlastnosťami, najmä v tropických oblastiach.
 5.  **Lavanduľový Olej**: Lavenduľový olej nielenže má príjemnú vôňu, ale je tiež považovaný za účinný proti rôznym druhom hmyzu vrátane kliešťov.

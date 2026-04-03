@@ -35,7 +35,7 @@ Esenciálne oleje sú koncentrované extrakty z kvetov, listov, kôry, koreňov,
 
 Základná premisa aromaterapie je holistický prístup k zdraviu, ktorý zahŕňa fyzické, mentálne a spirituálne aspekty bytia. V dnešnej dobe je aromaterapia populárna v wellness a spa priemysle, ako súčasť komplementárnej a alternatívnej medicíny a v domácnostiach po celom svete, kde ľudia hľadajú prírodné spôsoby, ako zlepšiť svoje zdravie a pohodu.
 
-TIP – [Esenciálne oleje a vône](https://admin.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/)
+TIP – [Esenciálne oleje a vône](https://www.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/)
 
 ## Základné komponenty aromaterapie
 
@@ -47,12 +47,12 @@ Esenciálne oleje sú výťažky z rastlín, ktoré obsahujú esenciu jej vône 
 
 #### Prehľad najčastejšie používaných esenciálnych olejov a ich vlastností
 
--   **[Levanduľový esenciálny olej](https://admin.fitdoplnky.sk/obchod/levandula-essence/):** Pomáha pri nespavosti, úzkosti a kožných problémoch. Má relaxačné účinky.
--   **[Mätový esenciálny olej](https://admin.fitdoplnky.sk/obchod/peppermint-essence-premium/):** Stimuluje, osviežuje a pomáha pri tráviacich problémoch a bolesti hlavy.
--   **[Eukalyptový esenciálny olej](https://admin.fitdoplnky.sk/obchod/altevita-100-esencialny-olej-eucalyptus-eukaluptus-10ml/):** Má antiseptické a protizápalové účinky, často sa používa pri respiračných problémoch.
--   **[Čajovníkový olej (Tea Tree](https://admin.fitdoplnky.sk/obchod/tea-tree-olej/)):** Je známy svojimi antimikrobiálnymi a antifungálnymi vlastnosťami, využíva sa pri liečbe kožných infekcií.
--   **[Rumančekový esenciálny olej](https://admin.fitdoplnky.sk/obchod/kamilka-rimska-dilute-essence/):** Má upokojujúce účinky na pokožku a psychiku, pomáha pri tráviacich a spánkových problémoch.
--   **[Rozmarínový esenciálny olej](https://admin.fitdoplnky.sk/obchod/rozmarin-essence-premium/):** Podporuje cirkuláciu a má stimulujúce účinky, často sa používa pri bolestiach svalov a na zlepšenie pamäti.
+-   **[Levanduľový esenciálny olej](https://www.fitdoplnky.sk/obchod/levandula-essence/):** Pomáha pri nespavosti, úzkosti a kožných problémoch. Má relaxačné účinky.
+-   **[Mätový esenciálny olej](https://www.fitdoplnky.sk/obchod/peppermint-essence-premium/):** Stimuluje, osviežuje a pomáha pri tráviacich problémoch a bolesti hlavy.
+-   **[Eukalyptový esenciálny olej](https://www.fitdoplnky.sk/obchod/altevita-100-esencialny-olej-eucalyptus-eukaluptus-10ml/):** Má antiseptické a protizápalové účinky, často sa používa pri respiračných problémoch.
+-   **[Čajovníkový olej (Tea Tree](https://www.fitdoplnky.sk/obchod/tea-tree-olej/)):** Je známy svojimi antimikrobiálnymi a antifungálnymi vlastnosťami, využíva sa pri liečbe kožných infekcií.
+-   **[Rumančekový esenciálny olej](https://www.fitdoplnky.sk/obchod/kamilka-rimska-dilute-essence/):** Má upokojujúce účinky na pokožku a psychiku, pomáha pri tráviacich a spánkových problémoch.
+-   **[Rozmarínový esenciálny olej](https://www.fitdoplnky.sk/obchod/rozmarin-essence-premium/):** Podporuje cirkuláciu a má stimulujúce účinky, často sa používa pri bolestiach svalov a na zlepšenie pamäti.
 
 #### Nosné oleje a ich význam v aromaterapii
 
@@ -193,7 +193,7 @@ Aromaterapia je založená na princípe, že prirodzené vône a chemické zlož
 
 V kontexte integratívnej medicíny predstavuje aromaterapia sľubný nástroj pre zlepšenie fyzického a emocionálneho zdravia. Jej účinné začlenenie do liečebných plánov vyžaduje multidisciplinárny prístup, vzájomnú spoluprácu medzi pacientmi a zdravotníckymi odborníkmi, ako aj dôraz na bezpečnosť a individuálnu starostlivosť.
 
-TIP – [Difuzér do auta, Do držiaka na nápoje, 1ks](https://admin.fitdoplnky.sk/obchod/car-flame-difuzer/)
+TIP – [Difuzér do auta, Do držiaka na nápoje, 1ks](https://www.fitdoplnky.sk/obchod/car-flame-difuzer/)
 
 ## Záver
 

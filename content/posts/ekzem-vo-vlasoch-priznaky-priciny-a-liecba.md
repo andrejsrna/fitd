@@ -233,9 +233,9 @@ Ekzém vo vlasoch si vyžaduje komplexný prístup k liečbe, ktorý zahŕňa ni
 
 Pri hľadaní prírodných alternatív na liečbu ekzému vo vlasoch je dôležité pripomenúť, že tieto metódy môžu byť efektívne pre mierne až stredne závažné prípady a mali by byť používané v kombinácii s tradičnými liečebnými postupmi a v poradenstve s lekárom. Tu sú niektoré prírodné prístupy, ktoré môžu pomôcť zmierniť symptómy ekzému vo vlasoch:
 
-1.  **[Tea Tree Oil](https://admin.fitdoplnky.sk/obchod/tea-tree-olej/) (Olej z Čajovníka)**
+1.  **[Tea Tree Oil](https://www.fitdoplnky.sk/obchod/tea-tree-olej/) (Olej z Čajovníka)**
     -   Má antiseptické a protizápalové vlastnosti, ktoré môžu pomôcť upokojiť svrbenie a zápal. Môže byť pridaný do šampónu alebo aplikovaný priamo na pokožku hlavy v zriedenej forme.
-2.  **[Kokosový Olej](https://admin.fitdoplnky.sk/obchod/kokosovy-olej/)**
+2.  **[Kokosový Olej](https://www.fitdoplnky.sk/obchod/kokosovy-olej/)**
     -   Jeho hydratačné a protizápalové vlastnosti môžu pomôcť zmierniť suchosť a svrbenie. Aplikujte priamo na pokožku hlavy pred umývaním vlasov.
 3.  **Aloe Vera**
     -   Gél z aloe vera môže upokojiť podráždenú pokožku a zmierniť zápal. Aplikujte priamo na postihnuté oblasti.

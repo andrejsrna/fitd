@@ -45,7 +45,7 @@ Bodliak je bohatý na radu bioaktívnych látok, ktoré majú potenciálne lieč
 
 ## Liečivé zložky
 
-Bodliak ([Pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/)) je bohatý na radu bioaktívnych látok, ktoré majú potenciálne liečivé účinky. Medzi najdôležitejšie zložky patrí silymarín, komplex flavonolignanov, ktorý je považovaný za hlavnú účinnú zložku bodliaka. Silymarín sa skladá z niekoľkých zložiek, vrátane silybínu, silydianínu a silykristínu. Okrem silymarínu obsahuje bodliak aj ďalšie zložky, ako sú flavonoidy, fenolové kyseliny, mastné kyseliny a polysacharidy.
+Bodliak ([Pestrec mariánsky](https://www.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/)) je bohatý na radu bioaktívnych látok, ktoré majú potenciálne liečivé účinky. Medzi najdôležitejšie zložky patrí silymarín, komplex flavonolignanov, ktorý je považovaný za hlavnú účinnú zložku bodliaka. Silymarín sa skladá z niekoľkých zložiek, vrátane silybínu, silydianínu a silykristínu. Okrem silymarínu obsahuje bodliak aj ďalšie zložky, ako sú flavonoidy, fenolové kyseliny, mastné kyseliny a polysacharidy.
 
 1.  **Silymarín**:
     -   **Ochrana pečene**: Silymarín je známy najmä svojimi hepatoprotektívnymi (ochraňujúcimi pečeň) účinkami. Pomáha chrániť pečeňové bunky pred toxickými látkami (vrátane alkoholu a niektorých liekov), a zároveň podporuje regeneráciu pečeňových buniek. Umožňuje to jeho schopnosť inhibovať vnikanie toxínov do pečeňových buniek a podporovať syntézu proteínov potrebných pre obnovu buniek.
@@ -61,7 +61,7 @@ Spolu tieto zložky pôsobia synergicky, čo znamená, že ich kombinovaný úč
 Bodliak je cenený predovšetkým za jeho možné liečivé účinky, ktoré zahŕňajú podporu zdravia pečene, detoxikačné vlastnosti, anti-inflamatorné a antioxidantné účinky, ako aj prínosy pre tráviaci systém. Tieto účinky sú do značnej miery pripisované prítomnosti silymarínu a ďalších bioaktívnych zložiek.
 
 1.  **Podpora Zdravia Pečene a Detoxikácia**:
-    -   **Hepatoprotektívne Účinky**: [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) pomáha chrániť pečeňové bunky pred poškodením toxínmi, ako sú alkohol, niektoré lieky a chemické látky. Toto ochranné pôsobenie je spôsobené schopnosťou silymarínu blokovať vnik toxínov do pečeňových buniek a podporovať regeneráciu poškodených buniek.
+    -   **Hepatoprotektívne Účinky**: [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/) pomáha chrániť pečeňové bunky pred poškodením toxínmi, ako sú alkohol, niektoré lieky a chemické látky. Toto ochranné pôsobenie je spôsobené schopnosťou silymarínu blokovať vnik toxínov do pečeňových buniek a podporovať regeneráciu poškodených buniek.
     -   **Detoxikácia**: Pomáha zlepšovať funkciu pečene v procese detoxikácie, čím prispieva k odstraňovaniu škodlivých látok z tela.
 2.  **Anti-inflamatorné a Antioxidantné Účinky**:
     -   **Proti Zápalu**: Bodliak má potenciálne protizápalové účinky, ktoré môžu pomôcť pri liečbe stavov spojených so zápalom, ako je napríklad cirhóza pečene alebo zápalové ochorenia čriev.
@@ -79,7 +79,7 @@ Je dôležité zdôrazniť, že hoci mnohé z týchto účinkov sú podporované
 
 ## Vedecké štúdie a dôkazy
 
-V priebehu rokov bolo uskutočnených mnoho vedeckých štúdií zameraných na liečivé účinky bodliaka ([ostropestrec mariánsky](https://admin.fitdoplnky.sk/obchod/detoxikacia-pecene/)), predovšetkým silymarínu. Tieto štúdie poskytli rôzne úrovne dôkazov týkajúcich sa jeho potenciálnych zdravotných prínosov.
+V priebehu rokov bolo uskutočnených mnoho vedeckých štúdií zameraných na liečivé účinky bodliaka ([ostropestrec mariánsky](https://www.fitdoplnky.sk/obchod/detoxikacia-pecene/)), predovšetkým silymarínu. Tieto štúdie poskytli rôzne úrovne dôkazov týkajúcich sa jeho potenciálnych zdravotných prínosov.
 
 1.  **Štúdie o Ochrane Pečene**:
     -   Jednou z najviac skúmaných oblastí je účinok bodliaka na ochranu pečene. Výskumy ukazujú, že silymarín má schopnosť chrániť pečeňové bunky pred poškodením a podporovať ich regeneráciu. Štúdie zahŕňali pacientov s rôznymi formami pečeňových ochorení, ako sú alkoholické a nealkoholické steatózy, cirhóza a hepatitída, pričom niektoré z nich naznačovali zlepšenie funkcie pečene u pacientov užívajúcich silymarín.

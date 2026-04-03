@@ -25,7 +25,7 @@ seo:
 ---
 Pestrec Mariánsky Nežiadúce Účinky. Pestrec mariánsky, známy tiež ako Silybum marianum, je jednou z najviac ospevovaných rastlín v tradičnej a moderne medicíne. Pestrec sa preslávil svojimi silnými detoxikačnými účinkami, najmä pokiaľ ide o ochranu a obnovu pečene. Je hojne využívaný nielen vo forme čaju, ale tiež v potravinových doplnkoch a v prírodných liekoch.
 
-Avšak, hoci je [pestrec mariánsky drvený](https://admin.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/) považovaný za bezpečný a efektívny pri riešení rôznych zdravotných problémov, nie je úplne bez rizíka. Rovnako ako pri každom lieku alebo doplnku stravy, aj pri pestreci mariánskom môžu nastať nežiaduce účinky. Tieto účinky môžu byť mierne a prechodné, ale môžu sa tiež prejaviť ako závažné komplikácie, najmä ak je pestrec užívaný v nesprávnych dávkach alebo v kombinácii s inými liekmi. Preto je dôležité porozumieť možným nežiaducim účinkom pestreca mariánskeho a vedieť, ako tieto riziká minimalizovať.
+Avšak, hoci je [pestrec mariánsky drvený](https://www.fitdoplnky.sk/obchod/pestrec-mariansky-drveny/) považovaný za bezpečný a efektívny pri riešení rôznych zdravotných problémov, nie je úplne bez rizíka. Rovnako ako pri každom lieku alebo doplnku stravy, aj pri pestreci mariánskom môžu nastať nežiaduce účinky. Tieto účinky môžu byť mierne a prechodné, ale môžu sa tiež prejaviť ako závažné komplikácie, najmä ak je pestrec užívaný v nesprávnych dávkach alebo v kombinácii s inými liekmi. Preto je dôležité porozumieť možným nežiaducim účinkom pestreca mariánskeho a vedieť, ako tieto riziká minimalizovať.
 
 ## Odporúčané produkty
 

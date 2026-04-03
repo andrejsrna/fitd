@@ -29,7 +29,7 @@ Vysoký krvný tlak príznaky – 10 dôležitých informácií. Vysoký krvný 
 
 Vysoký krvný tlak je často označovaný ako „tichý vrah“, pretože môže dlhodobo prebiehať bez viditeľných symptómov, pričom pritom môže spôsobovať vážne škody na srdci a cievach. **To zdôrazňuje význam včasného zisťovania a riadnej liečby tohto stavu. Aj keď nemá žiadne konkrétne príznaky, vysoký krvný tlak môže byť diagnostikovaný pomocou jednoduchého testu, ktorý môže vykonať vaše zdravotnícke zariadenie alebo dokonca aj vy doma.**
 
-TIP – [Suplement na srdce a vysoký krvný tlak, Heart Guard, Organic India, Ajurvédske bylinky](https://admin.fitdoplnky.sk/obchod/suplement-na-srdce-a-vysoky-krvny-tlak/)
+TIP – [Suplement na srdce a vysoký krvný tlak, Heart Guard, Organic India, Ajurvédske bylinky](https://www.fitdoplnky.sk/obchod/suplement-na-srdce-a-vysoky-krvny-tlak/)
 
 ## Čo je vysoký krvný tlak
 
@@ -80,7 +80,7 @@ Nasledujú sú niektoré z hlavných komplikácií spojených s vysokým krvným
 
 Keďže vysoký krvný tlak môže viesť k takýmto závažným komplikáciám, je nevyhnutné pravidelne kontrolovať krvný tlak a riadiť sa radami odborníkov na zdravotníctvo pri správe tohto stavu.
 
-TIP – [Ginko dvojlaločné, Smoothie, Krvný obeh, 90g](https://admin.fitdoplnky.sk/obchod/ginko-dvojlalocne-smoothie/)
+TIP – [Ginko dvojlaločné, Smoothie, Krvný obeh, 90g](https://www.fitdoplnky.sk/obchod/ginko-dvojlalocne-smoothie/)
 
 ## Diagnostika vysokého krvného tlaku
 
@@ -118,7 +118,7 @@ Pri liečbe vysokého krvného tlaku sa často používajú farmaceutické lieky
 
 Je dôležité konzultovať akékoľvek zmeny vo vašej strave alebo doplnkoch stravy so zdravotníckym odborníkom, aby ste zabezpečili, že sú bezpečné a účinné pre vás. Niektoré byliny a doplnky stravy môžu interagovať s liekmi a môžu mať vedľajšie účinky.
 
-TIP – [Zelený čaj v kapsuliach, Matcha Booster, Altevita, Matcha bez prípravy, Rýchlo a efektívne, Zvyšuje energiu a koncentráciu, Plný vitamínov](https://admin.fitdoplnky.sk/obchod/matcha-booster/)
+TIP – [Zelený čaj v kapsuliach, Matcha Booster, Altevita, Matcha bez prípravy, Rýchlo a efektívne, Zvyšuje energiu a koncentráciu, Plný vitamínov](https://www.fitdoplnky.sk/obchod/matcha-booster/)
 
 ## Prevencia
 

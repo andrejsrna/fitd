@@ -31,7 +31,7 @@ Okrem toho prírodné farby na vlasy sú ekologickejšie. Ich zložky sú obnovi
 
 V súhrne, prírodné farby na vlasy ponúkajú bezpečnejšiu a zdravšiu alternatívu pre tých, ktorí sa chcú vyhnúť potenciálnym rizikám spojeným s chemickými farbami, a zároveň prispievajú k udržateľnosti a ochrane životného prostredia.
 
-_TIP – [Henna Gold, prírodná farba na vlasy](https://admin.fitdoplnky.sk/obchod/henna-gold/)_
+_TIP – [Henna Gold, prírodná farba na vlasy](https://www.fitdoplnky.sk/obchod/henna-gold/)_
 
 ## História prírodných farieb na vlasy
 
@@ -77,7 +77,7 @@ Okrem henny a indiga existuje rad ďalších prírodných ingrediencií, ktoré 
 
 Tieto prírodné ingrediencie sú nielen šetrnejšie k vlasom a pokožke hlavy, ale tiež prispievajú k celkovému zdraviu vlasov, poskytujú im výživu a zlepšujú ich vzhľad. Navyše, ich použitie minimalizuje negatívny dopad na životné prostredie, čo je v súčasnom svete stále dôležitejšie.
 
-_TIP – [Prírodná farba na vlasy Henna Pure](https://admin.fitdoplnky.sk/obchod/henna-pure/)_
+_TIP – [Prírodná farba na vlasy Henna Pure](https://www.fitdoplnky.sk/obchod/henna-pure/)_
 
 ## Aplikácia prírodnej farby na vlasy
 
@@ -126,7 +126,7 @@ Vlasy by mali byť pred farbením čisté a bez stylingových produktov.
 
 Vážením týchto výhod a nevýhod môže každý jednotlivec lepšie rozhodnúť, či je prírodné farbenie vlasov pre neho tou správnou voľbou.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Starostlivosť o vlasy po farbení
 
@@ -135,7 +135,7 @@ Starostlivosť o vlasy po prírodnom farbení je kľúčová pre udržanie zdrav
 #### Odporúčané produkty a techniky starostlivosti
 
 1.  **Šetrné Šampóny a Kondicionéry:** Používajte šampóny a kondicionéry, ktoré sú šetrné k farbeným vlasom. Ideálne sú tie bez sulfátov a parabénov, ktoré môžu byť menej drsné a pomáhajú udržiavať farbu.
-2.  **Výživné Oleje a Séra:** Aplikujte výživné oleje alebo séra, ako sú [opunciový olej](https://admin.fitdoplnky.sk/obchod/opunciovy-olej/), kokosový olej alebo olej z rakytníka, ktoré pomáhajú hydratovať vlasy a zlepšujú ich lesk a zdravie.
+2.  **Výživné Oleje a Séra:** Aplikujte výživné oleje alebo séra, ako sú [opunciový olej](https://www.fitdoplnky.sk/obchod/opunciovy-olej/), kokosový olej alebo olej z rakytníka, ktoré pomáhajú hydratovať vlasy a zlepšujú ich lesk a zdravie.
 3.  **Pravidelné Hĺbkové Kondicionovanie:** Raz alebo dvakrát týždenne aplikujte hĺbkový kondicionér alebo masku na vlasy, aby ste ich udržali hydratované a zdravé.
 4.  **Chráňte Vlasy Pred Slnečným Žiarením:** Slnečné žiarenie môže spôsobiť vyblednutie farby, takže je dobré chrániť vlasy pokrývkou hlavy alebo používať produkty s UV ochranou.
 5.  **Obmedzte Používanie Tepla:** Teplé stylingové nástroje ako fény, žehličky alebo kulmy môžu poškodiť farbené vlasy. Pokiaľ ich používate, nezabudnite aplikovať ochranný sprej proti teplu.
@@ -168,7 +168,7 @@ Zdravé stravovanie a dostatok vody pomáhajú udržiavať celkové zdravie vlas
 
 Pre tých, ktorí zvažujú prírodné farbenie vlasov, je dôležité si uvedomiť, že prírodné metódy vyžadujú čas a trpezlivosť, ale výsledkom môže byť zdravšie a žiarivejšie vlasy s menším dopadom na životné prostredie. Je dôležité vykonať predbežný výskum a prípadne experimentovať s rôznymi prírodnými zložkami, aby ste našli tú správnu kombináciu pre váš typ vlasov a požadovaný odtieň. Taktiež nezabudnite na dôkladnú starostlivosť po farbení, aby ste udržali farbu a zdravie vlasov. Prírodné farbenie vlasov môže byť nielen šetrnejšie k vašim vlasom a zdraviu, ale tiež spôsob, ako objaviť nové aspekty svojej osobnosti a štýlu.
 
-TIP – [Hroznový olej](https://admin.fitdoplnky.sk/obchod/hroznovy-olej/)
+TIP – [Hroznový olej](https://www.fitdoplnky.sk/obchod/hroznovy-olej/)
 
 ### Dodatok
 

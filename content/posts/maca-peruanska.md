@@ -25,11 +25,11 @@ seo:
 ---
 Maca peruánska v našich končinách známa aj ako Žerucha peruánska (Lepidium meyenii) je rastlina patriaca do rodiny brokolice (Brassicaceae) a je **pôvodom z centrálnych horských oblastí Peru**. Rastie vo výškach nad 4 000 metrov nad morom a je odolná voči drsným podmienkam, vrátane nízkych teplôt a silného vetra. Maca je známa hlavne vďaka svojmu koreňu, ktorý sa používa ako potravina a tradičný liek v peruánskej kultúre.
 
-Koreň maca má výživnú hodnotu a je bohatý na **[vitamíny](https://zdravievpraxi.sk/vitaminy-pre-tehotne/), minerály, bielkoviny, vlákninu a esenciálne [aminokyseliny](https://admin.fitdoplnky.sk/aminokyseliny-zakladne-stavebne-kameny-bielkovin-a-ich-vyznam-pre-zdravie-a-funkciu-organizmov/)**. V tradičnej peruánskej medicíne sa maca používa na zvýšenie energie, vytrvalosti, zlepšenie plodnosti a sexuálneho zdravia, posilnenie imunity a podporu hormonálnej rovnováhy. V posledných rokoch sa maca stala populárnou prírodnou alternatívou pre podporu zdravia a dobrej kondície, a to nielen v Južnej Amerike, ale aj na celom svete.
+Koreň maca má výživnú hodnotu a je bohatý na **[vitamíny](https://zdravievpraxi.sk/vitaminy-pre-tehotne/), minerály, bielkoviny, vlákninu a esenciálne [aminokyseliny](https://www.fitdoplnky.sk/aminokyseliny-zakladne-stavebne-kameny-bielkovin-a-ich-vyznam-pre-zdravie-a-funkciu-organizmov/)**. V tradičnej peruánskej medicíne sa maca používa na zvýšenie energie, vytrvalosti, zlepšenie plodnosti a sexuálneho zdravia, posilnenie imunity a podporu hormonálnej rovnováhy. V posledných rokoch sa maca stala populárnou prírodnou alternatívou pre podporu zdravia a dobrej kondície, a to nielen v Južnej Amerike, ale aj na celom svete.
 
 ## Môže zvýšiť libido
 
-Maca peruánska je často označovaná ako **prírodné [afrodiziakum pre mužov](https://admin.fitdoplnky.sk/obchod/afrodiziakum-pre-muzov/), pretože môže prispieť k zvýšeniu sexuálnej túžby, známej ako libido**. Niekoľko štúdií poukázalo na to, že konzumácia maca môže mať pozitívny vplyv na libido u mužov aj žien.
+Maca peruánska je často označovaná ako **prírodné [afrodiziakum pre mužov](https://www.fitdoplnky.sk/obchod/afrodiziakum-pre-muzov/), pretože môže prispieť k zvýšeniu sexuálnej túžby, známej ako libido**. Niekoľko štúdií poukázalo na to, že konzumácia maca môže mať pozitívny vplyv na libido u mužov aj žien.
 
 Jedna z týchto štúdií zistila, že užívanie Maca peruánska počas 12 týždňov významne zlepšilo **sexuálnu túžbu u mužov, pričom najväčšie zlepšenie bolo zaznamenané po 8 týždňoch užívania**. Podobné výsledky boli zaznamenané aj u žien, ktoré po užívaní maca počas 6 týždňov hlásili zvýšenie svojho libida.
 

@@ -124,7 +124,7 @@ Jedlo môže hrať kľúčovú úlohu pri podpore zdravia pečene. Tu je niekoľ
 
 Tieto jedlá sú bohaté na vitamíny, minerály a zdravé tuky, ktoré podporujú funkciu pečene. Vždy je však dôležité konzultovať diétu so zdravotníckym odborníkom.
 
-[![](https://cdn.fitdoplnky.sk/2023/05/3323_liver-detox-600x600-novy-300x300.jpg "3323_liver-detox-600x600-novy")](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+[![](https://cdn.fitdoplnky.sk/2023/05/3323_liver-detox-600x600-novy-300x300.jpg "3323_liver-detox-600x600-novy")](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Altevita Liver Detox
 
@@ -140,7 +140,7 @@ Liver Detox tiež pomáha optimalizovať hladinu glukózy v krvi a inzulínové 
 
 Dôležité je však mať na pamäti, že Liver Detox je doplnok stravy, nie náhrada za vyváženú a pestru stravu. Rovnako ako pri všetkých doplnkoch stravy, aj pri Liver Detox je dôležité dodržiavať odporúčanú dennú dávku a skladovať ho podľa pokynov výrobcu. Liver Detox je vhodný pre dospelých, ale nie je vhodný pre deti, tehotné a dojčiace ženy.
 
-[Zobraziť viac](https://admin.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
+[Zobraziť viac](https://www.fitdoplnky.sk/obchod/altevita-liver-detox-300g/)
 
 ## Diéta na pečeň – záver
 

@@ -31,7 +31,7 @@ História mastichy siaha do staroveku, kde bola cenená nielen ako drahocenná s
 
 V tomto článku sa ponoríme do fascinujúceho sveta Chioskej mastichy, priblížime si jej zloženie, výrobu a najmä rôznorodé účinky na ľudské zdravie. Predstavíme jej historické využitie a ako sa toto využitie transformovalo do súčasnosti. Detailne sa zameriame na medicínske využitie mastichy, vrátane jej pozitívneho vplyvu na tráviaci systém, orálnu hygienu a potenciálne účinky proti kožným problémom a iným zdravotným stavom. Okrem toho sa dotkne aj témy bezpečnosti a možných vedľajších účinkov spojených s jej používaním. Naším cieľom je poskytnúť čitateľom ucelený prehľad o tejto zázračnej živici, jej výhodách a možnostiach využitia v súčasnom svete.
 
-TIP – [Mastichový olej, Lisovaný za studena, 2% dilute, 50ml](https://admin.fitdoplnky.sk/obchod/masticha-olej/)
+TIP – [Mastichový olej, Lisovaný za studena, 2% dilute, 50ml](https://www.fitdoplnky.sk/obchod/masticha-olej/)
 
 ## Zloženie a výroba
 
@@ -79,7 +79,7 @@ Masticha sa historicky využívala aj v rôznych nekulinárskych aplikáciách. 
 
 Tieto tradičné použitia odhaľujú bohatú históriu a kultúrnu hodnotu mastichy, ktorá pretrváva až do súčasnosti. Naprieč stáročiami bola masticha symbolom luxusu, zdravia a gastronomickej kvality, čo svedčí o jej nezmenenej popularite a všestrannosti.
 
-TIP – [Mastichová voda, Altevita, 10ml](https://admin.fitdoplnky.sk/obchod/altevita-mastichova-voda-10ml/)
+TIP – [Mastichová voda, Altevita, 10ml](https://www.fitdoplnky.sk/obchod/altevita-mastichova-voda-10ml/)
 
 ## Súčasné medicínske využitie a výskum
 
@@ -129,7 +129,7 @@ Masticha prispieva k zdraviu tráviaceho systému nielen svojimi protizápalový
 
 Vďaka svojim výnimočným vlastnostiam a schopnosti podporovať zdravie tráviaceho systému je Chioská masticha cenným doplnkom k diéte. Jej použitie môže prispieť k lepšiemu tráveniu, zmierneniu tráviacich problémov a podpore celkového zdravia tráviaceho traktu. Avšak ako pri každom doplnku, je dôležité konzultovať použitie mastichy s lekárom, aby sa zabezpečila jej bezpečnosť a efektivita vzhľadom na individuálne zdravotné potreby a podmienky.
 
-TIP – [Mastichová voda, Altevita, 100ml](https://admin.fitdoplnky.sk/obchod/altevita-mastichova-voda-100ml/)
+TIP – [Mastichová voda, Altevita, 100ml](https://www.fitdoplnky.sk/obchod/altevita-mastichova-voda-100ml/)
 
 ## Účinky na orálnu hygienu
 

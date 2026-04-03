@@ -31,7 +31,7 @@ Cholesterol sa v tele vyrába najmä v pečeni, ale môže pochádzať aj zo str
 
 Správna rovnováha medzi LDL a HDL je kľúčová pre udržanie zdravého srdcovocievneho systému. Preto je dôležité pochopiť, ako životný štýl, strava a genetické faktory ovplyvňujú hladiny cholesterolu v tele a aké kroky možno podniknúť na udržanie alebo dosiahnutie tejto rovnováhy na podporu celkového zdravia.
 
-TIP – [Matcha latte, Kokosové mlieko, Kokosový cukor, 220g](https://admin.fitdoplnky.sk/obchod/matcha-latte/)
+TIP – [Matcha latte, Kokosové mlieko, Kokosový cukor, 220g](https://www.fitdoplnky.sk/obchod/matcha-latte/)
 
 ## Čo je cholesterol
 
@@ -96,7 +96,7 @@ Niektoré zdravotné stavy môžu tiež prispieť k vysokým hladinám cholester
 
 Rozpoznanie a správa týchto faktorov sú kľúčové pre kontrolu hladiny cholesterolu a znižovanie rizika srdcových ochorení. Zmeny v životnom štýle, ako sú zdravšie stravovacie návyky, pravidelné cvičenie a prestanie fajčenia, môžu mať významný pozitívny vplyv na hladiny cholesterolu. V niektorých prípadoch môže byť potrebná liečba liekmi na predpis, aby sa dosiahli cieľové hladiny cholesterolu.
 
-TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://admin.fitdoplnky.sk/obchod/inulin/)
+TIP – [Inulín, Vláknina, Prebiotikum, Altevita, 300g](https://www.fitdoplnky.sk/obchod/inulin/)
 
 ## Diagnostika a meranie cholesterolu
 
@@ -164,7 +164,7 @@ Manažment a liečba vysokého cholesterolu sú kľúčové pre zníženie rizik
 
 -   Prestať fajčiť môže zvýšiť hladiny HDL cholesterolu, a obmedzenie konzumácie alkoholu môže pomôcť udržať celkový cholesterol v zdravých hraniciach.
 
-TIP – [Arašidový olej lisovaný za studena, Na cholesterol, Day Spa, 250ml](https://admin.fitdoplnky.sk/obchod/arasidovy-olej/)
+TIP – [Arašidový olej lisovaný za studena, Na cholesterol, Day Spa, 250ml](https://www.fitdoplnky.sk/obchod/arasidovy-olej/)
 
 ## Liečebné možnosti
 
@@ -212,7 +212,7 @@ Prevencia vysokého cholesterolu je kľúčová pre znižovanie rizika srdcovoci
 
 Dodržiavaním týchto odporúčaní môžete znížiť riziko vysokého cholesterolu a podporiť svoje celkové zdravie a pohodu. Je dôležité pravidelne konzultovať svoje zdravie s lekárom a podstúpiť pravidelné kontroly, aby ste zabezpečili, že vaše hladiny cholesterolu sú v zdravom rozmedzí.
 
-TIP – [Vitamíny pre ženy, Woman Vitality, Šatavari, Maca, 60 kapsúl](https://admin.fitdoplnky.sk/obchod/vitaminy-pre-zeny-woman-vitality/)
+TIP – [Vitamíny pre ženy, Woman Vitality, Šatavari, Maca, 60 kapsúl](https://www.fitdoplnky.sk/obchod/vitaminy-pre-zeny-woman-vitality/)
 
 ## Mýty a fakty o cholesterole
 

@@ -35,7 +35,7 @@ Mäta pieporná je obľúbená pre svoj charakteristický svieži a chladivý me
 
 Mäta pieporná má niekoľko účinkov, ktoré sú prospešné pre ľudské zdravie. Tieto účinky zahŕňajú:
 
-1.  **Tráviace účinky**: Mäta pieporná pomáha pri tráviacich problémoch ako **nadúvanie, plynatosť, kŕče a [nevoľnosť](https://admin.fitdoplnky.sk/nevolnost-priciny-a-moznosti-liecby/)**. Konzumácia čaju z mäty piepornej alebo užívanie kapsúl s mätovým olejom môže pomôcť upokojiť žalúdok a podporiť trávenie.
+1.  **Tráviace účinky**: Mäta pieporná pomáha pri tráviacich problémoch ako **nadúvanie, plynatosť, kŕče a [nevoľnosť](https://www.fitdoplnky.sk/nevolnost-priciny-a-moznosti-liecby/)**. Konzumácia čaju z mäty piepornej alebo užívanie kapsúl s mätovým olejom môže pomôcť upokojiť žalúdok a podporiť trávenie.
 2.  **Analgetické účinky**: Mentol, ktorý je hlavnou zložkou mäty piepornej, **môže pomôcť zmierniť bolesť, najmä bolesti hlavy a svalov**. Aplikácia mätového oleja na postihnuté miesto môže pomôcť uvoľniť svaly a zmierniť bolesť.
 3.  **Antimikrobiálne a protizápalové účinky**: Mäta pieporná má **antimikrobiálne a protizápalové vlastnosti, čo znamená, že môže pomôcť pri liečbe infekcií a zápalov.** Mätový olej môže byť účinný pri liečbe kožných problémov, ako sú akné a vyrážky.
 4.  **Respiračné účinky:** Mentol v mäte piepornej môže pomôcť pri liečbe dýchacích problémov, ako je **zápal priedušiek, astma a zápal nosohltanu.** Mätový olej alebo čaj z mäty piepornej môže uvoľniť hlien a uľahčiť dýchanie.

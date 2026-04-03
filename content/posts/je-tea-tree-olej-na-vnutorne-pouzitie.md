@@ -25,7 +25,7 @@ Je tea tree olej na vnútorné použitie? Tea tree olej, známy pre svoje antise
 
 Vnútorné použitie tea tree oleja, napriek jeho popularity vo vonkajších aplikáciách, je predmetom debaty a opatrnosti medzi zdravotnými odborníkmi. Tento článok sa zameriava na preskúmanie potenciálneho vnútorného použitia tea tree oleja, jeho bezpečnosti a rizík, pričom berie do úvahy vedecké dôkazy a odborné stanoviská. Cieľom je poskytnúť čitateľom informovaný pohľad na to, či je možné alebo vhodné používať tea tree olej vnútorne a ako pristupovať k jeho použitiu s ohľadom na bezpečnosť a zdravie.
 
-_TIP – [Vonné oleje](https://admin.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/)_
+_TIP – [Vonné oleje](https://www.fitdoplnky.sk/kategoria-produktu/prirodna-kozmetika-a-starostlivost-o-telo/esencialne-oleje/)_
 
 ## Čo je Tea Tree Olej
 
@@ -76,7 +76,7 @@ Je dôležité zdôrazniť, že tea tree olej by mal byť vždy používaný zri
 
 ## Porovnanie s Inými Esenciálnymi Olejmi
 
-**Bezpečnosť [Tea Tree Olej](https://admin.fitdoplnky.sk/obchod/tea-tree-premium/) v Porovnaní s Inými Olejmi:** Tea tree olej je známy svojimi silnými antiseptickými a protizápalovými vlastnosťami, ale na rozdiel od niektorých iných esenciálnych olejov nie je bezpečný na vnútorné použitie. Naproti tomu, esenciálne oleje ako levanduľa, mäta pieporná alebo citrón sú považované za bezpečné na vnútorné užívanie v malých množstvách a pri správnom dávkovaní. Tieto oleje môžu byť použité na úľavu od tráviacich problémov, na podporu relaxácie alebo dokonca na zlepšenie chuti jedál.
+**Bezpečnosť [Tea Tree Olej](https://www.fitdoplnky.sk/obchod/tea-tree-premium/) v Porovnaní s Inými Olejmi:** Tea tree olej je známy svojimi silnými antiseptickými a protizápalovými vlastnosťami, ale na rozdiel od niektorých iných esenciálnych olejov nie je bezpečný na vnútorné použitie. Naproti tomu, esenciálne oleje ako levanduľa, mäta pieporná alebo citrón sú považované za bezpečné na vnútorné užívanie v malých množstvách a pri správnom dávkovaní. Tieto oleje môžu byť použité na úľavu od tráviacich problémov, na podporu relaxácie alebo dokonca na zlepšenie chuti jedál.
 
 **Dôvody, Prečo Niektoré Oleje Sú Vhodné na Vnútorné Užívanie:**
 

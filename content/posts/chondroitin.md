@@ -145,7 +145,7 @@ Aj keď kombinácia glukozamínu a chondroitínu môže priniesť úľavu a zlep
 
 ## Kolagén
 
-Kolagén a chondroitín sú dve prirodzene sa vyskytujúce zlúčeniny, ktoré sú súčasťou [chrupavkového](https://admin.fitdoplnky.sk/zralocia-chrupavka-zdravie-pre-vase-klby/) tkaniva, väzivového tkaniva a pokožky v tele. **Obe látky sa často používajú vo forme doplnkov stravy na podporu zdravia kĺbov, zlepšenie pokožky a na liečbu a prevenciu kĺbových ochorení, ako je artróza.**
+Kolagén a chondroitín sú dve prirodzene sa vyskytujúce zlúčeniny, ktoré sú súčasťou [chrupavkového](https://www.fitdoplnky.sk/zralocia-chrupavka-zdravie-pre-vase-klby/) tkaniva, väzivového tkaniva a pokožky v tele. **Obe látky sa často používajú vo forme doplnkov stravy na podporu zdravia kĺbov, zlepšenie pokožky a na liečbu a prevenciu kĺbových ochorení, ako je artróza.**
 
 Kolagén je bielkovina, ktorá je základným stavebným materiálom pre väzivové tkanivo, pokožku, chrupavku, šlachy a kosti. Jeho hlavnými účinkami sú podpora zdravia kĺbov, pružnosti pokožky a udržiavanie pevnosti a pružnosti chrupavky. Kolagén sa často užíva vo forme hydrolyzovaného kolagénu, ktorý je ľahko vstrebateľný a účinný.
 

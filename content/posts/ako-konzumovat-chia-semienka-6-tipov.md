@@ -27,7 +27,7 @@ V posledných rokoch získali chia semienka obrovskú popularitu na celom svete,
 
 Chia semienka ponúkajú rad zdravotných výhod vrátane podpory srdcového zdravia, zlepšenia trávenia, pomoci pri regulácii hmotnosti a zvýšenia celkovej výživovej hodnoty stravy. Tento článok poskytne podrobný prehľad o tom, ako ich možno efektívne začleniť do stravy a využiť ich maximálny potenciál pre zdravie a pohodu.
 
-_TIP – [Red mix smoothie s chia semienkami](https://admin.fitdoplnky.sk/obchod/red-mix-smoothie/)_
+_TIP – [Red mix smoothie s chia semienkami](https://www.fitdoplnky.sk/obchod/red-mix-smoothie/)_
 
 ## Základné informácie o chia semienkach
 
@@ -74,7 +74,7 @@ Chia semienka sú považované za výživovú powerhouse a poskytujú mnoho dôl
 
 Chia semienka predstavujú významný prínos pre zdravú stravu a môžu byť ľahko začlenené do rôznych jedál, čím prispievajú k celkovému zdraviu a pohode.
 
-_TIP – [Kurkuma tablety s masticha](https://admin.fitdoplnky.sk/obchod/kurkuma-tablety/)_
+_TIP – [Kurkuma tablety s masticha](https://www.fitdoplnky.sk/obchod/kurkuma-tablety/)_
 
 ## Ako Konzumovať Chia Semienka
 
@@ -184,7 +184,7 @@ Aj keď sú chia semienka vo všeobecnosti považované za bezpečné a zdravé,
 
 Všeobecne platí, že chia semienka sú zdravým doplnkom stravy pre väčšinu ľudí. Avšak ako pri akomkoľvek potravinovom doplnku, je dôležité pristupovať k ich konzumácii zodpovedne a byť si vedomý možných rizík a interakcií.
 
-_TIP – [Kvalitný pestrec mariánsky](https://admin.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
+_TIP – [Kvalitný pestrec mariánsky](https://www.fitdoplnky.sk/obchod/kvalitny-pestrec-mariansky/)_
 
 ## Záver
 
