@@ -75,7 +75,7 @@ export default async function Page({ params }: { params: { slug: string } }) {
           <h5>Publikované {date}</h5>
           {category ? (
             <Link
-              href={`/clanky/?category=${category.slug}`}
+              href={`/clanky/kategorie/${category.slug}`}
               className={cn(badgeVariants({ variant: "outline" }), "not-prose")}
             >
               {category.name}

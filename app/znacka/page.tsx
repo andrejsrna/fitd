@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Narazili ste na starý odkaz na značku z pôvodného WordPress webu. Web už funguje bez WordPressu.",
 };
 
-export default function LegacyBrandPage() {
+export default function LegacyBrandIndexPage() {
   return (
     <LegacyContentNotice
       title="Pôvodná značka už nie je dostupná"

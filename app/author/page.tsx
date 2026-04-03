@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Narazili ste na starý autor URL z pôvodného WordPress webu. Web už funguje bez WordPressu.",
 };
 
-export default function LegacyAuthorPage() {
+export default function LegacyAuthorIndexPage() {
   return (
     <LegacyContentNotice
       title="Pôvodný autor už nie je dostupný"

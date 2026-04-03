@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Narazili ste na starý odkaz na kategóriu produktu z pôvodného WordPress obchodu. Web už funguje bez WordPressu.",
 };
 
-export default function LegacyProductCategoryPage() {
+export default function LegacyCategoryIndexPage() {
   return (
     <LegacyShopNotice
       title="Pôvodná produktová kategória už nie je dostupná"

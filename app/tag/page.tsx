@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Narazili ste na starý tag z pôvodného WordPress webu. Web už funguje bez WordPressu.",
 };
 
-export default function LegacyTagPage() {
+export default function LegacyTagIndexPage() {
   return (
     <LegacyContentNotice
       title="Pôvodný tag už nie je dostupný"

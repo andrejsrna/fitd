@@ -7,7 +7,7 @@ export const metadata: Metadata = {
     "Narazili ste na starý produktový odkaz z pôvodného WordPress obchodu. Obsah webu je presunutý na novú statickú verziu FitDoplnky.",
 };
 
-export default function LegacyShopPage() {
+export default function LegacyShopIndexPage() {
   return (
     <LegacyShopNotice
       title="Pôvodný produktový odkaz už nie je dostupný"

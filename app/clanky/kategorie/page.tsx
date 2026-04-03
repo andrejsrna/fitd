@@ -21,7 +21,7 @@ export default async function Page() {
         <h2>Všetky kategórie</h2>
         <div className="grid">
           {categories.map((category) => (
-            <Link key={category.slug} href={`/clanky/?category=${category.slug}`}>
+            <Link key={category.slug} href={`/clanky/kategorie/${category.slug}`}>
               {category.name}
             </Link>
           ))}

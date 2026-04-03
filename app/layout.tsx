@@ -36,9 +36,6 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://fitdoplnky.sk"),
 };
 
-// Revalidate content every hour
-export const revalidate = 3600;
-
 export default function RootLayout({
   children,
 }: {
