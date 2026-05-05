@@ -2,6 +2,7 @@
 export const mainMenu = {
   domov: "/",
  // about: "https://github.com/9d8dev/next-wp",
+  produkty: "/produkty",
   blog: "/clanky",
   stránky: "/stranky"
 };

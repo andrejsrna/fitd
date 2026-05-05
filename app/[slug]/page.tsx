@@ -27,6 +27,7 @@ export async function generateStaticParams() {
     "obchod",
     "kategoria-produktu",
     "produkt",
+    "produkty",
     "tag",
     "author",
     "znacka",
