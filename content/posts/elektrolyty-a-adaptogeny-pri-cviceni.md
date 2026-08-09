@@ -36,7 +36,9 @@ Dôvod býva jednoduchý – podceňovanie mikroživín a reakcie organizmu na s
 
 Svalový rast a regenerácia vyžadujú stavebné prvky (aminokyseliny) a energiu. Avšak samotné svalové kontrakcie, rýchlosť nervových vzruchov a schopnosť tela zvládať záťaž závisia od optimálneho vnútorného prostredia. 
 
-Pokiaľ je telo dehydrované na bunkovej úrovni alebo preťažené vysokou hladinou stresového hormónu kortizolu, ani ten najlepší proteín nevyužije svoj plný potenciál.
+Pokiaľ je telo dehydrované na bunkovej úrovni alebo preťažené vysokou hladinou stresového hormónu kortizolu, ani ten najlepší proteín nevyužije svoj plný potenciál. 
+
+Ak hľadáte ďalšie odborné informácie a prehľad príznakov či starostlivosti pri opotrebovaní pohybového aparátu, pozrite si aj tému [opotrebovaná chrupavka v kolene na Zdravie v praxi](https://zdravievpraxi.sk/opotrebovana-chrupavka-v-kolene).
 
 ## 1. Elektrolyty: Palivo pre svalové sťahy a hydratáciu
 
@@ -96,7 +98,7 @@ Aby ste z oboch kategórií vyťažili maximum, odporúčame nasledovné nastave
 Zatiaľ čo Rhodiola môže poskytnúť pocit povzbudenia už po 30–60 minutách, adaptogény ako Ashwagandha vyžadujú pravidelné užívanie po dobu 2 až 4 týždňov pre plné prejavenie účinkov na kortizol a spánok.
 
 #### Sú elektrolyty vhodné aj pri chudnutí?
-Určite áno. Pri kalorickom deficits a zníženom príjme sacharidov telo prirodzene vylučuje viac vody a sodíka, preto je ich doplňovanie pri diéte ešte dôležitejšie. Prečítajte si viac v našom článku [ako najrýchlejšie schudnúť](/clanky/ako-najrychlejsie-schudnut).
+Určite áno. Pri kalorickom deficits a zníženom príjme sacharidov telo prirodzely vylučuje viac vody a sodíka, preto je ich doplňovanie pri diéte ešte dôležitejšie. Prečítajte si viac v našom článku [ako najrýchlejšie schudnúť](/clanky/ako-najrychlejsie-schudnut).
 
 ## Záver a odporúčanie
 
@@ -104,6 +106,7 @@ Trvalý progres v športe nie je len o tom, koľko závažia zdvihnete, ale najm
 
 ## Ďalšie čítanie a zdroje
 
+* **Zdravie v praxi:** [Opotrebovaná chrupavka v kolene](https://zdravievpraxi.sk/opotrebovana-chrupavka-v-kolene) – Zdravotný prehľad príznakov a diagnostiky kĺbových problémov.
 * **National Institutes of Health (NIH / PubMed):** [An Overview on Ashwagandha: A Rasayana (Rejuvenator) of Ayurveda](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3252722/) – Štúdia o vplyve Ashwagandhy na znižovanie stresu a kortizolu.
 * **Journal of the International Society of Sports Nutrition (JISSN):** [Fluid and electrolyte balance in ultra-endurance sport](https://jissn.biomedcentral.com/) – Odborné poznatky o manažmente hydratácie a elektrolytov pri fyzickej záťaži.
 * **Harvard Health Publishing:** [The importance of potassium and magnesium in exercise performance](https://www.health.harvard.edu/) – Analýza významu kľúčových minerálov pre kardiovaskulárny a svalový systém.
