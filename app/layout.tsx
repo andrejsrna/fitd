@@ -165,8 +165,7 @@ const Footer = () => {
         <Container className="border-t not-prose flex flex-col md:flex-row md:gap-2 gap-6 justify-between md:items-center">
           <ThemeToggle />
           <p className="text-muted-foreground">
-            © All rights reserved.
-            2024.
+            © {new Date().getFullYear()} Fitdoplnky. Všetky práva vyhradené. | Technológia: <a href="https://synthbit.sk" target="_blank" rel="noopener noreferrer" className="hover:underline">SynthBit</a>
           </p>
         </Container>
       </Section>
