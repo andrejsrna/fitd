@@ -1,0 +1,4490 @@
+[
+  {
+    "route": "20-ucinkov-rhodiola-rosea-vyhody-pre-vase-zdravie-a-vitalitu/index.html",
+    "originalGzip": 21975,
+    "optimizedGzip": 27791,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "3-chyby-ktore-pri-cviceni-robi-takmer-kazdy/index.html",
+    "originalGzip": 6452,
+    "optimizedGzip": 12100,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "404/index.html",
+    "originalGzip": 5673,
+    "optimizedGzip": 11080,
+    "inlineBytes": 34093
+  },
+  {
+    "route": "404.html",
+    "originalGzip": 5673,
+    "optimizedGzip": 11080,
+    "inlineBytes": 34093
+  },
+  {
+    "route": "acai-berry/index.html",
+    "originalGzip": 6250,
+    "optimizedGzip": 11887,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "acai-berry-8-super-ucinkov-na-zdravie/index.html",
+    "originalGzip": 21120,
+    "optimizedGzip": 26976,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "afty/index.html",
+    "originalGzip": 6462,
+    "optimizedGzip": 12110,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "afty-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 10933,
+    "optimizedGzip": 16733,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "aka-klbova-vyziva-pri-bolesti-kolena/index.html",
+    "originalGzip": 6322,
+    "optimizedGzip": 11964,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "aka-klbova-vyziva-pri-bolesti-kolena-glukozamin-chondroitin-msm-alebo-kolagen/index.html",
+    "originalGzip": 11528,
+    "optimizedGzip": 17360,
+    "inlineBytes": 35402
+  },
+  {
+    "route": "ako-dlho-boli-podrazdeny-zlcnik/index.html",
+    "originalGzip": 6294,
+    "optimizedGzip": 11931,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-dlho-boli-podrazdeny-zlcnik-6-dolezitych-informacii/index.html",
+    "originalGzip": 12506,
+    "optimizedGzip": 18294,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-dlho-uzivat-reishi/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12127,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-dlho-uzivat-reishi-5-zakladnych-tipov/index.html",
+    "originalGzip": 20019,
+    "optimizedGzip": 25895,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "ako-konzumovat-chia-semienka-6-super-tipov/index.html",
+    "originalGzip": 18554,
+    "optimizedGzip": 24446,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-konzumovat-chia-semienka-6-tipov/index.html",
+    "originalGzip": 6449,
+    "optimizedGzip": 12101,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-liecit-zapal-v-tele-bez-antibiotik/index.html",
+    "originalGzip": 6441,
+    "optimizedGzip": 12093,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-liecit-zapal-v-tele-bez-antibiotik-6-dolezitych-informacii/index.html",
+    "originalGzip": 18106,
+    "optimizedGzip": 23995,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-mat-zdrave-a-pekne-nechty/index.html",
+    "originalGzip": 6263,
+    "optimizedGzip": 11902,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-mat-zdrave-a-pekne-nechty-4-super-tipy/index.html",
+    "originalGzip": 10373,
+    "optimizedGzip": 16185,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-moze-hydroxycitronova-kyselina-podporit-chudnutie-a-zdravie/index.html",
+    "originalGzip": 11222,
+    "optimizedGzip": 17063,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "ako-najrychlejsie-schudnut/index.html",
+    "originalGzip": 6461,
+    "optimizedGzip": 12108,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-najrychlejsie-schudnut-5-super-tipov/index.html",
+    "originalGzip": 18327,
+    "optimizedGzip": 24223,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-ovplyvnuje-sexualny-zivot-vase-zdravie/index.html",
+    "originalGzip": 6463,
+    "optimizedGzip": 12113,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-pribrat/index.html",
+    "originalGzip": 6266,
+    "optimizedGzip": 11901,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-pribrat-na-vahe-6-super-tipov/index.html",
+    "originalGzip": 17399,
+    "optimizedGzip": 23263,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-robit-prestavky-pri-uzivani-vyzivovych-doplnkov/index.html",
+    "originalGzip": 6489,
+    "optimizedGzip": 12142,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-sa-chranit-pred-komarmi/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12125,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-sa-chranit-pred-komarmi-6-super-tipov/index.html",
+    "originalGzip": 19916,
+    "optimizedGzip": 25803,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-sa-prejavuje-crevna-viroza/index.html",
+    "originalGzip": 6482,
+    "optimizedGzip": 12141,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-sa-uziva-cierny-kmin/index.html",
+    "originalGzip": 6471,
+    "optimizedGzip": 12125,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-sa-uziva-cierny-kmin-vyhody-a-pouzitie/index.html",
+    "originalGzip": 18920,
+    "optimizedGzip": 24861,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "ako-sa-zbavit-akne/index.html",
+    "originalGzip": 6279,
+    "optimizedGzip": 11917,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-sa-zbavit-akne-7-dolezitych-informacii/index.html",
+    "originalGzip": 19766,
+    "optimizedGzip": 25674,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-schudnut-z-brucha-za-tyzden/index.html",
+    "originalGzip": 6425,
+    "optimizedGzip": 12073,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-schudnut-z-brucha-za-tyzden-realisticke-tipy-a-triky/index.html",
+    "originalGzip": 10576,
+    "optimizedGzip": 16393,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-si-pomoct-pri-vysokom-krvnom-tlaku-5-tipov/index.html",
+    "originalGzip": 6502,
+    "optimizedGzip": 12153,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-uzivat-pestrec-mariansky/index.html",
+    "originalGzip": 6484,
+    "optimizedGzip": 12138,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-uzivat-pestrec-mariansky-kompletny-sprievodca/index.html",
+    "originalGzip": 15059,
+    "optimizedGzip": 20898,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-vycistit-prostatu/index.html",
+    "originalGzip": 6483,
+    "optimizedGzip": 12138,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-vycistit-prostatu-6-super-tipov/index.html",
+    "originalGzip": 17636,
+    "optimizedGzip": 23502,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "ako-vycistit-zlcnik/index.html",
+    "originalGzip": 6450,
+    "optimizedGzip": 12095,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-vycistit-zlcnik-skuste-tieto-4-tipy/index.html",
+    "originalGzip": 19392,
+    "optimizedGzip": 25279,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "ako-zaspat-rychlo-5-super-tipov/index.html",
+    "originalGzip": 17605,
+    "optimizedGzip": 23478,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-zaspat-rychlo-a-kvalitne/index.html",
+    "originalGzip": 6466,
+    "optimizedGzip": 12123,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-zlepsit-sportovy-vykon-pomocou-vyzivovych-doplnkov/index.html",
+    "originalGzip": 8934,
+    "optimizedGzip": 14699,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "ako-zlepsit-sportovy-vykon-vyzivove-doplnky/index.html",
+    "originalGzip": 6443,
+    "optimizedGzip": 12096,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-zlepsit-sustredenie/index.html",
+    "originalGzip": 6302,
+    "optimizedGzip": 11939,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-zlepsit-sustredenie-25-praktickych-tipov/index.html",
+    "originalGzip": 10997,
+    "optimizedGzip": 16821,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "ako-znizit-cholesterol-bez-liekov/index.html",
+    "originalGzip": 6470,
+    "optimizedGzip": 12126,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-znizit-cholesterol-bez-liekov-5-super-tipov/index.html",
+    "originalGzip": 19577,
+    "optimizedGzip": 25473,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ako-znizit-krvny-tlak/index.html",
+    "originalGzip": 6282,
+    "optimizedGzip": 11922,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-znizit-krvny-tlak-10-praktickych-rad/index.html",
+    "originalGzip": 16897,
+    "optimizedGzip": 22767,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "ako-zvladat-stres/index.html",
+    "originalGzip": 6257,
+    "optimizedGzip": 11894,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ako-zvladat-stres-9-praktickych-tipov/index.html",
+    "originalGzip": 24206,
+    "optimizedGzip": 30028,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "aktivne-uhlie-chudnutie-7-dolezitych-informacii/index.html",
+    "originalGzip": 6457,
+    "optimizedGzip": 12106,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "aktivne-uhlie-ucinky/index.html",
+    "originalGzip": 6446,
+    "optimizedGzip": 12092,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "aktivne-uhlie-ucinky-7-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 18354,
+    "optimizedGzip": 24224,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "aloe-vera/index.html",
+    "originalGzip": 6463,
+    "optimizedGzip": 12113,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "aloe-vera-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 10310,
+    "optimizedGzip": 16109,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "aromaterapia/index.html",
+    "originalGzip": 6473,
+    "optimizedGzip": 12126,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "aromaterapia-10-zakladnych-informacii/index.html",
+    "originalGzip": 23730,
+    "optimizedGzip": 29557,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "artroza/index.html",
+    "originalGzip": 6479,
+    "optimizedGzip": 12129,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "artroza-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 13416,
+    "optimizedGzip": 19144,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "author/index.html",
+    "originalGzip": 6227,
+    "optimizedGzip": 11866,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bacopa-monnieri/index.html",
+    "originalGzip": 6522,
+    "optimizedGzip": 12172,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bacopa-monnieri-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 17630,
+    "optimizedGzip": 23496,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "baobab/index.html",
+    "originalGzip": 6431,
+    "optimizedGzip": 12071,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "baobab-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 11199,
+    "optimizedGzip": 17001,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "bergamot/index.html",
+    "originalGzip": 6264,
+    "optimizedGzip": 11901,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bergamot-6-ucinkov-na-zdravie/index.html",
+    "originalGzip": 12772,
+    "optimizedGzip": 18400,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "beta-alanin-davkovanie-mravcenie-a-ucinky/index.html",
+    "originalGzip": 6295,
+    "optimizedGzip": 11933,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "beta-alanin-preco-sposobuje-mravcenie-davkovanie-a-kedy-ma-zmysel/index.html",
+    "originalGzip": 11266,
+    "optimizedGzip": 17084,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "bezpecnost-aromaterapie-pre-deti/index.html",
+    "originalGzip": 6504,
+    "optimizedGzip": 12161,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bezpecnost-aromaterapie-pre-deti-6-dolezitych-informacii/index.html",
+    "originalGzip": 16789,
+    "optimizedGzip": 22471,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "biele-skvrny-na-nechtoch/index.html",
+    "originalGzip": 6472,
+    "optimizedGzip": 12125,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "biele-skvrny-na-nechtoch-5-rad-na-prevenciu/index.html",
+    "originalGzip": 14776,
+    "optimizedGzip": 20571,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "bodliak-liecive-ucinky/index.html",
+    "originalGzip": 6493,
+    "optimizedGzip": 12145,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bodliak-liecive-ucinky-6-dolezitych-informacii/index.html",
+    "originalGzip": 19832,
+    "optimizedGzip": 25740,
+    "inlineBytes": 35438
+  },
+  {
+    "route": "bolest-chodidla-zo-spodu/index.html",
+    "originalGzip": 6494,
+    "optimizedGzip": 12148,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bolest-chodidla-zo-spodu-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 9454,
+    "optimizedGzip": 15176,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "bolest-hlavy/index.html",
+    "originalGzip": 6470,
+    "optimizedGzip": 12121,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bolest-hlavy-3-tipy-na-liecbu/index.html",
+    "originalGzip": 17622,
+    "optimizedGzip": 23459,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "bolest-hrdla/index.html",
+    "originalGzip": 6458,
+    "optimizedGzip": 12106,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bolest-hrdla-5-tipov-na-liecbu/index.html",
+    "originalGzip": 14832,
+    "optimizedGzip": 20639,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "bolest-klbov/index.html",
+    "originalGzip": 6456,
+    "optimizedGzip": 12107,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bolest-klbov-5-tipov-na-liecbu/index.html",
+    "originalGzip": 10900,
+    "optimizedGzip": 16703,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "bolesti-hlavy/index.html",
+    "originalGzip": 6246,
+    "optimizedGzip": 11880,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bolesti-hlavy-10-dolezitych-informacii/index.html",
+    "originalGzip": 21677,
+    "optimizedGzip": 27545,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "bolesti-zaludka/index.html",
+    "originalGzip": 6468,
+    "optimizedGzip": 12118,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bolesti-zaludka-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 18047,
+    "optimizedGzip": 23919,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "boswellia-serrata/index.html",
+    "originalGzip": 6493,
+    "optimizedGzip": 12144,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "boswellia-serrata-4-super-ucinky-pre-zdravie/index.html",
+    "originalGzip": 17797,
+    "optimizedGzip": 23671,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "bylinky-na-cistenie-ciev/index.html",
+    "originalGzip": 6259,
+    "optimizedGzip": 11899,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "bylinky-na-cistenie-ciev-9-super-bylin/index.html",
+    "originalGzip": 17829,
+    "optimizedGzip": 23667,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "bylinky-na-hyperaktivny-mocovy-mechur/index.html",
+    "originalGzip": 6478,
+    "optimizedGzip": 12130,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "cakanka/index.html",
+    "originalGzip": 6241,
+    "optimizedGzip": 11877,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "cakanka-6-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 12150,
+    "optimizedGzip": 17960,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "cejlonska-skorica-a-med/index.html",
+    "originalGzip": 6437,
+    "optimizedGzip": 12088,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "cejlonska-skorica-a-med-4-dolezite-informacie/index.html",
+    "originalGzip": 21609,
+    "optimizedGzip": 27491,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "cernuska-siata-uzivanie/index.html",
+    "originalGzip": 6453,
+    "optimizedGzip": 12106,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "cernuska-siata-uzivanie-10-super-tipov/index.html",
+    "originalGzip": 18429,
+    "optimizedGzip": 24315,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "chioska-masticha-ucinky/index.html",
+    "originalGzip": 6466,
+    "optimizedGzip": 12118,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chioska-masticha-ucinky-10-dolezitych-informacii/index.html",
+    "originalGzip": 23815,
+    "optimizedGzip": 29637,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "chlorella/index.html",
+    "originalGzip": 6450,
+    "optimizedGzip": 12101,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chlorella-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 19550,
+    "optimizedGzip": 25436,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "chodza-po-artroskopii-kolena/index.html",
+    "originalGzip": 6281,
+    "optimizedGzip": 11919,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chodza-po-artroskopii-kolena-5-tipov-po-operacii/index.html",
+    "originalGzip": 16225,
+    "optimizedGzip": 22004,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "cholesterol/index.html",
+    "originalGzip": 6278,
+    "optimizedGzip": 11916,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "cholesterol-9-dolezitych-informacii/index.html",
+    "originalGzip": 21097,
+    "optimizedGzip": 26954,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "chondroitin/index.html",
+    "originalGzip": 6271,
+    "optimizedGzip": 11909,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chondroitin-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 16604,
+    "optimizedGzip": 22419,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "choroby-nechtov/index.html",
+    "originalGzip": 6454,
+    "optimizedGzip": 12106,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "choroby-nechtov-5-dolezitych-informacii/index.html",
+    "originalGzip": 18462,
+    "optimizedGzip": 24332,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "chripka-a-prechladnutie/index.html",
+    "originalGzip": 6272,
+    "optimizedGzip": 11909,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chripka-a-prechladnutie-co-je-to-a-ako-sa-ochranit/index.html",
+    "originalGzip": 17776,
+    "optimizedGzip": 23666,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "chripkova-sezona/index.html",
+    "originalGzip": 6289,
+    "optimizedGzip": 11928,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chripkova-sezona-5-tipov-na-prezitie-bez-ujmy/index.html",
+    "originalGzip": 18040,
+    "optimizedGzip": 23935,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "chronicka-unava/index.html",
+    "originalGzip": 6284,
+    "optimizedGzip": 11924,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "chronicka-unava-6-tipov-na-liecbu/index.html",
+    "originalGzip": 18955,
+    "optimizedGzip": 24863,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "cierne-bodky/index.html",
+    "originalGzip": 6435,
+    "optimizedGzip": 12076,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "cierne-bodky-na-nose-5-sposobov-ako-sa-ich-zbavit/index.html",
+    "originalGzip": 15510,
+    "optimizedGzip": 21286,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "cistus-incanus-ucinky-6-najdolezitejsich/index.html",
+    "originalGzip": 6467,
+    "optimizedGzip": 12123,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "citrulin-malat-ucinky-davkovanie-a-arginin/index.html",
+    "originalGzip": 6280,
+    "optimizedGzip": 11921,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "citrulin-malat-ucinky-davkovanie-pred-treningom-a-rozdiel-oproti-argininu/index.html",
+    "originalGzip": 11218,
+    "optimizedGzip": 17045,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/3-chyby-ktore-pri-cviceni-robi-takmer-kazdy/index.html",
+    "originalGzip": 8816,
+    "optimizedGzip": 14582,
+    "inlineBytes": 35364
+  },
+  {
+    "route": "clanky/acai-berry/index.html",
+    "originalGzip": 21138,
+    "optimizedGzip": 27002,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/afty/index.html",
+    "originalGzip": 10910,
+    "optimizedGzip": 16709,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/aka-klbova-vyziva-pri-bolesti-kolena/index.html",
+    "originalGzip": 11515,
+    "optimizedGzip": 17351,
+    "inlineBytes": 35402
+  },
+  {
+    "route": "clanky/ako-dlho-boli-podrazdeny-zlcnik/index.html",
+    "originalGzip": 12681,
+    "optimizedGzip": 18446,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-dlho-uzivat-reishi/index.html",
+    "originalGzip": 20150,
+    "optimizedGzip": 26024,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/ako-konzumovat-chia-semienka-6-tipov/index.html",
+    "originalGzip": 18568,
+    "optimizedGzip": 24485,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-liecit-zapal-v-tele-bez-antibiotik/index.html",
+    "originalGzip": 18098,
+    "optimizedGzip": 23985,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-mat-zdrave-a-pekne-nechty/index.html",
+    "originalGzip": 10373,
+    "optimizedGzip": 16186,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-najrychlejsie-schudnut/index.html",
+    "originalGzip": 18381,
+    "optimizedGzip": 24241,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-ovplyvnuje-sexualny-zivot-vase-zdravie/index.html",
+    "originalGzip": 9410,
+    "optimizedGzip": 15192,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ako-pribrat/index.html",
+    "originalGzip": 17432,
+    "optimizedGzip": 23301,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-robit-prestavky-pri-uzivani-vyzivovych-doplnkov/index.html",
+    "originalGzip": 9036,
+    "optimizedGzip": 14810,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/ako-sa-chranit-pred-komarmi/index.html",
+    "originalGzip": 19924,
+    "optimizedGzip": 25812,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-sa-prejavuje-crevna-viroza/index.html",
+    "originalGzip": 17264,
+    "optimizedGzip": 23120,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ako-sa-uziva-cierny-kmin/index.html",
+    "originalGzip": 18975,
+    "optimizedGzip": 24919,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ako-sa-zbavit-akne/index.html",
+    "originalGzip": 19837,
+    "optimizedGzip": 25748,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-schudnut-z-brucha-za-tyzden/index.html",
+    "originalGzip": 10557,
+    "optimizedGzip": 16375,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-si-pomoct-pri-vysokom-krvnom-tlaku-5-tipov/index.html",
+    "originalGzip": 15934,
+    "optimizedGzip": 21766,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-uzivat-pestrec-mariansky/index.html",
+    "originalGzip": 15329,
+    "optimizedGzip": 21073,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-vycistit-prostatu/index.html",
+    "originalGzip": 17645,
+    "optimizedGzip": 23518,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/ako-vycistit-zlcnik/index.html",
+    "originalGzip": 19419,
+    "optimizedGzip": 25297,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/ako-zaspat-rychlo-a-kvalitne/index.html",
+    "originalGzip": 17611,
+    "optimizedGzip": 23486,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-zlepsit-sportovy-vykon-vyzivove-doplnky/index.html",
+    "originalGzip": 8929,
+    "optimizedGzip": 14695,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/ako-zlepsit-sustredenie/index.html",
+    "originalGzip": 11001,
+    "optimizedGzip": 16825,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ako-znizit-cholesterol-bez-liekov/index.html",
+    "originalGzip": 19618,
+    "optimizedGzip": 25495,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ako-znizit-krvny-tlak/index.html",
+    "originalGzip": 16919,
+    "optimizedGzip": 22792,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ako-zvladat-stres/index.html",
+    "originalGzip": 24218,
+    "optimizedGzip": 30039,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/aktivne-uhlie-chudnutie-7-dolezitych-informacii/index.html",
+    "originalGzip": 23303,
+    "optimizedGzip": 29173,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/aktivne-uhlie-ucinky/index.html",
+    "originalGzip": 18401,
+    "optimizedGzip": 24290,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/aloe-vera/index.html",
+    "originalGzip": 10311,
+    "optimizedGzip": 16110,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/aromaterapia/index.html",
+    "originalGzip": 23740,
+    "optimizedGzip": 29560,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/artroza/index.html",
+    "originalGzip": 13726,
+    "optimizedGzip": 19541,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/bacopa-monnieri/index.html",
+    "originalGzip": 17670,
+    "optimizedGzip": 23543,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/baobab/index.html",
+    "originalGzip": 11178,
+    "optimizedGzip": 16981,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/bergamot/index.html",
+    "originalGzip": 13137,
+    "optimizedGzip": 18880,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/beta-alanin-davkovanie-mravcenie-a-ucinky/index.html",
+    "originalGzip": 11236,
+    "optimizedGzip": 17058,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/bezpecnost-aromaterapie-pre-deti/index.html",
+    "originalGzip": 16878,
+    "optimizedGzip": 22679,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/biele-skvrny-na-nechtoch/index.html",
+    "originalGzip": 15038,
+    "optimizedGzip": 20767,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/bodliak-liecive-ucinky/index.html",
+    "originalGzip": 19828,
+    "optimizedGzip": 25725,
+    "inlineBytes": 35438
+  },
+  {
+    "route": "clanky/bolest-chodidla-zo-spodu/index.html",
+    "originalGzip": 9482,
+    "optimizedGzip": 15282,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/bolest-hlavy/index.html",
+    "originalGzip": 17643,
+    "optimizedGzip": 23478,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/bolest-hrdla/index.html",
+    "originalGzip": 15103,
+    "optimizedGzip": 20783,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/bolest-klbov/index.html",
+    "originalGzip": 10900,
+    "optimizedGzip": 16707,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/bolesti-hlavy/index.html",
+    "originalGzip": 21690,
+    "optimizedGzip": 27547,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/bolesti-zaludka/index.html",
+    "originalGzip": 18088,
+    "optimizedGzip": 23955,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/boswellia-serrata/index.html",
+    "originalGzip": 17834,
+    "optimizedGzip": 23717,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/bylinky-na-cistenie-ciev/index.html",
+    "originalGzip": 17839,
+    "optimizedGzip": 23676,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/bylinky-na-hyperaktivny-mocovy-mechur/index.html",
+    "originalGzip": 15260,
+    "optimizedGzip": 21043,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/cakanka/index.html",
+    "originalGzip": 12131,
+    "optimizedGzip": 17943,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/cejlonska-skorica-a-med/index.html",
+    "originalGzip": 21618,
+    "optimizedGzip": 27498,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/cernuska-siata-uzivanie/index.html",
+    "originalGzip": 18548,
+    "optimizedGzip": 24410,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/chioska-masticha-ucinky/index.html",
+    "originalGzip": 23815,
+    "optimizedGzip": 29639,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/chlorella/index.html",
+    "originalGzip": 19560,
+    "optimizedGzip": 25455,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/chodza-po-artroskopii-kolena/index.html",
+    "originalGzip": 16581,
+    "optimizedGzip": 22333,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/cholesterol/index.html",
+    "originalGzip": 21096,
+    "optimizedGzip": 26948,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/chondroitin/index.html",
+    "originalGzip": 16618,
+    "optimizedGzip": 22434,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/choroby-nechtov/index.html",
+    "originalGzip": 18468,
+    "optimizedGzip": 24344,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/chripka-a-prechladnutie/index.html",
+    "originalGzip": 17831,
+    "optimizedGzip": 23685,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/chripkova-sezona/index.html",
+    "originalGzip": 18078,
+    "optimizedGzip": 23979,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/chronicka-unava/index.html",
+    "originalGzip": 18955,
+    "optimizedGzip": 24860,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/cierne-bodky/index.html",
+    "originalGzip": 15599,
+    "optimizedGzip": 21376,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/cistus-incanus-ucinky-6-najdolezitejsich/index.html",
+    "originalGzip": 17110,
+    "optimizedGzip": 22989,
+    "inlineBytes": 35438
+  },
+  {
+    "route": "clanky/citrulin-malat-ucinky-davkovanie-a-arginin/index.html",
+    "originalGzip": 11197,
+    "optimizedGzip": 17024,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/co-je-inulin/index.html",
+    "originalGzip": 13472,
+    "optimizedGzip": 19202,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/co-je-mct-olej/index.html",
+    "originalGzip": 20543,
+    "optimizedGzip": 26406,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/co-obsahuje-zelezo/index.html",
+    "originalGzip": 23013,
+    "optimizedGzip": 28865,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/co-pomaha-na-podrazdeny-zlcnik/index.html",
+    "originalGzip": 20000,
+    "optimizedGzip": 25877,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/cukrovka-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 18350,
+    "optimizedGzip": 24237,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/davkovanie-cierneho-uhlia/index.html",
+    "originalGzip": 11434,
+    "optimizedGzip": 17266,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/detoxikacia-organizmu/index.html",
+    "originalGzip": 14598,
+    "optimizedGzip": 20333,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/detoxikacia-pecene/index.html",
+    "originalGzip": 12562,
+    "optimizedGzip": 18351,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/dieta-na-pecen/index.html",
+    "originalGzip": 10442,
+    "optimizedGzip": 16257,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/dlhe-herne-vecery-a-tvoje-telo-co-potrebujes-ked-sedis-pri-hrach/index.html",
+    "originalGzip": 9382,
+    "optimizedGzip": 15167,
+    "inlineBytes": 35402
+  },
+  {
+    "route": "clanky/domaci-liek-na-arytmiu-5-super-tipov/index.html",
+    "originalGzip": 11428,
+    "optimizedGzip": 17254,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/domaci-liek-na-bolest-klbov/index.html",
+    "originalGzip": 17372,
+    "optimizedGzip": 23231,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/domaci-liek-na-regeneraciu-pecene-8-super-tipov/index.html",
+    "originalGzip": 17412,
+    "optimizedGzip": 23284,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/domaci-liek-na-vysoky-tlak/index.html",
+    "originalGzip": 11916,
+    "optimizedGzip": 17741,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/dracia-krv-pre-deti-ake-su-vyhody/index.html",
+    "originalGzip": 15608,
+    "optimizedGzip": 21463,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/druhy-levadule-3-tipy/index.html",
+    "originalGzip": 20030,
+    "optimizedGzip": 25955,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ekzem-u-deti/index.html",
+    "originalGzip": 18517,
+    "optimizedGzip": 24387,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ekzem-vo-vlasoch-priznaky-priciny-a-liecba/index.html",
+    "originalGzip": 22322,
+    "optimizedGzip": 28175,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ekzemy-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 13527,
+    "optimizedGzip": 19230,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/elektrolyty-a-adaptogeny-pri-cviceni/index.html",
+    "originalGzip": 11646,
+    "optimizedGzip": 17485,
+    "inlineBytes": 35514
+  },
+  {
+    "route": "clanky/etericke-oleje/index.html",
+    "originalGzip": 9857,
+    "optimizedGzip": 15646,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/etericke-oleje-vhodne-pre-deti-5-najlepsich-olejov/index.html",
+    "originalGzip": 21272,
+    "optimizedGzip": 27150,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/eukalyptus/index.html",
+    "originalGzip": 15111,
+    "optimizedGzip": 20824,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/garcinia-kambodzska/index.html",
+    "originalGzip": 19767,
+    "optimizedGzip": 25641,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ghi/index.html",
+    "originalGzip": 12535,
+    "optimizedGzip": 18379,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ginko-neziaduce-ucinky/index.html",
+    "originalGzip": 18711,
+    "optimizedGzip": 24598,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ginko-strom/index.html",
+    "originalGzip": 18333,
+    "optimizedGzip": 24192,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/glukozamin-sulfat/index.html",
+    "originalGzip": 21134,
+    "optimizedGzip": 27012,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/granatove-jablko-a-histamin/index.html",
+    "originalGzip": 17319,
+    "optimizedGzip": 23174,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/guduchi-ucinky/index.html",
+    "originalGzip": 21827,
+    "optimizedGzip": 27688,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/hemoroidy-11-sposobov-liecby/index.html",
+    "originalGzip": 21134,
+    "optimizedGzip": 26988,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/himalajska-sol-cierna-ucinky/index.html",
+    "originalGzip": 15328,
+    "optimizedGzip": 21181,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/himalajska-sol-na-bolest-hlavy/index.html",
+    "originalGzip": 17432,
+    "optimizedGzip": 23282,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/hnacka/index.html",
+    "originalGzip": 19149,
+    "optimizedGzip": 25061,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/hnisava-angina/index.html",
+    "originalGzip": 11103,
+    "optimizedGzip": 16925,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/hormonalna-rovnovaha/index.html",
+    "originalGzip": 10064,
+    "optimizedGzip": 15873,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/horucka-u-deti/index.html",
+    "originalGzip": 15609,
+    "optimizedGzip": 21343,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/huba-reishi-a-pecen-4-super-ucinky/index.html",
+    "originalGzip": 14322,
+    "optimizedGzip": 20149,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/huba-reishi-neziaduce-ucinky/index.html",
+    "originalGzip": 21422,
+    "optimizedGzip": 27305,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/huba-reishi-pre-deti/index.html",
+    "originalGzip": 17358,
+    "optimizedGzip": 23214,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/huba-reishi-ucinky/index.html",
+    "originalGzip": 12522,
+    "optimizedGzip": 18368,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/hydroxycitronova-kyselina/index.html",
+    "originalGzip": 11229,
+    "optimizedGzip": 17074,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/index.html",
+    "originalGzip": 59597,
+    "optimizedGzip": 65494,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/infekcie-ako-sa-ochranit-pred-chorobami/index.html",
+    "originalGzip": 22389,
+    "optimizedGzip": 28248,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/inulin-vedlajsie-ucinky/index.html",
+    "originalGzip": 12225,
+    "optimizedGzip": 18060,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/je-rozmarin-repelent-proti-kliestom/index.html",
+    "originalGzip": 14604,
+    "optimizedGzip": 20359,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/je-tea-tree-olej-na-vnutorne-pouzitie/index.html",
+    "originalGzip": 17145,
+    "optimizedGzip": 23005,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/kadidlo-a-myrha/index.html",
+    "originalGzip": 20593,
+    "optimizedGzip": 26480,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/kategorie/aromaterapia/index.html",
+    "originalGzip": 7389,
+    "optimizedGzip": 13064,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/bylinky/index.html",
+    "originalGzip": 16111,
+    "optimizedGzip": 21882,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/caje/index.html",
+    "originalGzip": 6888,
+    "optimizedGzip": 12548,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/choroby/index.html",
+    "originalGzip": 21047,
+    "optimizedGzip": 26833,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/clanky/index.html",
+    "originalGzip": 24969,
+    "optimizedGzip": 30651,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/doplnky-stravy/index.html",
+    "originalGzip": 17626,
+    "optimizedGzip": 23469,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/index.html",
+    "originalGzip": 6218,
+    "optimizedGzip": 11686,
+    "inlineBytes": 33866
+  },
+  {
+    "route": "clanky/kategorie/maste-a-kremy/index.html",
+    "originalGzip": 6520,
+    "optimizedGzip": 12188,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/potraviny/index.html",
+    "originalGzip": 8210,
+    "optimizedGzip": 13916,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/recepty/index.html",
+    "originalGzip": 7279,
+    "optimizedGzip": 12959,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/ucinky-olejov/index.html",
+    "originalGzip": 7218,
+    "optimizedGzip": 12889,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kategorie/vitaminy/index.html",
+    "originalGzip": 6487,
+    "optimizedGzip": 12155,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/kava-kava/index.html",
+    "originalGzip": 11425,
+    "optimizedGzip": 17250,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/ked-potenie-nie-je-len-reakciou-na-teplo-alebo-preco-sa-potime-aj-v-zime/index.html",
+    "originalGzip": 10970,
+    "optimizedGzip": 16788,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/kofein/index.html",
+    "originalGzip": 23292,
+    "optimizedGzip": 29145,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/kolagen/index.html",
+    "originalGzip": 19132,
+    "optimizedGzip": 24990,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/kolagen-na-klby-v-strave/index.html",
+    "originalGzip": 22443,
+    "optimizedGzip": 28300,
+    "inlineBytes": 35438
+  },
+  {
+    "route": "clanky/kreatin-monohydrat-ucinky-davkovanie-a-bezpecnost/index.html",
+    "originalGzip": 10537,
+    "optimizedGzip": 16353,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/ktora-ryza-je-najzdravsia-5-dolezitych-informacii/index.html",
+    "originalGzip": 17713,
+    "optimizedGzip": 23590,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/kurkuma/index.html",
+    "originalGzip": 10401,
+    "optimizedGzip": 16197,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/kurkumin/index.html",
+    "originalGzip": 21562,
+    "optimizedGzip": 27431,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/kyselina-hyaluronova/index.html",
+    "originalGzip": 18466,
+    "optimizedGzip": 24388,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/l-theanin/index.html",
+    "originalGzip": 17543,
+    "optimizedGzip": 23321,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/lemongrass/index.html",
+    "originalGzip": 22354,
+    "optimizedGzip": 28238,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/levandula/index.html",
+    "originalGzip": 20554,
+    "optimizedGzip": 26447,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/lutein/index.html",
+    "originalGzip": 16731,
+    "optimizedGzip": 22590,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/maca-peruanska/index.html",
+    "originalGzip": 12672,
+    "optimizedGzip": 18408,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/mandlovy-olej-ucinky/index.html",
+    "originalGzip": 18372,
+    "optimizedGzip": 24261,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/masticha-neziaduce-ucinky/index.html",
+    "originalGzip": 18452,
+    "optimizedGzip": 24241,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/mata-pieporna/index.html",
+    "originalGzip": 15627,
+    "optimizedGzip": 21454,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/medovka-lekarska/index.html",
+    "originalGzip": 14875,
+    "optimizedGzip": 20705,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/migrena/index.html",
+    "originalGzip": 18422,
+    "optimizedGzip": 24322,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/migreny/index.html",
+    "originalGzip": 17286,
+    "optimizedGzip": 23122,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/moringa-neziaduce-ucinky/index.html",
+    "originalGzip": 11486,
+    "optimizedGzip": 17296,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/moringa-ucinky/index.html",
+    "originalGzip": 18188,
+    "optimizedGzip": 24055,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/msm-prasok/index.html",
+    "originalGzip": 12998,
+    "optimizedGzip": 18770,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/na-co-sa-pouziva-pestrec-mariansky/index.html",
+    "originalGzip": 19205,
+    "optimizedGzip": 25044,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/nadmerne-potenie/index.html",
+    "originalGzip": 13797,
+    "optimizedGzip": 19580,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/najlepsie-vitaminy-na-imunitu/index.html",
+    "originalGzip": 10133,
+    "optimizedGzip": 15934,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/neziaduce-ucinky-salvie/index.html",
+    "originalGzip": 12819,
+    "optimizedGzip": 18611,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/obezita/index.html",
+    "originalGzip": 21107,
+    "optimizedGzip": 26991,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ochrana-oci/index.html",
+    "originalGzip": 16708,
+    "optimizedGzip": 22556,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ocista-pecene-s-pestrecom-marianskym-ako-funguje/index.html",
+    "originalGzip": 22380,
+    "optimizedGzip": 28263,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/odkyslenie-organizmu-6-dolezitych-informacii/index.html",
+    "originalGzip": 19127,
+    "optimizedGzip": 25040,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/omega-3-epa-dha-davkovanie-a-vyber/index.html",
+    "originalGzip": 11940,
+    "optimizedGzip": 17791,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/opunciovy-olej-ucinky-9-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 18473,
+    "optimizedGzip": 24346,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/oslabena-imunita/index.html",
+    "originalGzip": 9563,
+    "optimizedGzip": 15354,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/oxidacny-stres/index.html",
+    "originalGzip": 10375,
+    "optimizedGzip": 16182,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/pamat/index.html",
+    "originalGzip": 16114,
+    "optimizedGzip": 21898,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/pasovy-opar-3-sposoby-liecby/index.html",
+    "originalGzip": 14898,
+    "optimizedGzip": 20581,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/pat-krokov-ku-slobode-ako-sa-zotavit-zo-zavislosti/index.html",
+    "originalGzip": 8786,
+    "optimizedGzip": 14571,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/pecenova-dieta/index.html",
+    "originalGzip": 11159,
+    "optimizedGzip": 16993,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/pestrec-mariansky-a-cierny-kmin/index.html",
+    "originalGzip": 18884,
+    "optimizedGzip": 24747,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/pestrec-mariansky-neziaduce-ucinky/index.html",
+    "originalGzip": 11047,
+    "optimizedGzip": 16880,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/prekyslenie-organizmu/index.html",
+    "originalGzip": 12413,
+    "optimizedGzip": 18194,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/prirodna-farba-na-vlasy/index.html",
+    "originalGzip": 20119,
+    "optimizedGzip": 26002,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/prirodne-prehanadlo/index.html",
+    "originalGzip": 12731,
+    "optimizedGzip": 18423,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/priznaky-chripky/index.html",
+    "originalGzip": 11973,
+    "optimizedGzip": 17793,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/probiotika/index.html",
+    "originalGzip": 11851,
+    "optimizedGzip": 17684,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/prostata-a-pitie-alkoholu/index.html",
+    "originalGzip": 7991,
+    "optimizedGzip": 13755,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/psoriaza/index.html",
+    "originalGzip": 20362,
+    "optimizedGzip": 26221,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/psyllium/index.html",
+    "originalGzip": 16013,
+    "optimizedGzip": 21799,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/rasca-rimska/index.html",
+    "originalGzip": 19910,
+    "optimizedGzip": 25764,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/rast-svalovej-hmoty/index.html",
+    "originalGzip": 10083,
+    "optimizedGzip": 15876,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/relaxacia/index.html",
+    "originalGzip": 9989,
+    "optimizedGzip": 15799,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/rhodiola-rosea/index.html",
+    "originalGzip": 21960,
+    "optimizedGzip": 27775,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/rooibos-neziaduce-ucinky/index.html",
+    "originalGzip": 10567,
+    "optimizedGzip": 16378,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/rozmarinovy-olej/index.html",
+    "originalGzip": 18112,
+    "optimizedGzip": 24000,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/rumancek-rimsky/index.html",
+    "originalGzip": 21016,
+    "optimizedGzip": 26906,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/salvia-lucna/index.html",
+    "originalGzip": 17296,
+    "optimizedGzip": 23154,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/sipkovy-olej-v-tehotenstve/index.html",
+    "originalGzip": 11940,
+    "optimizedGzip": 17743,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/skakanie-na-svihadle/index.html",
+    "originalGzip": 19832,
+    "optimizedGzip": 25735,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/skorica-cejlonska-mleta-ucinky/index.html",
+    "originalGzip": 22404,
+    "optimizedGzip": 28288,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/stacionarny-bicykel-pre-seniorov/index.html",
+    "originalGzip": 7896,
+    "optimizedGzip": 13651,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "clanky/stukovatena-pecen/index.html",
+    "originalGzip": 18996,
+    "optimizedGzip": 24866,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/su-kontaktne-sosovky-bezpecne/index.html",
+    "originalGzip": 11088,
+    "optimizedGzip": 16902,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/sucha-pokozka-hlavy/index.html",
+    "originalGzip": 16722,
+    "optimizedGzip": 22562,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/tabletky-na-chudnutie-pre-zeny-po-40/index.html",
+    "originalGzip": 20610,
+    "optimizedGzip": 26491,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/tea-tree-olej-na-mykozu-nechtov-3-dovody-preco-funguje/index.html",
+    "originalGzip": 12560,
+    "optimizedGzip": 18410,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/tekuty-glycerin-kde-kupit/index.html",
+    "originalGzip": 11094,
+    "optimizedGzip": 16929,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/telesny-tuk/index.html",
+    "originalGzip": 15804,
+    "optimizedGzip": 21423,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/triphala-ucinky/index.html",
+    "originalGzip": 14677,
+    "optimizedGzip": 20348,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/tyzdenny-jedalny-listok-pre-diabetikov/index.html",
+    "originalGzip": 25682,
+    "optimizedGzip": 31471,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ucinky-goji-na-organizmus/index.html",
+    "originalGzip": 12104,
+    "optimizedGzip": 17925,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/ucinky-tulsi-caju/index.html",
+    "originalGzip": 16639,
+    "optimizedGzip": 22481,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/unava/index.html",
+    "originalGzip": 11114,
+    "optimizedGzip": 16902,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/unava-po-jedle/index.html",
+    "originalGzip": 10947,
+    "optimizedGzip": 16744,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/upchate-pory/index.html",
+    "originalGzip": 16405,
+    "optimizedGzip": 22050,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/valeriana-lekarska/index.html",
+    "originalGzip": 27613,
+    "optimizedGzip": 33399,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "clanky/vegetariani-vs-vegani/index.html",
+    "originalGzip": 17585,
+    "optimizedGzip": 23444,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/velmi-riedke-vlasy/index.html",
+    "originalGzip": 15199,
+    "optimizedGzip": 20979,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/vitamin-d3-k2-davkovanie-bezpecnost/index.html",
+    "originalGzip": 11597,
+    "optimizedGzip": 17428,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "clanky/vitaminy-na-pecen/index.html",
+    "originalGzip": 18365,
+    "optimizedGzip": 24284,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/vitaminy-na-vlasy/index.html",
+    "originalGzip": 21805,
+    "optimizedGzip": 27674,
+    "inlineBytes": 35402
+  },
+  {
+    "route": "clanky/vlaknina-a-jej-vyznam-6-dolezitych-informacii/index.html",
+    "originalGzip": 17506,
+    "optimizedGzip": 23348,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/vonne-oleje-do-prania/index.html",
+    "originalGzip": 16813,
+    "optimizedGzip": 22699,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/vonny-olej-proti-komarom/index.html",
+    "originalGzip": 18887,
+    "optimizedGzip": 24762,
+    "inlineBytes": 35497
+  },
+  {
+    "route": "clanky/vsetko-co-potrebujete-vediet-o-keto-diete/index.html",
+    "originalGzip": 10985,
+    "optimizedGzip": 16817,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/vypadavanie-vlasov/index.html",
+    "originalGzip": 16970,
+    "optimizedGzip": 22813,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/vysoky-krvny-tlak/index.html",
+    "originalGzip": 23232,
+    "optimizedGzip": 29067,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/vysoky-krvny-tlak-priznaky/index.html",
+    "originalGzip": 17574,
+    "optimizedGzip": 23446,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/yerba-mate/index.html",
+    "originalGzip": 11402,
+    "optimizedGzip": 17213,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/zaludocna-kyselina/index.html",
+    "originalGzip": 11887,
+    "optimizedGzip": 17725,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zapal-dasien-priciny-priznaky-liecba-a-prevencia/index.html",
+    "originalGzip": 16442,
+    "optimizedGzip": 22298,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zapal-mocovych-ciest-domaca-liecba/index.html",
+    "originalGzip": 16469,
+    "optimizedGzip": 22302,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zapal-mocovych-ciest-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 15097,
+    "optimizedGzip": 20904,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/zapal-prostaty/index.html",
+    "originalGzip": 20975,
+    "optimizedGzip": 26858,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zapalene-hrdlo/index.html",
+    "originalGzip": 16673,
+    "optimizedGzip": 22469,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zapcha/index.html",
+    "originalGzip": 15787,
+    "optimizedGzip": 21611,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zapcha-domaca-liecba/index.html",
+    "originalGzip": 18585,
+    "optimizedGzip": 24449,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zasadite-potraviny/index.html",
+    "originalGzip": 18561,
+    "optimizedGzip": 24468,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "clanky/zdrave-travenie/index.html",
+    "originalGzip": 21384,
+    "optimizedGzip": 27262,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zeleny-caj/index.html",
+    "originalGzip": 18977,
+    "optimizedGzip": 24888,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "clanky/zeleny-jacmen/index.html",
+    "originalGzip": 18128,
+    "optimizedGzip": 23998,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/zlatobyl-neziaduce-ucinky-7-dolezitych-informacii/index.html",
+    "originalGzip": 19313,
+    "optimizedGzip": 25225,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "clanky/znacky/acai-berry/index.html",
+    "originalGzip": 6489,
+    "optimizedGzip": 12154,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/adaptogeny/index.html",
+    "originalGzip": 6522,
+    "optimizedGzip": 12194,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/akne/index.html",
+    "originalGzip": 6706,
+    "optimizedGzip": 12387,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/aloe-vera/index.html",
+    "originalGzip": 6516,
+    "optimizedGzip": 12186,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/ashwagandha/index.html",
+    "originalGzip": 6519,
+    "optimizedGzip": 12192,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/b-komplex/index.html",
+    "originalGzip": 6513,
+    "optimizedGzip": 12182,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/bacopa/index.html",
+    "originalGzip": 6483,
+    "optimizedGzip": 12151,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/bergamot/index.html",
+    "originalGzip": 6465,
+    "optimizedGzip": 12133,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/beta-alanin/index.html",
+    "originalGzip": 6552,
+    "optimizedGzip": 12220,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/biele-skvrny-na-nechtoch/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12143,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/biotin/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12185,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/boswelia/index.html",
+    "originalGzip": 6495,
+    "optimizedGzip": 12163,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/boswellia/index.html",
+    "originalGzip": 6483,
+    "optimizedGzip": 12147,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/chlorella/index.html",
+    "originalGzip": 6457,
+    "optimizedGzip": 12124,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/cholesterol/index.html",
+    "originalGzip": 7211,
+    "optimizedGzip": 12887,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/chondroitin/index.html",
+    "originalGzip": 7007,
+    "optimizedGzip": 12672,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/chripka/index.html",
+    "originalGzip": 6522,
+    "optimizedGzip": 12192,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/chudnutie/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12141,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/cievy/index.html",
+    "originalGzip": 6511,
+    "optimizedGzip": 12181,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/cistenie-ciev/index.html",
+    "originalGzip": 6457,
+    "optimizedGzip": 12122,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/citrulin-malat/index.html",
+    "originalGzip": 6538,
+    "optimizedGzip": 12204,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/cukor/index.html",
+    "originalGzip": 7019,
+    "optimizedGzip": 12687,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/cvicenie/index.html",
+    "originalGzip": 8418,
+    "optimizedGzip": 14120,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/detoxikacia/index.html",
+    "originalGzip": 6481,
+    "optimizedGzip": 12150,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/doplnky-stravy/index.html",
+    "originalGzip": 6519,
+    "optimizedGzip": 12187,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/elektrolyty/index.html",
+    "originalGzip": 6520,
+    "optimizedGzip": 12193,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/enzymy/index.html",
+    "originalGzip": 6523,
+    "optimizedGzip": 12193,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/epa-dha/index.html",
+    "originalGzip": 6541,
+    "optimizedGzip": 12209,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/eukalyptus/index.html",
+    "originalGzip": 6463,
+    "optimizedGzip": 12130,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/glukozamin/index.html",
+    "originalGzip": 7041,
+    "optimizedGzip": 12705,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/hemoroidy/index.html",
+    "originalGzip": 6497,
+    "optimizedGzip": 12168,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/hormonalna-rovnovaha/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/hydroxycitronova-kyselina/index.html",
+    "originalGzip": 6523,
+    "optimizedGzip": 12191,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/imunita/index.html",
+    "originalGzip": 7046,
+    "optimizedGzip": 12714,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/index.html",
+    "originalGzip": 8687,
+    "optimizedGzip": 14185,
+    "inlineBytes": 33866
+  },
+  {
+    "route": "clanky/znacky/jacmen/index.html",
+    "originalGzip": 6475,
+    "optimizedGzip": 12140,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/kasel/index.html",
+    "originalGzip": 6521,
+    "optimizedGzip": 12190,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/klby/index.html",
+    "originalGzip": 6506,
+    "optimizedGzip": 12176,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/kofein/index.html",
+    "originalGzip": 6477,
+    "optimizedGzip": 12145,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/kognitivne-funkcie/index.html",
+    "originalGzip": 6516,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/kolagen/index.html",
+    "originalGzip": 6779,
+    "optimizedGzip": 12463,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/kreatin/index.html",
+    "originalGzip": 6823,
+    "optimizedGzip": 12506,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/krvny-tlak/index.html",
+    "originalGzip": 6893,
+    "optimizedGzip": 12557,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/kurkuma/index.html",
+    "originalGzip": 6751,
+    "optimizedGzip": 12432,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/l-theanin/index.html",
+    "originalGzip": 6481,
+    "optimizedGzip": 12148,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/lemongrass/index.html",
+    "originalGzip": 6505,
+    "optimizedGzip": 12174,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/levandula/index.html",
+    "originalGzip": 6523,
+    "optimizedGzip": 12189,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/maca/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12141,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/mata/index.html",
+    "originalGzip": 6484,
+    "optimizedGzip": 12150,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/mineraly/index.html",
+    "originalGzip": 6517,
+    "optimizedGzip": 12187,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/moringa/index.html",
+    "originalGzip": 6510,
+    "optimizedGzip": 12171,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/msm/index.html",
+    "originalGzip": 7005,
+    "optimizedGzip": 12648,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/nechty/index.html",
+    "originalGzip": 6713,
+    "optimizedGzip": 12392,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/odporucame/index.html",
+    "originalGzip": 7258,
+    "optimizedGzip": 12937,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/oleje/index.html",
+    "originalGzip": 6479,
+    "optimizedGzip": 12146,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/omega-3/index.html",
+    "originalGzip": 6538,
+    "optimizedGzip": 12206,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/orechy/index.html",
+    "originalGzip": 7700,
+    "optimizedGzip": 13391,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/oxidacny-stres/index.html",
+    "originalGzip": 6495,
+    "optimizedGzip": 12163,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/pamat/index.html",
+    "originalGzip": 6489,
+    "optimizedGzip": 12158,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/pecen/index.html",
+    "originalGzip": 7408,
+    "optimizedGzip": 13085,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/pestrec/index.html",
+    "originalGzip": 6463,
+    "optimizedGzip": 12128,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/pr/index.html",
+    "originalGzip": 6490,
+    "optimizedGzip": 12157,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/pranie/index.html",
+    "originalGzip": 6508,
+    "optimizedGzip": 12176,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/pred-treningom/index.html",
+    "originalGzip": 6544,
+    "optimizedGzip": 12210,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/prevencia/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12183,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/probiotika/index.html",
+    "originalGzip": 7019,
+    "optimizedGzip": 12677,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/prostata/index.html",
+    "originalGzip": 6516,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/protein/index.html",
+    "originalGzip": 7264,
+    "optimizedGzip": 12943,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/protizapalove-lieky/index.html",
+    "originalGzip": 6503,
+    "optimizedGzip": 12170,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/psoriaza/index.html",
+    "originalGzip": 6505,
+    "optimizedGzip": 12176,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/psyllium/index.html",
+    "originalGzip": 6463,
+    "optimizedGzip": 12131,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/rakovina/index.html",
+    "originalGzip": 6734,
+    "optimizedGzip": 12413,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/regeneracia/index.html",
+    "originalGzip": 6525,
+    "optimizedGzip": 12197,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/relax/index.html",
+    "originalGzip": 6500,
+    "optimizedGzip": 12172,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/rhodiola-rosea/index.html",
+    "originalGzip": 6527,
+    "optimizedGzip": 12193,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/rozmarin/index.html",
+    "originalGzip": 6496,
+    "optimizedGzip": 12168,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/sacharidy/index.html",
+    "originalGzip": 6724,
+    "optimizedGzip": 12405,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/salvia/index.html",
+    "originalGzip": 6487,
+    "optimizedGzip": 12156,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/seo/index.html",
+    "originalGzip": 6505,
+    "optimizedGzip": 12173,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/soda-bikarbona/index.html",
+    "originalGzip": 6534,
+    "optimizedGzip": 12204,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/spanok/index.html",
+    "originalGzip": 7232,
+    "optimizedGzip": 12910,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/sportova-vyziva/index.html",
+    "originalGzip": 7092,
+    "optimizedGzip": 12735,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/srdce/index.html",
+    "originalGzip": 6529,
+    "optimizedGzip": 12198,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/sustredenie/index.html",
+    "originalGzip": 6486,
+    "optimizedGzip": 12157,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/svaly/index.html",
+    "originalGzip": 6820,
+    "optimizedGzip": 12503,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/tkaniva/index.html",
+    "originalGzip": 6495,
+    "optimizedGzip": 12166,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/tlak/index.html",
+    "originalGzip": 6704,
+    "optimizedGzip": 12382,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/unava/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12145,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/valeriana/index.html",
+    "originalGzip": 6497,
+    "optimizedGzip": 12163,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-a/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-b1/index.html",
+    "originalGzip": 6776,
+    "optimizedGzip": 12459,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-b12/index.html",
+    "originalGzip": 6519,
+    "optimizedGzip": 12188,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-b3/index.html",
+    "originalGzip": 6517,
+    "optimizedGzip": 12185,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-b6/index.html",
+    "originalGzip": 6516,
+    "optimizedGzip": 12185,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-b7/index.html",
+    "originalGzip": 6517,
+    "optimizedGzip": 12186,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-c/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-d/index.html",
+    "originalGzip": 6774,
+    "optimizedGzip": 12457,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-d3/index.html",
+    "originalGzip": 6533,
+    "optimizedGzip": 12201,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-e/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitamin-k2/index.html",
+    "originalGzip": 6534,
+    "optimizedGzip": 12203,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vitaminy/index.html",
+    "originalGzip": 6510,
+    "optimizedGzip": 12179,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vlaknina/index.html",
+    "originalGzip": 6524,
+    "optimizedGzip": 12196,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vlasy/index.html",
+    "originalGzip": 6472,
+    "optimizedGzip": 12139,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/vykon/index.html",
+    "originalGzip": 6554,
+    "optimizedGzip": 12223,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zdrava-strava/index.html",
+    "originalGzip": 6524,
+    "optimizedGzip": 12194,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zdrave-vlasy/index.html",
+    "originalGzip": 6522,
+    "optimizedGzip": 12191,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zdravie-kosti/index.html",
+    "originalGzip": 6543,
+    "optimizedGzip": 12210,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zeleny-caj/index.html",
+    "originalGzip": 6753,
+    "optimizedGzip": 12433,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zelezo/index.html",
+    "originalGzip": 6514,
+    "optimizedGzip": 12184,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zinok/index.html",
+    "originalGzip": 7474,
+    "optimizedGzip": 13158,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/znacky/zlcnik/index.html",
+    "originalGzip": 6968,
+    "optimizedGzip": 12629,
+    "inlineBytes": 34708
+  },
+  {
+    "route": "clanky/zvyseny-krvny-tlak/index.html",
+    "originalGzip": 15063,
+    "optimizedGzip": 20903,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "co-je-inulin/index.html",
+    "originalGzip": 6441,
+    "optimizedGzip": 12091,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "co-je-inulin-6-dolezitych-informacii/index.html",
+    "originalGzip": 13187,
+    "optimizedGzip": 19000,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "co-je-mct-olej/index.html",
+    "originalGzip": 6441,
+    "optimizedGzip": 12086,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "co-je-mct-olej-4-dolezite-informacie/index.html",
+    "originalGzip": 20525,
+    "optimizedGzip": 26265,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "co-obsahuje-zelezo/index.html",
+    "originalGzip": 6465,
+    "optimizedGzip": 12118,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "co-obsahuje-zelezo-7-super-potravin/index.html",
+    "originalGzip": 23008,
+    "optimizedGzip": 28855,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "co-pomaha-na-podrazdeny-zlcnik/index.html",
+    "originalGzip": 6470,
+    "optimizedGzip": 12122,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "co-pomaha-na-podrazdeny-zlcnik-10-dolezitych-informacii/index.html",
+    "originalGzip": 19980,
+    "optimizedGzip": 25753,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "cukrovka-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 6490,
+    "optimizedGzip": 12147,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "davkovanie-cierneho-uhlia/index.html",
+    "originalGzip": 6430,
+    "optimizedGzip": 12083,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "davkovanie-cierneho-uhlia-4-tipy/index.html",
+    "originalGzip": 11445,
+    "optimizedGzip": 17277,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "detoxikacia-organizmu/index.html",
+    "originalGzip": 6271,
+    "optimizedGzip": 11909,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "detoxikacia-organizmu-6-super-rad-na-detox/index.html",
+    "originalGzip": 14278,
+    "optimizedGzip": 20067,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "detoxikacia-pecene/index.html",
+    "originalGzip": 6247,
+    "optimizedGzip": 11881,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "detoxikacia-pecene-3-metody/index.html",
+    "originalGzip": 12290,
+    "optimizedGzip": 18108,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "dieta-na-pecen/index.html",
+    "originalGzip": 6259,
+    "optimizedGzip": 11892,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "dieta-na-pecen-3-prakticke-recepty/index.html",
+    "originalGzip": 10456,
+    "optimizedGzip": 16268,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "dlhe-herne-vecery-a-tvoje-telo-co-potrebujes-ked-sedis-pri-hrach/index.html",
+    "originalGzip": 6349,
+    "optimizedGzip": 11991,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "domaci-liek-na-arytmiu-5-super-tipov/index.html",
+    "originalGzip": 6436,
+    "optimizedGzip": 12087,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "domaci-liek-na-bolest-klbov/index.html",
+    "originalGzip": 6312,
+    "optimizedGzip": 11953,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "domaci-liek-na-bolest-klbov-7-sposobov-ako-sa-zbavit-bolesti/index.html",
+    "originalGzip": 17337,
+    "optimizedGzip": 23189,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "domaci-liek-na-regeneraciu-pecene-8-super-tipov/index.html",
+    "originalGzip": 6488,
+    "optimizedGzip": 12141,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "domaci-liek-na-vysoky-tlak/index.html",
+    "originalGzip": 6462,
+    "optimizedGzip": 12118,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "domaci-liek-na-vysoky-tlak-5-tipov/index.html",
+    "originalGzip": 11926,
+    "optimizedGzip": 17751,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "dracia-krv-pre-deti-ake-su-vyhody/index.html",
+    "originalGzip": 6486,
+    "optimizedGzip": 12140,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "druhy-levadule-3-tipy/index.html",
+    "originalGzip": 6470,
+    "optimizedGzip": 12119,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ekzem-u-deti/index.html",
+    "originalGzip": 6257,
+    "optimizedGzip": 11893,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ekzem-u-deti-5-rad-na-liecbu/index.html",
+    "originalGzip": 18479,
+    "optimizedGzip": 24352,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ekzem-vo-vlasoch-7-dolezitych-informacii/index.html",
+    "originalGzip": 22303,
+    "optimizedGzip": 28153,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ekzem-vo-vlasoch-priznaky-priciny-a-liecba/index.html",
+    "originalGzip": 6262,
+    "optimizedGzip": 11898,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ekzemy-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 6230,
+    "optimizedGzip": 11866,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "elektrolyty-a-adaptogeny-pri-cviceni/index.html",
+    "originalGzip": 6304,
+    "optimizedGzip": 11944,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "elektrolyty-a-adaptogeny-pri-cviceni-ticha-sila-regeneracie-a-mentalneho-vykonu/index.html",
+    "originalGzip": 11672,
+    "optimizedGzip": 17510,
+    "inlineBytes": 35514
+  },
+  {
+    "route": "etericke-oleje/index.html",
+    "originalGzip": 6461,
+    "optimizedGzip": 12103,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "etericke-oleje-5-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 9853,
+    "optimizedGzip": 15644,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "etericke-oleje-vhodne-pre-deti-5-najlepsich-olejov/index.html",
+    "originalGzip": 6489,
+    "optimizedGzip": 12142,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "eukalyptus/index.html",
+    "originalGzip": 6259,
+    "optimizedGzip": 11894,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "eukalyptus-8-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 14688,
+    "optimizedGzip": 20370,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "garcinia-kambodzska/index.html",
+    "originalGzip": 6478,
+    "optimizedGzip": 12133,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "garcinia-kambodzska-7-dolezitych-informacii/index.html",
+    "originalGzip": 19766,
+    "optimizedGzip": 25564,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ghi/index.html",
+    "originalGzip": 6546,
+    "optimizedGzip": 12204,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ghi-vyroba-ucinky-a-pouzitie/index.html",
+    "originalGzip": 12557,
+    "optimizedGzip": 18399,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ginko-neziaduce-ucinky/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12124,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ginko-neziaduce-ucinky-5-dolezitych-informacii/index.html",
+    "originalGzip": 18696,
+    "optimizedGzip": 24589,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ginko-strom/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12123,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ginko-strom-ziva-fosilia-s-liecivymi-ucinkami/index.html",
+    "originalGzip": 18318,
+    "optimizedGzip": 24219,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "glukozamin-sulfat/index.html",
+    "originalGzip": 6283,
+    "optimizedGzip": 11924,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "glukozamin-sulfat-5-ucinkov-pre-nase-zdravie/index.html",
+    "originalGzip": 21119,
+    "optimizedGzip": 26988,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "granatove-jablko-a-histamin/index.html",
+    "originalGzip": 6442,
+    "optimizedGzip": 12095,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "granatove-jablko-a-histamin-10-dolezitych-informacii/index.html",
+    "originalGzip": 17312,
+    "optimizedGzip": 23164,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "guduchi-ucinky/index.html",
+    "originalGzip": 6518,
+    "optimizedGzip": 12171,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "guduchi-ucinky-7-dolezitych-informacii/index.html",
+    "originalGzip": 21833,
+    "optimizedGzip": 27685,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "hemoroidy-11-sposobov-liecby/index.html",
+    "originalGzip": 6475,
+    "optimizedGzip": 12129,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "himalajska-sol-cierna-ucinky/index.html",
+    "originalGzip": 6457,
+    "optimizedGzip": 12111,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "himalajska-sol-cierna-ucinky-5-super-ucinkov-pre-telo/index.html",
+    "originalGzip": 15159,
+    "optimizedGzip": 20940,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "himalajska-sol-na-bolest-hlavy/index.html",
+    "originalGzip": 6484,
+    "optimizedGzip": 12137,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "himalajska-sol-na-bolest-hlavy-3-dovody-pre-a-proti/index.html",
+    "originalGzip": 17440,
+    "optimizedGzip": 23292,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "hnacka/index.html",
+    "originalGzip": 6262,
+    "optimizedGzip": 11900,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "hnacka-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 19154,
+    "optimizedGzip": 25055,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "hnisava-angina/index.html",
+    "originalGzip": 6472,
+    "optimizedGzip": 12125,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "hnisava-angina-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 11125,
+    "optimizedGzip": 16947,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "hormonalna-rovnovaha/index.html",
+    "originalGzip": 6262,
+    "optimizedGzip": 11898,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "hormonalna-rovnovaha-6-tipov-ako-si-ju-udrzat/index.html",
+    "originalGzip": 10055,
+    "optimizedGzip": 15865,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "horucka-u-deti/index.html",
+    "originalGzip": 6493,
+    "optimizedGzip": 12149,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "horucka-u-deti-9-klucovych-faktov/index.html",
+    "originalGzip": 15284,
+    "optimizedGzip": 20985,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "huba-reishi-a-pecen-4-super-ucinky/index.html",
+    "originalGzip": 6508,
+    "optimizedGzip": 12164,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "huba-reishi-neziaduce-ucinky/index.html",
+    "originalGzip": 6465,
+    "optimizedGzip": 12119,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "huba-reishi-neziaduce-ucinky-5-o-ktorych-by-ste-mali-vediet/index.html",
+    "originalGzip": 21426,
+    "optimizedGzip": 27297,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "huba-reishi-pre-deti/index.html",
+    "originalGzip": 6498,
+    "optimizedGzip": 12150,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "huba-reishi-pre-deti-10-dolezitych-informacii/index.html",
+    "originalGzip": 17372,
+    "optimizedGzip": 23232,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "huba-reishi-ucinky/index.html",
+    "originalGzip": 6470,
+    "optimizedGzip": 12126,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "huba-reishi-ucinky-5-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 12544,
+    "optimizedGzip": 18389,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "hydroxycitronova-kyselina/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12131,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "index.html",
+    "originalGzip": 6464,
+    "optimizedGzip": 12238,
+    "inlineBytes": 35287
+  },
+  {
+    "route": "infekcie-6-dolezitych-informacii/index.html",
+    "originalGzip": 22347,
+    "optimizedGzip": 28199,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "infekcie-ako-sa-ochranit-pred-chorobami/index.html",
+    "originalGzip": 6301,
+    "optimizedGzip": 11942,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "inulin-vedlajsie-ucinky/index.html",
+    "originalGzip": 6487,
+    "optimizedGzip": 12144,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "inulin-vedlajsie-ucinky-5-dolezitych-informacii/index.html",
+    "originalGzip": 12239,
+    "optimizedGzip": 18074,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "je-rozmarin-repelent-proti-kliestom/index.html",
+    "originalGzip": 6510,
+    "optimizedGzip": 12171,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "je-tea-tree-olej-na-vnutorne-pouzitie/index.html",
+    "originalGzip": 6482,
+    "optimizedGzip": 12135,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kadidlo-a-myrha/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12120,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kadidlo-a-myrha-10-dolezitych-informacii/index.html",
+    "originalGzip": 20593,
+    "optimizedGzip": 26480,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "kategoria-produktu/index.html",
+    "originalGzip": 6293,
+    "optimizedGzip": 11931,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kava-kava/index.html",
+    "originalGzip": 6286,
+    "optimizedGzip": 11924,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kava-kava-4-super-zdravotne-ucinky/index.html",
+    "originalGzip": 11422,
+    "optimizedGzip": 17246,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "ked-potenie-nie-je-len-reakciou-na-teplo-alebo-preco-sa-potime-aj-v-zime/index.html",
+    "originalGzip": 6519,
+    "optimizedGzip": 12176,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kofein/index.html",
+    "originalGzip": 6261,
+    "optimizedGzip": 11898,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kofein-6-ucinkov-na-nas-organizmus/index.html",
+    "originalGzip": 23279,
+    "optimizedGzip": 29137,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "kolagen/index.html",
+    "originalGzip": 6264,
+    "optimizedGzip": 11898,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kolagen-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 19110,
+    "optimizedGzip": 24978,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "kolagen-na-klby-v-strave/index.html",
+    "originalGzip": 6436,
+    "optimizedGzip": 12080,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kolagen-na-klby-v-strave-6-dolezitych-informacii/index.html",
+    "originalGzip": 22405,
+    "optimizedGzip": 28272,
+    "inlineBytes": 35438
+  },
+  {
+    "route": "kontakt/index.html",
+    "originalGzip": 6162,
+    "optimizedGzip": 11796,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kreatin-monohydrat-ucinky-davkovanie-a-bezpecnost/index.html",
+    "originalGzip": 6285,
+    "optimizedGzip": 11923,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kreatin-monohydrat-ucinky-davkovanie-bezpecnost-a-kedy-ho-uzivat/index.html",
+    "originalGzip": 10554,
+    "optimizedGzip": 16369,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "ktora-ryza-je-najzdravsia-5-dolezitych-informacii/index.html",
+    "originalGzip": 6490,
+    "optimizedGzip": 12143,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kurkuma/index.html",
+    "originalGzip": 6249,
+    "optimizedGzip": 11887,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kurkuma-5-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 10395,
+    "optimizedGzip": 16192,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "kurkumin/index.html",
+    "originalGzip": 6268,
+    "optimizedGzip": 11905,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kurkumin-5-super-ucinkov-na-zdravie/index.html",
+    "originalGzip": 21534,
+    "optimizedGzip": 27409,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "kyselina-hyaluronova/index.html",
+    "originalGzip": 6523,
+    "optimizedGzip": 12175,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "kyselina-hyaluronova-8-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 18455,
+    "optimizedGzip": 24363,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "l-theanin/index.html",
+    "originalGzip": 6293,
+    "optimizedGzip": 11930,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "l-theanin-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 17453,
+    "optimizedGzip": 23262,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "lemongrass/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12121,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "lemongrass-5-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 22347,
+    "optimizedGzip": 28240,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "levandula/index.html",
+    "originalGzip": 6267,
+    "optimizedGzip": 11902,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "levandula-3-super-ucinky-pre-zdravie/index.html",
+    "originalGzip": 20468,
+    "optimizedGzip": 26333,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "lutein/index.html",
+    "originalGzip": 6269,
+    "optimizedGzip": 11907,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "lutein-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 16717,
+    "optimizedGzip": 22566,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "maca-peruanska/index.html",
+    "originalGzip": 6294,
+    "optimizedGzip": 11932,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "maca-peruanska-7-uzasnych-zdravotnych-prinosov/index.html",
+    "originalGzip": 12450,
+    "optimizedGzip": 18213,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "mandlovy-olej-ucinky/index.html",
+    "originalGzip": 6437,
+    "optimizedGzip": 12085,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "mandlovy-olej-ucinky-4-dolezite-informacie/index.html",
+    "originalGzip": 18344,
+    "optimizedGzip": 24226,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "masticha-neziaduce-ucinky/index.html",
+    "originalGzip": 6444,
+    "optimizedGzip": 12094,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "masticha-neziaduce-ucinky-6-dolezitych-informacii/index.html",
+    "originalGzip": 18417,
+    "optimizedGzip": 24222,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "mata-pieporna/index.html",
+    "originalGzip": 6306,
+    "optimizedGzip": 11944,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "mata-pieporna-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 15615,
+    "optimizedGzip": 21446,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "medovka-lekarska/index.html",
+    "originalGzip": 6481,
+    "optimizedGzip": 12134,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "medovka-lekarska-melissa-officinalis-4-super-ucinky-pre-zdravie/index.html",
+    "originalGzip": 14722,
+    "optimizedGzip": 20366,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "migrena/index.html",
+    "originalGzip": 6504,
+    "optimizedGzip": 12160,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "migrena-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 18378,
+    "optimizedGzip": 24274,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "migreny/index.html",
+    "originalGzip": 6513,
+    "optimizedGzip": 12167,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "migreny-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 17152,
+    "optimizedGzip": 22816,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "moringa-neziaduce-ucinky/index.html",
+    "originalGzip": 6269,
+    "optimizedGzip": 11903,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "moringa-neziaduce-ucinky-5-dolezitych-informacii/index.html",
+    "originalGzip": 11498,
+    "optimizedGzip": 17309,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "moringa-ucinky/index.html",
+    "originalGzip": 6438,
+    "optimizedGzip": 12086,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "moringa-ucinky-5-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 18184,
+    "optimizedGzip": 24056,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "msm-prasok/index.html",
+    "originalGzip": 6444,
+    "optimizedGzip": 12087,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "msm-prasok-5-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 12737,
+    "optimizedGzip": 18530,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "na-co-sa-pouziva-pestrec-mariansky/index.html",
+    "originalGzip": 6455,
+    "optimizedGzip": 12111,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "nadmerne-potenie/index.html",
+    "originalGzip": 6300,
+    "optimizedGzip": 11941,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "nadmerne-potenie-9-tipov-na-liecbu/index.html",
+    "originalGzip": 13326,
+    "optimizedGzip": 19105,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "najlepsie-vitaminy-na-imunitu/index.html",
+    "originalGzip": 6286,
+    "optimizedGzip": 11926,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "najlepsie-vitaminy-na-imunitu-6-najdolezitejsich-vitaminov/index.html",
+    "originalGzip": 10124,
+    "optimizedGzip": 15927,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "neziaduce-ucinky-salvie/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12129,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "neziaduce-ucinky-salvie-5-dolezitych-informacii/index.html",
+    "originalGzip": 12707,
+    "optimizedGzip": 18544,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "obchod/index.html",
+    "originalGzip": 6303,
+    "optimizedGzip": 11947,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "obezita/index.html",
+    "originalGzip": 6282,
+    "optimizedGzip": 11917,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "obezita-priciny-dosledky-a-moznosti-liecby/index.html",
+    "originalGzip": 21095,
+    "optimizedGzip": 26979,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ochrana-oci/index.html",
+    "originalGzip": 6297,
+    "optimizedGzip": 11936,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ochrana-oci-ako-sa-starat-o-svoj-zrak/index.html",
+    "originalGzip": 16696,
+    "optimizedGzip": 22538,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ochrana-osobnych-udajov/index.html",
+    "originalGzip": 6191,
+    "optimizedGzip": 11826,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ocista-pecene-s-pestrecom-marianskym-ako-funguje/index.html",
+    "originalGzip": 6504,
+    "optimizedGzip": 12156,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "odkyslenie-organizmu-6-dolezitych-informacii/index.html",
+    "originalGzip": 6482,
+    "optimizedGzip": 12137,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "omega-3-epa-dha-davkovanie-a-vyber/index.html",
+    "originalGzip": 6273,
+    "optimizedGzip": 11910,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "omega-3-ucinky-epa-a-dha-davkovanie-a-ako-vybrat-rybi-olej/index.html",
+    "originalGzip": 11968,
+    "optimizedGzip": 17817,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "opunciovy-olej-ucinky-9-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 6442,
+    "optimizedGzip": 12092,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "oslabena-imunita/index.html",
+    "originalGzip": 6282,
+    "optimizedGzip": 11919,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "oslabena-imunita-tipy-a-triky-pre-zdravy-a-silny-imunitny-system/index.html",
+    "originalGzip": 9555,
+    "optimizedGzip": 15349,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "oxidacny-stres/index.html",
+    "originalGzip": 6288,
+    "optimizedGzip": 11924,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "oxidacny-stres-5-sposobov-ako-ho-zmiernit/index.html",
+    "originalGzip": 10368,
+    "optimizedGzip": 16175,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "pamat/index.html",
+    "originalGzip": 6458,
+    "optimizedGzip": 12108,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "pamat-ako-ju-zlepsit-a-udrzat-v-optimalnom-stave/index.html",
+    "originalGzip": 15913,
+    "optimizedGzip": 21502,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "pasovy-opar-3-sposoby-liecby/index.html",
+    "originalGzip": 6453,
+    "optimizedGzip": 12104,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "pat-krokov-ku-slobode-ako-sa-zotavit-zo-zavislosti/index.html",
+    "originalGzip": 6477,
+    "optimizedGzip": 12125,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "pecenova-dieta/index.html",
+    "originalGzip": 6444,
+    "optimizedGzip": 12092,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "pecenova-dieta-ako-podporit-zdravie-pecene-stravou/index.html",
+    "originalGzip": 11162,
+    "optimizedGzip": 16992,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "pestrec-mariansky-a-cierny-kmin/index.html",
+    "originalGzip": 6491,
+    "optimizedGzip": 12149,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "pestrec-mariansky-a-cierny-kmin-dar-z-prirody-pre-zdrave-telo/index.html",
+    "originalGzip": 18894,
+    "optimizedGzip": 24754,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "pestrec-mariansky-neziaduce-ucinky/index.html",
+    "originalGzip": 6453,
+    "optimizedGzip": 12105,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "pr-clanky/index.html",
+    "originalGzip": 7464,
+    "optimizedGzip": 13325,
+    "inlineBytes": 35490
+  },
+  {
+    "route": "prekyslenie-organizmu/index.html",
+    "originalGzip": 6448,
+    "optimizedGzip": 12089,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "prekyslenie-organizmu-6-dolezitych-informacii/index.html",
+    "originalGzip": 12390,
+    "optimizedGzip": 18214,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "prirodna-farba-na-vlasy/index.html",
+    "originalGzip": 6442,
+    "optimizedGzip": 12092,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "prirodna-farba-na-vlasy-6-super-tipov/index.html",
+    "originalGzip": 20093,
+    "optimizedGzip": 25985,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "prirodne-prehanadlo/index.html",
+    "originalGzip": 6473,
+    "optimizedGzip": 12120,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "prirodne-prehanadlo-7-tipov/index.html",
+    "originalGzip": 12285,
+    "optimizedGzip": 18112,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "priznaky-chripky/index.html",
+    "originalGzip": 6509,
+    "optimizedGzip": 12165,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "priznaky-chripky-8-najcastejsich-priznakov/index.html",
+    "originalGzip": 11992,
+    "optimizedGzip": 17812,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "probiotika/index.html",
+    "originalGzip": 6258,
+    "optimizedGzip": 11896,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "probiotika-6-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 11850,
+    "optimizedGzip": 17684,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "produkt/index.html",
+    "originalGzip": 6273,
+    "optimizedGzip": 11914,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "produkty/index.html",
+    "originalGzip": 9870,
+    "optimizedGzip": 16043,
+    "inlineBytes": 37436
+  },
+  {
+    "route": "prostata-a-pitie-alkoholu/index.html",
+    "originalGzip": 6457,
+    "optimizedGzip": 12105,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "prostata-a-pitie-alkoholu-preco-to-nie-je-dobry-napad/index.html",
+    "originalGzip": 8013,
+    "optimizedGzip": 13780,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "psoriaza/index.html",
+    "originalGzip": 6232,
+    "optimizedGzip": 11869,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "psoriaza-priznaky-priciny-a-liecba/index.html",
+    "originalGzip": 20346,
+    "optimizedGzip": 26203,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "psyllium/index.html",
+    "originalGzip": 6260,
+    "optimizedGzip": 11897,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "psyllium-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 15996,
+    "optimizedGzip": 21810,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "rasca-rimska/index.html",
+    "originalGzip": 6473,
+    "optimizedGzip": 12123,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "rasca-rimska-7-dolezitych-informacii/index.html",
+    "originalGzip": 19881,
+    "optimizedGzip": 25772,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "rast-svalov-ako-dosiahnut-svoje-ciele/index.html",
+    "originalGzip": 10082,
+    "optimizedGzip": 15877,
+    "inlineBytes": 35390
+  },
+  {
+    "route": "rast-svalovej-hmoty/index.html",
+    "originalGzip": 6282,
+    "optimizedGzip": 11921,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "relaxacia/index.html",
+    "originalGzip": 6258,
+    "optimizedGzip": 11894,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "relaxacia-6-tipov-na-pohodovy-relax/index.html",
+    "originalGzip": 10008,
+    "optimizedGzip": 15820,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "rhodiola-rosea/index.html",
+    "originalGzip": 6512,
+    "optimizedGzip": 12166,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "rooibos-neziaduce-ucinky/index.html",
+    "originalGzip": 6483,
+    "optimizedGzip": 12139,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "rooibos-neziaduce-ucinky-4-dolezite-informacie/index.html",
+    "originalGzip": 10590,
+    "optimizedGzip": 16399,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "rozmarinovy-olej/index.html",
+    "originalGzip": 6503,
+    "optimizedGzip": 12160,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "rozmarinovy-olej-4-super-zdravotne-ucinky/index.html",
+    "originalGzip": 18079,
+    "optimizedGzip": 23969,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "rumancek-rimsky/index.html",
+    "originalGzip": 6510,
+    "optimizedGzip": 12161,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "rumancek-rimsky-4-super-ucinky-pre-zdravie/index.html",
+    "originalGzip": 20998,
+    "optimizedGzip": 26894,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "salvia-lucna/index.html",
+    "originalGzip": 6469,
+    "optimizedGzip": 12118,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "salvia-lucna-3-super-zdravotne-ucinky/index.html",
+    "originalGzip": 17277,
+    "optimizedGzip": 23123,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "sipkovy-olej-v-tehotenstve/index.html",
+    "originalGzip": 6464,
+    "optimizedGzip": 12116,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "sipkovy-olej-v-tehotenstve-7-dolezitych-informacii/index.html",
+    "originalGzip": 11944,
+    "optimizedGzip": 17765,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "skakanie-na-svihadle/index.html",
+    "originalGzip": 6494,
+    "optimizedGzip": 12147,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "skakanie-na-svihadle-9-super-zdravotnych-vyhod/index.html",
+    "originalGzip": 19829,
+    "optimizedGzip": 25728,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "skorica-cejlonska-mleta-ucinky/index.html",
+    "originalGzip": 6466,
+    "optimizedGzip": 12119,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "skorica-cejlonska-mleta-ucinky-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 22407,
+    "optimizedGzip": 28284,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "stacionarny-bicykel-pre-seniorov/index.html",
+    "originalGzip": 6356,
+    "optimizedGzip": 11996,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "stranky/index.html",
+    "originalGzip": 5916,
+    "optimizedGzip": 11394,
+    "inlineBytes": 33872
+  },
+  {
+    "route": "stranky/kontakt/index.html",
+    "originalGzip": 6780,
+    "optimizedGzip": 12294,
+    "inlineBytes": 33960
+  },
+  {
+    "route": "stranky/ochrana-osobnych-udajov/index.html",
+    "originalGzip": 7162,
+    "optimizedGzip": 12679,
+    "inlineBytes": 33922
+  },
+  {
+    "route": "stukovatena-pecen/index.html",
+    "originalGzip": 6263,
+    "optimizedGzip": 11898,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "stukovatena-pecen-7-sposobov-liecby/index.html",
+    "originalGzip": 18984,
+    "optimizedGzip": 24852,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "su-kontaktne-sosovky-bezpecne/index.html",
+    "originalGzip": 6462,
+    "optimizedGzip": 12117,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "sucha-pokozka-hlavy/index.html",
+    "originalGzip": 6459,
+    "optimizedGzip": 12102,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "sucha-pokozka-hlavy-priciny-a-sposoby-liecby/index.html",
+    "originalGzip": 16647,
+    "optimizedGzip": 22489,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "tabletky-na-chudnutie-pre-zeny-po-40/index.html",
+    "originalGzip": 6421,
+    "optimizedGzip": 12066,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "tabletky-na-chudnutie-pre-zeny-po-40-10-dolezitych-informacii/index.html",
+    "originalGzip": 20613,
+    "optimizedGzip": 26493,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "tag/index.html",
+    "originalGzip": 6233,
+    "optimizedGzip": 11872,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "tea-tree-olej-na-mykozu-nechtov-3-dovody-preco-funguje/index.html",
+    "originalGzip": 6471,
+    "optimizedGzip": 12126,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "tekuty-glycerin-kde-kupit/index.html",
+    "originalGzip": 6495,
+    "optimizedGzip": 12150,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "tekuty-glycerin-kde-kupit-a-4-dolezite-informacie/index.html",
+    "originalGzip": 11085,
+    "optimizedGzip": 16920,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "telesny-tuk/index.html",
+    "originalGzip": 6278,
+    "optimizedGzip": 11914,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "telesny-tuk-4-super-tipy-na-znizenie-tuku/index.html",
+    "originalGzip": 15226,
+    "optimizedGzip": 20978,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "triphala-ucinky/index.html",
+    "originalGzip": 6481,
+    "optimizedGzip": 12131,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "triphala-ucinky-5-dolezitych-informacii/index.html",
+    "originalGzip": 14320,
+    "optimizedGzip": 20074,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "tyzdenny-jedalny-listok-pre-diabetikov/index.html",
+    "originalGzip": 6445,
+    "optimizedGzip": 12100,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "tyzdenny-jedalny-listok-pre-diabetikov-6-tipov-na-zdrave-snacky/index.html",
+    "originalGzip": 25656,
+    "optimizedGzip": 31447,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ucinky-goji-na-organizmus/index.html",
+    "originalGzip": 6483,
+    "optimizedGzip": 12139,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ucinky-goji-na-organizmus-7-dolezitych-informacii/index.html",
+    "originalGzip": 12127,
+    "optimizedGzip": 17943,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "ucinky-tulsi-caju/index.html",
+    "originalGzip": 6449,
+    "optimizedGzip": 12096,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "ucinky-tulsi-caju-6-super-ucinkov/index.html",
+    "originalGzip": 16179,
+    "optimizedGzip": 21891,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "unava/index.html",
+    "originalGzip": 6272,
+    "optimizedGzip": 11908,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "unava-10-super-tipov-na-zvladanie-unavy/index.html",
+    "originalGzip": 11137,
+    "optimizedGzip": 16925,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "unava-po-jedle/index.html",
+    "originalGzip": 6207,
+    "optimizedGzip": 11842,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "unava-po-jedle-priciny-a-riesenia/index.html",
+    "originalGzip": 10964,
+    "optimizedGzip": 16759,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "upchate-pory/index.html",
+    "originalGzip": 6494,
+    "optimizedGzip": 12149,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "upchate-pory-5-sposobov-liecby/index.html",
+    "originalGzip": 15926,
+    "optimizedGzip": 21653,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "valeriana-lekarska/index.html",
+    "originalGzip": 6290,
+    "optimizedGzip": 11927,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "valeriana-lekarska-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 27599,
+    "optimizedGzip": 33389,
+    "inlineBytes": 35434
+  },
+  {
+    "route": "vegetariani-vs-vegani/index.html",
+    "originalGzip": 6463,
+    "optimizedGzip": 12115,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vegetariani-vs-vegani-5-dolezitych-informacii/index.html",
+    "originalGzip": 17587,
+    "optimizedGzip": 23435,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "velmi-riedke-vlasy/index.html",
+    "originalGzip": 6469,
+    "optimizedGzip": 12119,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "velmi-riedke-vlasy-6-tipov-na-liecbu/index.html",
+    "originalGzip": 14871,
+    "optimizedGzip": 20619,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "vitamin-d3-a-k2-kedy-ma-kombinacia-zmysel-davkovanie-a-bezpecnost/index.html",
+    "originalGzip": 11625,
+    "optimizedGzip": 17457,
+    "inlineBytes": 35494
+  },
+  {
+    "route": "vitamin-d3-k2-davkovanie-bezpecnost/index.html",
+    "originalGzip": 6299,
+    "optimizedGzip": 11940,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vitaminy-na-pecen/index.html",
+    "originalGzip": 6309,
+    "optimizedGzip": 11948,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vitaminy-na-pecen-6-dolezitych-informacii/index.html",
+    "originalGzip": 18371,
+    "optimizedGzip": 24258,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "vitaminy-na-vlasy/index.html",
+    "originalGzip": 6264,
+    "optimizedGzip": 11900,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vitaminy-na-vlasy-8-dolezitych-vitaminov/index.html",
+    "originalGzip": 21770,
+    "optimizedGzip": 27640,
+    "inlineBytes": 35402
+  },
+  {
+    "route": "vlaknina-a-jej-vyznam-6-dolezitych-informacii/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12130,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vonne-oleje-do-prania/index.html",
+    "originalGzip": 6447,
+    "optimizedGzip": 12091,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vonne-oleje-do-prania-6-dolezitych-informacii/index.html",
+    "originalGzip": 16806,
+    "optimizedGzip": 22300,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "vonny-olej-proti-komarom/index.html",
+    "originalGzip": 6476,
+    "optimizedGzip": 12127,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vonny-olej-proti-komarom-4-super-tipy/index.html",
+    "originalGzip": 18830,
+    "optimizedGzip": 24695,
+    "inlineBytes": 35497
+  },
+  {
+    "route": "vsetko-co-potrebujete-vediet-o-keto-diete/index.html",
+    "originalGzip": 6459,
+    "optimizedGzip": 12114,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vypadavanie-vlasov/index.html",
+    "originalGzip": 6279,
+    "optimizedGzip": 11916,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vypadavanie-vlasov-5-tipov-na-liecbu/index.html",
+    "originalGzip": 16569,
+    "optimizedGzip": 22365,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "vysoky-krvny-tlak/index.html",
+    "originalGzip": 6275,
+    "optimizedGzip": 11909,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vysoky-krvny-tlak-5-rad-ako-ho-zlepsit/index.html",
+    "originalGzip": 23230,
+    "optimizedGzip": 29072,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "vysoky-krvny-tlak-priznaky/index.html",
+    "originalGzip": 6428,
+    "optimizedGzip": 12079,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "vysoky-krvny-tlak-priznaky-10-dolezitych-informacii/index.html",
+    "originalGzip": 17570,
+    "optimizedGzip": 23454,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "yerba-mate/index.html",
+    "originalGzip": 6273,
+    "optimizedGzip": 11911,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "yerba-mate-6-super-zdravotnych-ucinkov/index.html",
+    "originalGzip": 11399,
+    "optimizedGzip": 17206,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "zaludocna-kyselina/index.html",
+    "originalGzip": 6303,
+    "optimizedGzip": 11941,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zaludocna-kyselina-5-super-tipov-ako-ju-zmiernit/index.html",
+    "originalGzip": 11874,
+    "optimizedGzip": 17711,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zapal-dasien-priciny-priznaky-liecba-a-prevencia/index.html",
+    "originalGzip": 6500,
+    "optimizedGzip": 12155,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapal-mocovych-ciest-domaca-liecba/index.html",
+    "originalGzip": 6474,
+    "optimizedGzip": 12128,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapal-mocovych-ciest-domaca-liecba-7-dolezitych-informacii/index.html",
+    "originalGzip": 16485,
+    "optimizedGzip": 22314,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zapal-mocovych-ciest-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 6505,
+    "optimizedGzip": 12157,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapal-prostaty/index.html",
+    "originalGzip": 6450,
+    "optimizedGzip": 12101,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapal-prostaty-6-dolezitych-informacii/index.html",
+    "originalGzip": 20974,
+    "optimizedGzip": 26859,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zapalene-hrdlo/index.html",
+    "originalGzip": 6501,
+    "optimizedGzip": 12155,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapalene-hrdlo-7-dolezitych-informacii/index.html",
+    "originalGzip": 16478,
+    "optimizedGzip": 22155,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zapcha/index.html",
+    "originalGzip": 6464,
+    "optimizedGzip": 12109,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapcha-domaca-liecba/index.html",
+    "originalGzip": 6500,
+    "optimizedGzip": 12156,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zapcha-domaca-liecba-10-dolezitych-informacii/index.html",
+    "originalGzip": 18539,
+    "optimizedGzip": 24410,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zapcha-priciny-liecba-a-prevencia/index.html",
+    "originalGzip": 15594,
+    "optimizedGzip": 21230,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zasadite-potraviny/index.html",
+    "originalGzip": 6462,
+    "optimizedGzip": 12119,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zasadite-potraviny-10-dolezitych-informacii/index.html",
+    "originalGzip": 18539,
+    "optimizedGzip": 24448,
+    "inlineBytes": 35437
+  },
+  {
+    "route": "zdrave-travenie/index.html",
+    "originalGzip": 6427,
+    "optimizedGzip": 12071,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zdrave-travenie-ako-na-to/index.html",
+    "originalGzip": 21374,
+    "optimizedGzip": 27248,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zeleny-caj/index.html",
+    "originalGzip": 6243,
+    "optimizedGzip": 11875,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zeleny-caj-7-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 18957,
+    "optimizedGzip": 24860,
+    "inlineBytes": 35431
+  },
+  {
+    "route": "zeleny-jacmen/index.html",
+    "originalGzip": 6450,
+    "optimizedGzip": 12093,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zeleny-jacmen-6-super-ucinkov-pre-zdravie/index.html",
+    "originalGzip": 18074,
+    "optimizedGzip": 23976,
+    "inlineBytes": 35428
+  },
+  {
+    "route": "zlatobyl-neziaduce-ucinky-7-dolezitych-informacii/index.html",
+    "originalGzip": 6489,
+    "optimizedGzip": 12146,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "znacka/index.html",
+    "originalGzip": 6257,
+    "optimizedGzip": 11897,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zvyseny-krvny-tlak/index.html",
+    "originalGzip": 6268,
+    "optimizedGzip": 11904,
+    "inlineBytes": 34565
+  },
+  {
+    "route": "zvyseny-krvny-tlak-priciny-priznaky-a-liecba/index.html",
+    "originalGzip": 14823,
+    "optimizedGzip": 20518,
+    "inlineBytes": 35431
+  }
+]

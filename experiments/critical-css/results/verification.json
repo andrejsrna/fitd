@@ -1,0 +1,205 @@
+{
+  "reports": [
+    {
+      "width": 390,
+      "dark": false,
+      "route": "/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "dark": false,
+      "route": "/clanky/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "dark": false,
+      "route": "/clanky/omega-3-epa-dha-davkovanie-a-vyber/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 390,
+      "dark": false,
+      "route": "/stranky/kontakt/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 390,
+      "dark": true,
+      "route": "/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "dark": true,
+      "route": "/clanky/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "dark": true,
+      "route": "/clanky/omega-3-epa-dha-davkovanie-a-vyber/",
+      "changedPixels": 344683,
+      "pixels": 351000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 390,
+      "dark": true,
+      "route": "/stranky/kontakt/",
+      "changedPixels": 0,
+      "pixels": 351000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 1440,
+      "dark": false,
+      "route": "/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "dark": false,
+      "route": "/clanky/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "dark": false,
+      "route": "/clanky/omega-3-epa-dha-davkovanie-a-vyber/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 1440,
+      "dark": false,
+      "route": "/stranky/kontakt/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 1440,
+      "dark": true,
+      "route": "/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "dark": true,
+      "route": "/clanky/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "dark": true,
+      "route": "/clanky/omega-3-epa-dha-davkovanie-a-vyber/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    },
+    {
+      "width": 1440,
+      "dark": true,
+      "route": "/stranky/kontakt/",
+      "changedPixels": 0,
+      "pixels": 1296000,
+      "errors": [
+        "baseline: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+        "optimized: Minified React error #423; visit https://react.dev/errors/423 for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+      ]
+    }
+  ],
+  "performance": [
+    {
+      "variant": "baseline",
+      "run": 0,
+      "fcp": 1456,
+      "lcp": 1504,
+      "cls": 0.08133462221035137,
+      "blockingStyles": 1
+    },
+    {
+      "variant": "optimized",
+      "run": 0,
+      "fcp": 724,
+      "lcp": 724,
+      "cls": 0.08155089595204178,
+      "blockingStyles": 1
+    },
+    {
+      "variant": "baseline",
+      "run": 1,
+      "fcp": 1452,
+      "lcp": 1500,
+      "cls": 0.08133462221035137,
+      "blockingStyles": 1
+    },
+    {
+      "variant": "optimized",
+      "run": 1,
+      "fcp": 752,
+      "lcp": 752,
+      "cls": 0.08155089595204178,
+      "blockingStyles": 1
+    },
+    {
+      "variant": "baseline",
+      "run": 2,
+      "fcp": 1448,
+      "lcp": 1520,
+      "cls": 0.08133462221035137,
+      "blockingStyles": 1
+    },
+    {
+      "variant": "optimized",
+      "run": 2,
+      "fcp": 736,
+      "lcp": 736,
+      "cls": 0.08155089595204178,
+      "blockingStyles": 1
+    }
+  ]
+}
