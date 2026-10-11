@@ -9,6 +9,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const staticUrls: MetadataRoute.Sitemap = [
     {
+      url: `${siteConfig.site_domain}/pr-clanky`,
+      changeFrequency: "monthly",
+      priority: 0.5,
+    },
+    {
       url: `${siteConfig.site_domain}`,
       lastModified: new Date(),
       changeFrequency: "yearly",
