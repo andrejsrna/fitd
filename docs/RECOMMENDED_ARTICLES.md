@@ -9,11 +9,11 @@ Priebežne udržiavaný backlog tém. Pred novým článkom vždy overiť, či n
 - **Beta-alanín: prečo spôsobuje mravčenie, dávkovanie a kedy má zmysel**
 - **Vitamín D3 a K2: kedy má kombinácia zmysel, dávkovanie a bezpečnosť**
 
+- **Omega-3: účinky EPA a DHA, dávkovanie a ako vybrať rybí olej**
+
 ## Backlog
 
-1. **Omega-3: EPA a DHA, dávkovanie a výber rybieho oleja**
-   - Keyword: omega-3 EPA DHA
-   - Interné odkazy: cholesterol, zápal, športová regenerácia.
+Ďalšiu tému vybrať po kontrole aktuálneho obsahu a duplicít.
 
 ## Pravidlá kvality
 
