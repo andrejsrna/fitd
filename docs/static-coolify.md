@@ -21,6 +21,22 @@ Výstup vznikne v adresári `out/`.
 - Publish Directory: `out`
 - Is it a static site?: `yes`
 
+## Produkčná cache v Coolify
+
+Aktuálna produkčná aplikácia používa Nginx konfiguráciu z
+`deploy/static-coolify-nginx.conf`. Jej obsah nastav v Coolify ako
+**Custom Nginx Configuration**; samotný súbor v repozitári Coolify automaticky
+nenačíta. Po zmene konfigurácie aplikáciu znovu nasaď.
+
+- `/_next/static/`: `Cache-Control: public, max-age=31536000, immutable`.
+- HTML a neverzované súbory nedostávajú ročnú cache.
+- Neexistujúce build súbory vracajú 404 bez ročnej cache.
+- Cloudflare Browser Cache TTL musí rešpektovať hlavičky originu, prípadne
+  používať ročnú cache pravidlo obmedzené na `/_next/static/`.
+
+Táto konfigurácia zachováva aktuálne produkčné routovanie; nižšie uvedený
+`static-main-nginx.conf` je samostatný návrh legacy presmerovaní.
+
 ## Dôležité
 
 Legacy WordPress URL už nerieši Next middleware. Pri statickom deployi ich musí riešiť webserver.
